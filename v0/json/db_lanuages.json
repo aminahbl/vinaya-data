@@ -2,11 +2,23 @@
   "data": [
     {
       "id": "en",
-      "language": "English"
+      "language": "English",
+      "localName": "English"
     },
     {
       "id": "es",
-      "language": "Spanish"
+      "language": "Spanish",
+      "localName": "Español"
+    },
+    {
+      "id": "fi",
+      "language": "Finnish",
+      "localName": "Suomi"
+    },
+    {
+      "id": "de",
+      "language": "German",
+      "localName": "Deutsch"
     }
   ]
 }

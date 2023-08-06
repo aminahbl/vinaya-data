@@ -28,10 +28,6 @@
       "name": "pli_tv_pm_categories",
       "columns": [
         {
-          "name": "categoryId",
-          "type": "string"
-        },
-        {
           "name": "title",
           "type": "string"
         },
@@ -42,7 +38,7 @@
       ]
     },
     {
-      "name": "pli_tv_pm_translations",
+      "name": "pli_tv_pm_bi_translations",
       "columns": [
         {
           "name": "ruleId",
@@ -89,6 +85,10 @@
       "columns": [
         {
           "name": "language",
+          "type": "string"
+        },
+        {
+          "name": "localName",
           "type": "string"
         }
       ]
