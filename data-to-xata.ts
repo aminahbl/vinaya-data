@@ -1,4 +1,4 @@
-import { getXataClient } from "@xataclient";
+import { getXataClient } from "@xata";
 import data from "./v0/json";
 
 const xata = getXataClient();
