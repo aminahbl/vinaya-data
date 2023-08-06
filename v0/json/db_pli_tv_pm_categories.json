@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "id": "pj",
+      "title": "Pārājika",
+      "position": "1"
+    },
+    {
+      "id": "ss",
+      "title": "Saṅghādisesa",
+      "position": "2"
+    },
+    {
+      "id": "np",
+      "title": "Nissaggiya Pācittiya",
+      "position": "3"
+    },
+    {
+      "id": "pc",
+      "title": "Pācittiya",
+      "position": "4"
+    },
+    {
+      "id": "pd",
+      "title": "Pāṭidesanīyā",
+      "position": "5"
+    },
+    {
+      "id": "sk",
+      "title": "Sekhiyā",
+      "position": "6"
+    },
+    {
+      "id": "as",
+      "title": "Adhikaraṇasamatha",
+      "position": "7"
+    }
+  ]
+}

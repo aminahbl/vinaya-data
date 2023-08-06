@@ -1,0 +1,97 @@
+{
+  "tables": [
+    {
+      "name": "pli_tv_pm_bi_rules",
+      "columns": [
+        {
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "name": "category",
+          "type": "link",
+          "link": {
+            "table": "pli_tv_pm_categories"
+          }
+        },
+        {
+          "name": "rule",
+          "type": "text"
+        },
+        {
+          "name": "imgId",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "pli_tv_pm_categories",
+      "columns": [
+        {
+          "name": "categoryId",
+          "type": "string"
+        },
+        {
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "name": "position",
+          "type": "int"
+        }
+      ]
+    },
+    {
+      "name": "pli_tv_pm_translations",
+      "columns": [
+        {
+          "name": "ruleId",
+          "type": "link",
+          "link": {
+            "table": "pli_tv_pm_bi_rules"
+          }
+        },
+        {
+          "name": "language",
+          "type": "link",
+          "link": {
+            "table": "languages"
+          }
+        },
+        {
+          "name": "translator",
+          "type": "link",
+          "link": {
+            "table": "translators"
+          }
+        },
+        {
+          "name": "translation",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "translators",
+      "columns": [
+        {
+          "name": "name",
+          "type": "string"
+        },
+        {
+          "name": "displayName",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "languages",
+      "columns": [
+        {
+          "name": "language",
+          "type": "string"
+        }
+      ]
+    }
+  ]
+}

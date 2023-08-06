@@ -1,0 +1,2181 @@
+{
+  "data": [
+    {
+      "id": "pli-tv-bi-1-pj001",
+      "title": "Pārājika 1",
+      "category": "pj",
+      "rule": "Tatrime aṭṭha pārājikā dhammā uddesaṁ āgacchanti.",
+      "imgId": "1-pj001"
+    },
+    {
+      "id": "pli-tv-bi-1-pj002",
+      "title": "Pārājika 2",
+      "category": "pj",
+      "rule": "Yā pana bhikkhunī chandaso methunaṁ dhammaṁ paṭiseveyya, antamaso tiracchānagatenapi, pārājikā hoti asaṁvāsā.",
+      "imgId": "1-pj002"
+    },
+    {
+      "id": "pli-tv-bi-1-pj003",
+      "title": "Pārājika 3",
+      "category": "pj",
+      "rule": "Yā pana bhikkhunī gāmā vā araññā vā adinnaṁ theyyasaṅkhātaṁ ādiyeyya,  yathārūpe adinnādāne rājāno coraṁ gahetvā haneyyuṁ vā bandheyyuṁ vā pabbājeyyuṁ vā corāsi bālāsi mūḷhāsi thenāsīti, tathārūpaṁ bhikkhunī adinnaṁ ādiyamānā  ayampi pārājikā hoti asaṁvāsā.",
+      "imgId": "1-pj003"
+    },
+    {
+      "id": "pli-tv-bi-1-pj004",
+      "title": "Pārājika 4",
+      "category": "pj",
+      "rule": "Yā pana bhikkhunī sañcicca manussaviggahaṁ jīvitā voropeyya, satthahārakaṁ vāssa pariyeseyya, maraṇavaṇṇaṁ vā saṁvaṇṇeyya, maraṇāya vā samādapeyya,  “ambho purisa, kiṁ tuyhiminā pāpakena dujjīvitena, mataṁ te jīvitā seyyo”ti,  iti cittamanā cittasaṅkappā anekapariyāyena maraṇavaṇṇaṁ vā saṁvaṇṇeyya, maraṇāya vā samādapeyya,  ayampi pārājikā hoti asaṁvāsā.",
+      "imgId": "1-pj004"
+    },
+    {
+      "id": "pli-tv-bi-1-pj005",
+      "title": "Pārājika 5",
+      "category": "pj",
+      "rule": "Yā pana bhikkhunī anabhijānaṁ uttarimanussadhammaṁ attupanāyikaṁ alamariyañāṇadassanaṁ samudācareyya, “iti jānāmi, iti passāmī”ti,  tato aparena samayena samanuggāhīyamānā vā asamanuggāhīyamānā vā āpannā visuddhāpekkhā evaṁ vadeyya, “ajānamevaṁ, ayye, avacaṁ jānāmi, apassaṁ passāmi, tucchaṁ musā vilapi”nti,  aññatra adhimānā,  ayampi pārājikā hoti asaṁvāsā.",
+      "imgId": "1-pj005"
+    },
+    {
+      "id": "pli-tv-bi-1-pj006",
+      "title": "Pārājika 6",
+      "category": "pj",
+      "rule": "Yā pana bhikkhunī avassutā avassutassa purisapuggalassa, adhakkhakaṁ ubbhajāṇumaṇḍalaṁ āmasanaṁ vā parāmasanaṁ vā gahaṇaṁ vā chupanaṁ vā paṭipīḷanaṁ vā sādiyeyya, ayampi pārājikā hoti asaṁvāsā ubbhajāṇumaṇḍalikā.",
+      "imgId": "1-pj006"
+    },
+    {
+      "id": "pli-tv-bi-1-pj007",
+      "title": "Pārājika 7",
+      "category": "pj",
+      "rule": "Yā pana bhikkhunī jānaṁ pārājikaṁ dhammaṁ ajjhāpannaṁ bhikkhuniṁ nevattanā paṭicodeyya, na gaṇassa āroceyya, yadā ca sā ṭhitā vā assa cutā vā nāsitā vā avassaṭā vā, sā pacchā evaṁ vadeyya: “pubbevāhaṁ, ayye, aññāsiṁ etaṁ bhikkhuniṁ ‘evarūpā ca evarūpā ca sā bhaginī’ti, no ca kho attanā paṭicodessaṁ, na gaṇassa ārocessa”nti, ayampi pārājikā hoti asaṁvāsā vajjappaṭicchādikā.",
+      "imgId": "1-pj007"
+    },
+    {
+      "id": "pli-tv-bi-1-pj008",
+      "title": "Pārājika 8",
+      "category": "pj",
+      "rule": "Yā pana bhikkhunī samaggena saṅghena ukkhittaṁ bhikkhuṁ dhammena vinayena satthusāsanena anādaraṁ appaṭikāraṁ akatasahāyaṁ tamanuvatteyya, sā bhikkhunī bhikkhunīhi evamassa vacanīyā: “eso kho, ayye, bhikkhu samaggena saṅghena ukkhitto, dhammena vinayena satthusāsanena anādaro appaṭikāro akatasahāyo, māyye, etaṁ bhikkhuṁ anuvattī”ti,  evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṁ samanubhāsitabbā tassa paṭinissaggāya,  yāvatatiyaṁ ce samanubhāsiyamānā taṁ paṭinissajjeyya, iccetaṁ kusalaṁ,  no ce paṭinissajjeyya, ayampi pārājikā hoti asaṁvāsā ukkhittānuvattikā.",
+      "imgId": "1-pj008"
+    },
+    {
+      "id": "pli-tv-bi-2-ss001",
+      "title": "Saṅghādisesa 1",
+      "category": "ss",
+      "rule": "Yā pana bhikkhunī avassutā avassutassa purisapuggalassa hatthaggahaṇaṁ vā sādiyeyya, saṅghāṭikaṇṇaggahaṇaṁ vā sādiyeyya, santiṭṭheyya vā, sallapeyya vā, saṅketaṁ vā gaccheyya, purisassa vā abbhāgamanaṁ sādiyeyya, channaṁ vā anupaviseyya, kāyaṁ vā tadatthāya upasaṁhareyya etassa asaddhammassa paṭisevanatthāya, ayampi pārājikā hoti asaṁvāsā aṭṭhavatthukā.",
+      "imgId": "2-ss001"
+    },
+    {
+      "id": "pli-tv-bi-2-ss002",
+      "title": "Saṅghādisesa 2",
+      "category": "ss",
+      "rule": "Yā pana bhikkhunī ussayavādikā vihareyya gahapatinā vā gahapatiputtena vā dāsena vā kammakārena vā antamaso samaṇaparibbājakenāpi, ayampi bhikkhunī paṭhamāpattikaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.",
+      "imgId": "2-ss002"
+    },
+    {
+      "id": "pli-tv-bi-2-ss003",
+      "title": "Saṅghādisesa 3",
+      "category": "ss",
+      "rule": "Yā pana bhikkhunī jānaṁ coriṁ vajjhaṁ viditaṁ anapaloketvā rājānaṁ vā saṅghaṁ vā gaṇaṁ vā pūgaṁ vā seṇiṁ vā, aññatra kappā vuṭṭhāpeyya, ayampi bhikkhunī paṭhamāpattikaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.",
+      "imgId": "2-ss003"
+    },
+    {
+      "id": "pli-tv-bi-2-ss004",
+      "title": "Saṅghādisesa 4",
+      "category": "ss",
+      "rule": "Yā pana bhikkhunī ekā vā gāmantaraṁ gaccheyya, ekā vā nadīpāraṁ gaccheyya, ekā vā rattiṁ vippavaseyya, ekā vā gaṇamhā ohiyeyya, ayampi bhikkhunī paṭhamāpattikaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.",
+      "imgId": "2-ss004"
+    },
+    {
+      "id": "pli-tv-bi-2-ss005",
+      "title": "Saṅghādisesa 5",
+      "category": "ss",
+      "rule": "Yā pana bhikkhunī samaggena saṅghena ukkhittaṁ bhikkhuniṁ dhammena vinayena satthusāsanena anapaloketvā kārakasaṅghaṁ, anaññāya gaṇassa chandaṁ osāreyya, ayampi bhikkhunī paṭhamāpattikaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.",
+      "imgId": "2-ss005"
+    },
+    {
+      "id": "pli-tv-bi-2-ss006",
+      "title": "Saṅghādisesa 6",
+      "category": "ss",
+      "rule": "Yā pana bhikkhunī avassutā avassutassa purisapuggalassa hatthato khādanīyaṁ vā, bhojanīyaṁ vā sahatthā paṭiggahetvā khādeyya vā bhuñjeyya vā, ayampi bhikkhunī paṭhamāpattikaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.",
+      "imgId": "2-ss006"
+    },
+    {
+      "id": "pli-tv-bi-2-ss007",
+      "title": "Saṅghādisesa 7",
+      "category": "ss",
+      "rule": "Yā pana bhikkhunī evaṁ vadeyya: “kiṁ te, ayye, eso purisapuggalo karissati avassuto vā anavassuto vā, yato tvaṁ anavassutā, iṅgha, ayye, yaṁ te eso purisapuggalo deti khādanīyaṁ vā bhojanīyaṁ vā, taṁ tvaṁ sahatthā paṭiggahetvā khāda vā bhuñja vā”ti, ayampi bhikkhunī paṭhamāpattikaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.",
+      "imgId": "2-ss007"
+    },
+    {
+      "id": "pli-tv-bi-2-ss008",
+      "title": "Saṅghādisesa 8",
+      "category": "ss",
+      "rule": "Yā pana bhikkhunī sañcarittaṁ samāpajjeyya itthiyā vā purisamatiṁ, purisassa vā itthimatiṁ, jāyattane vā jārattane vā antamaso taṅkhaṇikāyapi, ayampi bhikkhunī paṭhamāpattikaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.",
+      "imgId": "2-ss008"
+    },
+    {
+      "id": "pli-tv-bi-2-ss009",
+      "title": "Saṅghādisesa 9",
+      "category": "ss",
+      "rule": "Yā pana bhikkhunī bhikkhuniṁ duṭṭhā dosā appatītā amūlakena pārājikena dhammena anuddhaṁseyya: “appeva nāma naṁ imamhā brahmacariyā cāveyya”nti, tato aparena samayena samanuggāhīyamānā vā asa manuggāhīyamānā vā amūlakañceva taṁ adhikaraṇaṁ hoti, bhikkhunī ca dosaṁ patiṭṭhāti, ayampi bhikkhunī paṭhamāpattikaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.",
+      "imgId": "2-ss009"
+    },
+    {
+      "id": "pli-tv-bi-2-ss010",
+      "title": "Saṅghādisesa 10",
+      "category": "ss",
+      "rule": "Yā pana bhikkhunī bhikkhuniṁ duṭṭhā dosā appatītā aññabhāgiyassa adhikaraṇassa kiñcidesaṁ lesamattaṁ upādāya pārājikena dhammena anuddhaṁseyya, “appeva nāma naṁ imamhā brahmacariyā cāveyya”nti, tato aparena samayena samanuggāhīyamānā vā asamanuggāhīyamānā vā aññabhāgiyañceva taṁ adhikaraṇaṁ hoti. Kocideso lesamatto upādinno, bhikkhunī ca dosaṁ patiṭṭhāti, ayampi bhikkhunī paṭhamāpattikaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.",
+      "imgId": "2-ss010"
+    },
+    {
+      "id": "pli-tv-bi-2-ss011",
+      "title": "Saṅghādisesa 11",
+      "category": "ss",
+      "rule": "Yā pana bhikkhunī kupitā anattamanā evaṁ vadeyya: “buddhaṁ paccācikkhāmi dhammaṁ paccācikkhāmi, saṅghaṁ paccācikkhāmi, sikkhaṁ paccācikkhāmi, kinnumāva samaṇiyo yā samaṇiyo sakyadhītaro, santaññāpi samaṇiyo lajjiniyo kukkuccikā sikkhākāmā, tāsāhaṁ santike brahmacariyaṁ carissāmī”ti. Sā bhikkhunī bhikkhunīhi evamassa vacanīyā: “māyye kupitā anattamanā evaṁ avaca ‘buddhaṁ paccācikkhāmi, dhammaṁ paccācikkhāmi, saṅghaṁ paccācikkhāmi, sikkhaṁ paccācikkhāmi, kinnumāva samaṇiyo yā samaṇiyo sakyadhītaro, santaññāpi samaṇiyo lajjiniyo kukkuccikā sikkhākāmā, tāsāhaṁ santike brahmacariyaṁ carissāmī’ti, abhiramāyye, svākkhāto dhammo, cara brahmacariyaṁ sammā dukkhassa antakiriyāyā”ti,  evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṁ samanubhāsitabbā tassa paṭinissaggāya,  yāvatatiyañce samanubhāsiyamānā taṁ paṭinissajjeyya, iccetaṁ kusalaṁ,  no ce paṭinissajjeyya, ayampi bhikkhunī yāvatatiyakaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.",
+      "imgId": "2-ss011"
+    },
+    {
+      "id": "pli-tv-bi-2-ss012",
+      "title": "Saṅghādisesa 12",
+      "category": "ss",
+      "rule": "Yā pana bhikkhunī kismiñcideva adhikaraṇe paccākatā kupitā anattamanā evaṁ vadeyya: “chandagāminiyo ca bhikkhuniyo, dosagāminiyo ca bhikkhuniyo, mohagāminiyo ca bhikkhuniyo, bhayagāminiyo ca bhikkhuniyo”ti, sā bhikkhunī bhikkhunīhi evamassa vacanīyā: “māyye, kismiñcideva adhikaraṇe paccākatā kupitā anattamanā evaṁ avaca ‘chandagāminiyo ca bhikkhuniyo, dosagāminiyo ca bhikkhuniyo, mohagāminiyo ca bhikkhuniyo, bhayagāminiyo ca bhikkhuniyo’ti, ayyā kho chandāpi gaccheyya, dosāpi gaccheyya, mohāpi gaccheyya, bhayāpi gaccheyyā”ti. Evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṁ samanubhāsitabbā tassa paṭinissaggāya,  yāvatatiyañce samanubhāsiyamānā taṁ paṭinissajjeyya, iccetaṁ kusalaṁ,  no ce paṭinissajjeyya, ayampi bhikkhunī yāvatatiyakaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.",
+      "imgId": "2-ss012"
+    },
+    {
+      "id": "pli-tv-bi-2-ss013",
+      "title": "Saṅghādisesa 13",
+      "category": "ss",
+      "rule": "Bhikkhuniyo paneva saṁsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā,  tā bhikkhuniyo bhikkhunīhi evamassu vacanīyā: “bhaginiyo kho saṁsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā,  viviccathāyye, vivekaññeva bhaginīnaṁ saṅgho vaṇṇetī”ti,  evañca tā bhikkhuniyo bhikkhunīhi vuccamānā tatheva paggaṇheyyuṁ, tā bhikkhuniyo bhikkhunīhi yāvatatiyaṁ samanubhāsitabbā tassa paṭinissaggāya,  yāvatatiyañce samanubhāsiyamānā taṁ paṭinissajjeyyuṁ, iccetaṁ kusalaṁ,  no ce paṭinissajjeyyuṁ, imāpi bhikkhuniyo yāvatatiyakaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.",
+      "imgId": "2-ss013"
+    },
+    {
+      "id": "pli-tv-bi-2-ss014",
+      "title": "Saṅghādisesa 14",
+      "category": "ss",
+      "rule": "Yā pana bhikkhunī evaṁ vadeyya: “saṁsaṭṭhāva, ayye, tumhe viharatha, mā tumhe nānā viharittha,  santi saṅghe aññāpi bhikkhuniyo evācārā evaṁsaddā evaṁsilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, tā saṅgho na kiñci āha tumhaññeva saṅgho uññāya paribhavena akkhantiyā vebhassiyā dubbalyā evamāha: ‘bhaginiyo kho saṁsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, viviccathāyye, vivekaññeva bhaginīnaṁ saṅgho vaṇṇetī”’ti,  sā bhikkhunī bhikkhunīhi evamassa vacanīyā: “māyye, evaṁ avaca,  saṁsaṭṭhāva ayye tumhe viharatha, mā tumhe nānā viharittha,  santi saṅghe aññāpi bhikkhuniyo evācārā evaṁsaddā evaṁsilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, tā saṅgho na kiñci āha, tumhaññeva saṅgho uññāya paribhavena akkhantiyā vebhassiyā dubbalyā evamāha: ‘bhaginiyo kho saṁsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, viviccathāyye, vivekaññeva bhaginīnaṁ saṅgho vaṇṇetī”’ti,  evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṁ samanubhāsitabbā tassa paṭinissaggāya,  yāvatatiyañce samanubhāsiyamānā taṁ paṭinissajjeyya, iccetaṁ kusalaṁ,  no ce paṭinissajjeyya, ayampi bhikkhunī yāvatatiyakaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.",
+      "imgId": "2-ss014"
+    },
+    {
+      "id": "pli-tv-bi-2-ss015",
+      "title": "Saṅghādisesa 15",
+      "category": "ss",
+      "rule": "Yā pana bhikkhunī samaggassa saṅghassa bhedāya parakkameyya, bhedanasaṁvattanikaṁ vā adhikaraṇaṁ samādāya paggayha tiṭṭheyya, sā bhikkhunī bhikkhunīhi evamassa vacanīyā: “māyyā, samaggassa saṅghassa bhedāya parakkami, bhedanasaṁvattanikaṁ vā adhikaraṇaṁ samādāya paggayha aṭṭhāsi,  sametāyyā, saṅghena, samaggo hi saṅgho sammodamāno avivadamāno ekuddeso phāsu viharatī”ti. Evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṁ samanubhāsitabbā tassa paṭinissaggāya,  yāvatatiyañce samanubhāsiyamānā taṁ paṭinissajjeyya, iccetaṁ kusalaṁ. No ce paṭinissajjeyya, ayampi bhikkhunī yāvatatiyakaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.",
+      "imgId": "2-ss015"
+    },
+    {
+      "id": "pli-tv-bi-2-ss016",
+      "title": "Saṅghādisesa 16",
+      "category": "ss",
+      "rule": "Tassāyeva kho pana bhikkhuniyā bhikkhuniyo honti anuvattikā vaggavādikā ekā vā dve vā tisso vā, tā evaṁ vadeyyuṁ: “māyyāyo, etaṁ bhikkhuniṁ kiñci avacuttha  dhammavādinī cesā bhikkhunī, vinayavādinī cesā bhikkhunī,  amhākañcesā bhikkhunī chandañca ruciñca ādāya voharati, jānāti, no bhāsati, amhākampetaṁ khamatī”ti,  tā bhikkhuniyo bhikkhunīhi evamassu vacanīyā: “māyyāyo, evaṁ avacuttha,  na cesā bhikkhunī dhammavādinī, na cesā bhikkhunī vinayavādinī,  māyyānampi saṅghabhedo ruccittha,  sametāyyānaṁ saṅghena, samaggo hi saṅgho sammodamāno avivadamāno ekuddeso phāsu viharatī”ti,  evañca tā bhikkhuniyo bhikkhunīhi vuccamānā tatheva paggaṇheyyuṁ, tā bhikkhuniyo bhikkhunīhi yāvatatiyaṁ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṁ paṭinissajjeyyuṁ. Iccetaṁ kusalaṁ. No ce paṭinissajjeyyuṁ, imāpi bhikkhuniyo yāvatatiyakaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.",
+      "imgId": "2-ss016"
+    },
+    {
+      "id": "pli-tv-bi-2-ss017",
+      "title": "Saṅghādisesa 17",
+      "category": "ss",
+      "rule": "Bhikkhunī paneva dubbacajātikā hoti uddesapariyāpannesu sikkhāpadesu bhikkhunīhi sahadhammikaṁ vuccamānā attānaṁ avacanīyaṁ karoti: “mā maṁ ayyāyo kiñci avacuttha kalyāṇaṁ vā pāpakaṁ vā, ahampāyyāyo, na kiñci vakkhāmi kalyāṇaṁ vā pāpakaṁ vā,  viramathāyyāyo, mama vacanāyā”ti,  sā bhikkhunī bhikkhunīhi evamassa vacanīyā: “māyyā, attānaṁ avacanīyaṁ akāsi, vacanīyameva, ayyā, attānaṁ karotu,  ayyāpi bhikkhuniyo vadatu sahadhammena, bhikkhuniyopi ayyaṁ vakkhanti sahadhammena,  evaṁ saṁvaddhā hi tassa bhagavato parisā yadidaṁ aññamaññavacanena aññamaññavuṭṭhāpanenā”ti. Evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṁ samanubhāsitabbā tassa paṭinissaggāya,  yāvatatiyañce samanubhāsiyamānā taṁ paṭinissajjeyya, iccetaṁ kusalaṁ. No ce paṭinissajjeyya, ayampi bhikkhunī yāvatatiyakaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ. Bhikkhunī paneva aññataraṁ gāmaṁ vā nigamaṁ vā upanissāya viharati kuladūsikā pāpasamācārā, tassā kho pāpakā samācārā dissanti ceva suyyanti ca, kulāni ca tāya duṭṭhāni dissanti ceva suyyanti ca,  sā bhikkhunī bhikkhunīhi evamassa vacanīyā: “ayyā, kho kuladūsikā pāpasamācārā, ayyāya kho pāpakā samācārā dissanti ceva suyyanti ca, kulāni cāyyāya, duṭṭhāni dissanti ceva suyyanti ca, pakkamatāyyā imamhā āvāsā, alaṁ te idha vāsenā”ti. Evañca sā bhikkhunī bhikkhunīhi vuccamānā tā bhikkhuniyo evaṁ vadeyya: “chandagāminiyo ca bhikkhuniyo, dosagāminiyo ca bhikkhuniyo, mohagāminiyo ca bhikkhuniyo, bhayagāminiyo ca bhikkhuniyo, tādisikāya āpattiyā ekaccaṁ pabbājenti ekaccaṁ na pabbājentī”ti,  sā bhikkhunī bhikkhunīhi evamassa vacanīyā: “māyyā, evaṁ avaca, na ca bhikkhuniyo chandagāminiyo, na ca bhikkhuniyo dosagāminiyo , na ca bhikkhuniyo mohagāminiyo, na ca bhikkhuniyo bhayagāminiyo,  ayyā kho kuladūsikā pāpasamācārā, ayyāya kho pāpakā samācārā dissanti ceva suyyanti ca, kulāni cāyyāya duṭṭhāni dissanti ceva suyyanti ca, pakkamatāyyā, imamhā āvāsā alaṁ te idha vāsenā”ti. Evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṁ samanubhāsitabbā tassa paṭinissaggāya,  yāvatatiyañce samanubhāsiyamānā taṁ paṭinissajjeyya, iccetaṁ kusalaṁ. No ce paṭinissajjeyya, ayampi bhikkhunī yāvatatiyakaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.",
+      "imgId": "2-ss017"
+    },
+    {
+      "id": "pli-tv-bi-3-np001",
+      "title": "Nissaggiya pācittiya 1",
+      "category": "np",
+      "rule": "Yā pana bhikkhunī pattasannicayaṁ kareyya, nissaggiyaṁ pācittiyaṁ.",
+      "imgId": "3-np001"
+    },
+    {
+      "id": "pli-tv-bi-3-np002",
+      "title": "Nissaggiya pācittiya 2",
+      "category": "np",
+      "rule": "Yā pana bhikkhunī akālacīvaraṁ “kālacīvara”nti adhiṭṭhahitvā bhājāpeyya, nissaggiyaṁ pācittiyaṁ.",
+      "imgId": "3-np002"
+    },
+    {
+      "id": "pli-tv-bi-3-np003",
+      "title": "Nissaggiya pācittiya 3",
+      "category": "np",
+      "rule": "Yā pana bhikkhunī bhikkhuniyā saddhiṁ cīvaraṁ parivattetvā sā pacchā evaṁ vadeyya: “handāyye, tuyhaṁ cīvaraṁ, āhara metaṁ cīvaraṁ, yaṁ tuyhaṁ tuyhamevetaṁ, yaṁ mayhaṁ mayhamevetaṁ, āhara metaṁ cīvaraṁ, sakaṁ paccāharā”ti acchindeyya vā acchindāpeyya vā, nissaggiyaṁ pācittiyaṁ.",
+      "imgId": "3-np003"
+    },
+    {
+      "id": "pli-tv-bi-3-np004",
+      "title": "Nissaggiya pācittiya 4",
+      "category": "np",
+      "rule": "Yā pana bhikkhunī aññaṁ viññāpetvā aññaṁ viññāpeyya, nissaggiyaṁ pācittiyaṁ.",
+      "imgId": "3-np004"
+    },
+    {
+      "id": "pli-tv-bi-3-np005",
+      "title": "Nissaggiya pācittiya 5",
+      "category": "np",
+      "rule": "Yā pana bhikkhunī aññaṁ cetāpetvā aññaṁ cetāpeyya, nissaggiyaṁ pācittiyaṁ.",
+      "imgId": "3-np005"
+    },
+    {
+      "id": "pli-tv-bi-3-np006",
+      "title": "Nissaggiya pācittiya 6",
+      "category": "np",
+      "rule": "Yā pana bhikkhunī aññadatthikena parikkhārena aññuddisikena saṅghikena aññaṁ cetāpeyya, nissaggiyaṁ pācittiyaṁ.",
+      "imgId": "3-np006"
+    },
+    {
+      "id": "pli-tv-bi-3-np007",
+      "title": "Nissaggiya pācittiya 7",
+      "category": "np",
+      "rule": "Yā pana bhikkhunī aññadatthikena parikkhārena aññuddisikena saṅghikena saññācikena aññaṁ cetāpeyya, nissaggiyaṁ pācittiyaṁ.",
+      "imgId": "3-np007"
+    },
+    {
+      "id": "pli-tv-bi-3-np008",
+      "title": "Nissaggiya pācittiya 8",
+      "category": "np",
+      "rule": "Yā pana bhikkhunī aññadatthikena parikkhārena aññuddisikena mahājanikena aññaṁ cetāpeyya, nissaggiyaṁ pācittiyaṁ.",
+      "imgId": "3-np008"
+    },
+    {
+      "id": "pli-tv-bi-3-np009",
+      "title": "Nissaggiya pācittiya 9",
+      "category": "np",
+      "rule": "Yā pana bhikkhunī aññadatthikena parikkhārena aññuddisikena mahājanikena saññācikena aññaṁ cetāpeyya, nissaggiyaṁ pācittiyaṁ.",
+      "imgId": "3-np009"
+    },
+    {
+      "id": "pli-tv-bi-3-np010",
+      "title": "Nissaggiya pācittiya 10",
+      "category": "np",
+      "rule": "Yā pana bhikkhunī aññadatthikena parikkhārena aññuddisikena puggalikena saññācikena aññaṁ cetāpeyya, nissaggiyaṁ pācittiyaṁ.",
+      "imgId": "3-np010"
+    },
+    {
+      "id": "pli-tv-bi-3-np011",
+      "title": "Nissaggiya pācittiya 11",
+      "category": "np",
+      "rule": "Garupāvuraṇaṁ pana bhikkhuniyā cetāpentiyā catukkaṁsaparamaṁ cetāpetabbaṁ. Tato ce uttari cetāpeyya, nissaggiyaṁ pācittiyaṁ.",
+      "imgId": "3-np011"
+    },
+    {
+      "id": "pli-tv-bi-3-np012",
+      "title": "Nissaggiya pācittiya 12",
+      "category": "np",
+      "rule": "Lahupāvuraṇaṁ pana bhikkhuniyā cetāpentiyā aḍḍhateyyakaṁsaparamaṁ cetāpetabbaṁ. Tato ce uttari cetāpeyya, nissaggiyaṁ pācittiyaṁ.",
+      "imgId": "3-np012"
+    },
+    {
+      "id": "pli-tv-bi-3-np013",
+      "title": "Nissaggiya pācittiya 13",
+      "category": "np",
+      "rule": "Niṭṭhitacīvarasmiṁ bhikkhuniyā ubbhatasmiṁ kathine dasāhaparamaṁ atirekacīvaraṁ dhāretabbaṁ. Taṁ atikkāmentiyā, nissaggiyaṁ pācittiyaṁ.",
+      "imgId": "3-np013"
+    },
+    {
+      "id": "pli-tv-bi-3-np014",
+      "title": "Nissaggiya pācittiya 14",
+      "category": "np",
+      "rule": "Niṭṭhitacīvarasmiṁ bhikkhuniyā ubbhatasmiṁ kathine ekarattampi ce bhikkhunī ticīvarena vippavaseyya, aññatra bhikkhunisammutiyā nissaggiyaṁ pācittiyaṁ.",
+      "imgId": "3-np014"
+    },
+    {
+      "id": "pli-tv-bi-3-np015",
+      "title": "Nissaggiya pācittiya 15",
+      "category": "np",
+      "rule": "Niṭṭhitacīvarasmiṁ bhikkhuniyā ubbhatasmiṁ kathine bhikkhuniyā paneva akālacīvaraṁ uppajjeyya, ākaṅkhamānāya bhikkhuniyā paṭiggahetabbaṁ,  paṭiggahetvā khippameva kāretabbaṁ,  no cassa pāripūri, māsaparamaṁ tāya bhikkhuniyā taṁ cīvaraṁ nikkhipitabbaṁ ūnassa pāripūriyā satiyā paccāsāya. Tato ce uttari nikkhipeyya satiyāpi paccāsāya, nissaggiyaṁ pācittiyaṁ.",
+      "imgId": "3-np015"
+    },
+    {
+      "id": "pli-tv-bi-3-np016",
+      "title": "Nissaggiya pācittiya 16",
+      "category": "np",
+      "rule": "Yā pana bhikkhunī aññātakaṁ gahapatiṁ vā gahapatāniṁ vā cīvaraṁ viññāpeyya aññatra samayā, nissaggiyaṁ pācittiyaṁ. Tatthāyaṁ samayo acchinnacīvarā vā hoti bhikkhunī, naṭṭhacīvarā vā, ayaṁ tattha samayo.",
+      "imgId": "3-np016"
+    },
+    {
+      "id": "pli-tv-bi-3-np017",
+      "title": "Nissaggiya pācittiya 17",
+      "category": "np",
+      "rule": "Tañce aññātako gahapati vā gahapatānī vā bahūhi cīvarehi abhihaṭṭhuṁ pavāreyya, santaruttaraparamaṁ tāya bhikkhuniyā tato cīvaraṁ sāditabbaṁ. Tato ce uttari sādiyeyya, nissaggiyaṁ pācittiyaṁ.",
+      "imgId": "3-np017"
+    },
+    {
+      "id": "pli-tv-bi-3-np018",
+      "title": "Nissaggiya pācittiya 18",
+      "category": "np",
+      "rule": "Bhikkhuniṁ paneva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpannaṁ upakkhaṭaṁ hoti: “iminā cīvaracetāpannena cīvaraṁ cetāpetvā itthannāmaṁ bhikkhuniṁ cīvarena acchādessāmī”ti. Tatra cesā bhikkhunī pubbe appavāritā upasaṅkamitvā cīvare vikappaṁ āpajjeyya: “sādhu vata, maṁ āyasmā iminā cīvaracetāpannena evarūpaṁ vā evarūpaṁ vā cīvaraṁ cetāpetvā acchādehī”ti  kalyāṇakamyataṁ upādāya, nissaggiyaṁ pācittiyaṁ.",
+      "imgId": "3-np018"
+    },
+    {
+      "id": "pli-tv-bi-3-np019",
+      "title": "Nissaggiya pācittiya 19",
+      "category": "np",
+      "rule": "Bhikkhuniṁ paneva uddissa ubhinnaṁ aññātakānaṁ gahapatīnaṁ vā gahapatānīnaṁ vā paccekacīvaracetāpannāni upakkhaṭāni honti: “imehi mayaṁ paccekacīvaracetāpannehi paccekacīvarāni cetāpetvā itthannāmaṁ bhikkhuniṁ cīvarehi acchādessāmā”ti. Tatra cesā bhikkhūnī pubbe appavāritā upasaṅkamitvā cīvare vikappaṁ āpajjeyya: “sādhu vata maṁ āyasmanto imehi paccekacīvaracetāpannehi evarūpaṁ vā evarūpaṁ vā cīvaraṁ cetāpetvā acchādetha ubhova santā ekenā”ti  kalyāṇakamyataṁ upādāya, nissaggiyaṁ pācittiyaṁ.",
+      "imgId": "3-np019"
+    },
+    {
+      "id": "pli-tv-bi-3-np020",
+      "title": "Nissaggiya pācittiya 20",
+      "category": "np",
+      "rule": "Bhikkhuniṁ paneva uddissa rājā vā rājabhoggo vā brāhmaṇo vā gahapatiko vā dūtena cīvaracetāpannaṁ pahiṇeyya: “iminā cīvaracetāpannena cīvaraṁ cetāpetvā itthannāmaṁ bhikkhuniṁ cīvarena acchādehī”ti. So ce dūto taṁ bhikkhuniṁ upasaṅkamitvā evaṁ vadeyya: “idaṁ kho, ayye, ayyaṁ uddissa cīvaracetāpannaṁ ābhataṁ, paṭiggaṇhātāyyā cīvaracetāpanna”nti. Tāya bhikkhuniyā so dūto evamassa vacanīyo: “na kho mayaṁ, āvuso, cīvaracetāpannaṁ paṭiggaṇhāma, cīvarañca kho mayaṁ paṭiggaṇhāma kālena kappiya”nti. So ce dūto taṁ bhikkhuniṁ evaṁ vadeyya: “atthi panāyyāya, koci veyyāvaccakaro”ti,  cīvaratthikāya, bhikkhave, bhikkhuniyā veyyāvaccakaro niddisitabbo ārāmiko vā upāsako vā: “eso kho, āvuso, bhikkhunīnaṁ veyyāvaccakaro”ti. So ce dūto taṁ veyyāvaccakaraṁ saññāpetvā taṁ bhikkhuniṁ upasaṅkamitvā evaṁ vadeyya: “yaṁ kho, ayye, ayyā veyyāvaccakaraṁ niddisi, saññatto so mayā, upasaṅkamatāyyā kālena, cīvarena taṁ acchādessatī”ti. Cīvaratthikāya, bhikkhave, bhikkhuniyā veyyāvaccakaro upasaṅkamitvā dvattikkhattuṁ codetabbo sāretabbo: “attho me, āvuso, cīvarenā”ti,  dvattikkhattuṁ codayamānā sārayamānā taṁ cīvaraṁ abhinipphādeyya, iccetaṁ kusalaṁ,  no ce abhinipphādeyya, catukkhattuṁ pañcakkhattuṁ chakkhattuparamaṁ tuṇhībhūtāya uddissa ṭhātabbaṁ,  catukkhattuṁ pañcakkhattuṁ chakkhattuparamaṁ tuṇhībhūtā uddissa tiṭṭhamānā taṁ cīvaraṁ abhinipphādeyya, iccetaṁ kusalaṁ. Tato ce uttari vāyamamānā taṁ cīvaraṁ abhinipphādeyya, nissaggiyaṁ pācittiyaṁ. No ce abhinipphādeyya, yatassā cīvaracetāpannaṁ ābhataṁ, tattha sāmaṁ vā gantabbaṁ, dūto vā pāhetabbo: “yaṁ kho tumhe āyasmanto bhikkhuniṁ uddissa cīvaracetāpannaṁ pahiṇittha, na taṁ tassā bhikkhuniyā kiñci atthaṁ anubhoti,  yuñjantāyasmanto sakaṁ, mā vo sakaṁ vinassā”ti,  ayaṁ tattha sāmīci.",
+      "imgId": "3-np020"
+    },
+    {
+      "id": "pli-tv-bi-3-np021",
+      "title": "Nissaggiya pācittiya 21",
+      "category": "np",
+      "rule": "Yā pana bhikkhunī jātarūparajataṁ uggaṇheyya vā uggaṇhāpeyya vā upanikkhittaṁ vā sādiyeyya, nissaggiyaṁ pācittiyaṁ.",
+      "imgId": "3-np021"
+    },
+    {
+      "id": "pli-tv-bi-3-np022",
+      "title": "Nissaggiya pācittiya 22",
+      "category": "np",
+      "rule": "Yā pana bhikkhunī nānappakārakaṁ rūpiyasaṁvohāraṁ samāpajjeyya, nissaggiyaṁ pācittiyaṁ.",
+      "imgId": "3-np022"
+    },
+    {
+      "id": "pli-tv-bi-3-np023",
+      "title": "Nissaggiya pācittiya 23",
+      "category": "np",
+      "rule": "Yā pana bhikkhunī nānappakārakaṁ kayavikkayaṁ samāpajjeyya, nissaggiyaṁ pācittiyaṁ.",
+      "imgId": "3-np023"
+    },
+    {
+      "id": "pli-tv-bi-3-np024",
+      "title": "Nissaggiya pācittiya 24",
+      "category": "np",
+      "rule": "Yā pana bhikkhunī ūnapañcabandhanena pattena aññaṁ navaṁ pattaṁ cetāpeyya, nissaggiyaṁ pācittiyaṁ. Tāya bhikkhuniyā so patto bhikkhuniparisāya nissajjitabbo,  yo ca tassā bhikkhuniparisāya pattapariyanto, so tassā bhikkhuniyā padātabbo: “ayaṁ te bhikkhuni patto yāvabhedanāya dhāretabbo”ti, ayaṁ tattha sāmīci.",
+      "imgId": "3-np024"
+    },
+    {
+      "id": "pli-tv-bi-3-np025",
+      "title": "Nissaggiya pācittiya 25",
+      "category": "np",
+      "rule": "Yāni kho pana tāni gilānānaṁ bhikkhunīnaṁ paṭisāyanīyāni bhesajjāni, seyyathidaṁ: sappi navanītaṁ telaṁ madhu phāṇitaṁ, tāni paṭiggahetvā sattāhaparamaṁ sannidhikārakaṁ paribhuñjitabbāni. Taṁ atikkāmentiyā, nissaggiyaṁ pācittiyaṁ.",
+      "imgId": "3-np025"
+    },
+    {
+      "id": "pli-tv-bi-3-np026",
+      "title": "Nissaggiya pācittiya 26",
+      "category": "np",
+      "rule": "Yā pana bhikkhunī bhikkhuniyā sāmaṁ cīvaraṁ datvā kupitā anattamanā acchindeyya vā acchindāpeyya vā, nissaggiyaṁ pācittiyaṁ.",
+      "imgId": "3-np026"
+    },
+    {
+      "id": "pli-tv-bi-3-np027",
+      "title": "Nissaggiya pācittiya 27",
+      "category": "np",
+      "rule": "Yā pana bhikkhunī sāmaṁ suttaṁ viññāpetvā tantavāyehi cīvaraṁ vāyāpeyya, nissaggiyaṁ pācittiyaṁ.",
+      "imgId": "3-np027"
+    },
+    {
+      "id": "pli-tv-bi-3-np028",
+      "title": "Nissaggiya pācittiya 28",
+      "category": "np",
+      "rule": "Bhikkhuniṁ paneva uddissa aññātako gahapati vā gahapatānī vā tantavāyehi cīvaraṁ vāyāpeyya, tatra cesā bhikkhunī pubbe appavāritā tantavāye upasaṅkamitvā cīvare vikappaṁ āpajjeyya: “idaṁ kho āvuso cīvaraṁ maṁ uddissa viyyati, āyatañca karotha, vitthatañca appitañca suvītañca suppavāyitañca suvilekhitañca suvitacchitañca karotha,  appeva nāma mayampi āyasmantānaṁ kiñcimattaṁ anupadajjeyyāmā”ti,  evañca sā bhikkhunī vatvā kiñcimattaṁ anupadajjeyya antamaso piṇḍapātamattampi, nissaggiyaṁ pācittiyaṁ.",
+      "imgId": "3-np028"
+    },
+    {
+      "id": "pli-tv-bi-3-np029",
+      "title": "Nissaggiya pācittiya 29",
+      "category": "np",
+      "rule": "Dasāhānāgataṁ kattikatemāsikapuṇṇamaṁ bhikkhuniyā paneva accekacīvaraṁ uppajjeyya, accekaṁ maññamānāya bhikkhuniyā paṭiggahetabbaṁ, paṭiggahetvā yāva cīvarakālasamayaṁ nikkhipitabbaṁ. Tato ce uttari nikkhipeyya, nissaggiyaṁ pācittiyaṁ.",
+      "imgId": "3-np029"
+    },
+    {
+      "id": "pli-tv-bi-3-np030",
+      "title": "Nissaggiya pācittiya 30",
+      "category": "np",
+      "rule": "Yā pana bhikkhunī jānaṁ saṅghikaṁ lābhaṁ pariṇataṁ attano pariṇāmeyya, nissaggiyaṁ pācittiyaṁ.",
+      "imgId": "3-np030"
+    },
+    {
+      "id": "pli-tv-bi-4-pc001",
+      "title": "Pācittiya 1",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī lasuṇaṁ khādeyya pācittiyaṁ.",
+      "imgId": "4-pc001"
+    },
+    {
+      "id": "pli-tv-bi-4-pc002",
+      "title": "Pācittiya 2",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī sambādhe lomaṁ saṁharāpeyya, pācittiyaṁ.",
+      "imgId": "4-pc002"
+    },
+    {
+      "id": "pli-tv-bi-4-pc003",
+      "title": "Pācittiya 3",
+      "category": "pc",
+      "rule": "Talaghātake pācittiyaṁ.",
+      "imgId": "4-pc003"
+    },
+    {
+      "id": "pli-tv-bi-4-pc004",
+      "title": "Pācittiya 4",
+      "category": "pc",
+      "rule": "Jatumaṭṭhake pācittiyaṁ.",
+      "imgId": "4-pc004"
+    },
+    {
+      "id": "pli-tv-bi-4-pc005",
+      "title": "Pācittiya 5",
+      "category": "pc",
+      "rule": "Udakasuddhikaṁ pana bhikkhuniyā ādiyamānāya dvaṅgulapabbaparamaṁ ādātabbaṁ. Taṁ atikkāmentiyā pācittiyaṁ.",
+      "imgId": "4-pc005"
+    },
+    {
+      "id": "pli-tv-bi-4-pc006",
+      "title": "Pācittiya 6",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī bhikkhussa bhuñjantassa pānīyena vā vidhūpanena vā upatiṭṭheyya, pācittiyaṁ.",
+      "imgId": "4-pc006"
+    },
+    {
+      "id": "pli-tv-bi-4-pc007",
+      "title": "Pācittiya 7",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī āmakadhaññaṁ viññatvā vā viññāpetvā vā bhajjitvā vā bhajjāpetvā vā koṭṭetvā vā koṭṭāpetvā vā pacitvā vā pacāpetvā vā bhuñjeyya, pācittiyaṁ.",
+      "imgId": "4-pc007"
+    },
+    {
+      "id": "pli-tv-bi-4-pc008",
+      "title": "Pācittiya 8",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī uccāraṁ vā passāvaṁ vā saṅkāraṁ vā vighāsaṁ vā tirokuṭṭe vā tiropākāre vā chaḍḍeyya vā chaḍḍāpeyya vā, pācittiyaṁ.",
+      "imgId": "4-pc008"
+    },
+    {
+      "id": "pli-tv-bi-4-pc009",
+      "title": "Pācittiya 9",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī uccāraṁ vā passāvaṁ vā saṅkāraṁ vā vighāsaṁ vā harite chaḍḍeyya vā chaḍḍāpeyya vā, pācittiyaṁ.",
+      "imgId": "4-pc009"
+    },
+    {
+      "id": "pli-tv-bi-4-pc010",
+      "title": "Pācittiya 10",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī naccaṁ vā gītaṁ vā vāditaṁ vā dassanāya gaccheyya, pācittiyaṁ.",
+      "imgId": "4-pc010"
+    },
+    {
+      "id": "pli-tv-bi-4-pc011",
+      "title": "Pācittiya 11",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī rattandhakāre appadīpe purisena saddhiṁ ekenekā santiṭṭheyya vā sallapeyya vā, pācittiyaṁ.",
+      "imgId": "4-pc011"
+    },
+    {
+      "id": "pli-tv-bi-4-pc012",
+      "title": "Pācittiya 12",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī paṭicchanne okāse purisena saddhiṁ ekenekā santiṭṭheyya vā sallapeyya vā, pācittiyaṁ.",
+      "imgId": "4-pc012"
+    },
+    {
+      "id": "pli-tv-bi-4-pc013",
+      "title": "Pācittiya 13",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī ajjhokāse purisena saddhiṁ ekenekā santiṭṭheyya vā sallapeyya vā, pācittiyaṁ.",
+      "imgId": "4-pc013"
+    },
+    {
+      "id": "pli-tv-bi-4-pc014",
+      "title": "Pācittiya 14",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī rathikāya vā byūhe vā siṅghāṭake vā purisena saddhiṁ ekenekā santiṭṭheyya vā sallapeyya vā nikaṇṇikaṁ vā jappeyya dutiyikaṁ vā bhikkhuniṁ uyyojeyya, pācittiyaṁ.",
+      "imgId": "4-pc014"
+    },
+    {
+      "id": "pli-tv-bi-4-pc015",
+      "title": "Pācittiya 15",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī purebhattaṁ kulāni upasaṅkamitvā āsane nisīditvā sāmike anāpucchā pakkameyya, pācittiyaṁ.",
+      "imgId": "4-pc015"
+    },
+    {
+      "id": "pli-tv-bi-4-pc016",
+      "title": "Pācittiya 16",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī pacchābhattaṁ kulāni upasaṅkamitvā sāmike anāpucchā āsane abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṁ.",
+      "imgId": "4-pc016"
+    },
+    {
+      "id": "pli-tv-bi-4-pc017",
+      "title": "Pācittiya 17",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī vikāle kulāni upasaṅkamitvā sāmike anāpucchā seyyaṁ santharitvā vā santharāpetvā vā abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṁ.",
+      "imgId": "4-pc017"
+    },
+    {
+      "id": "pli-tv-bi-4-pc018",
+      "title": "Pācittiya 18",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī duggahitena dūpadhāritena paraṁ ujjhāpeyya, pācittiyaṁ.",
+      "imgId": "4-pc018"
+    },
+    {
+      "id": "pli-tv-bi-4-pc019",
+      "title": "Pācittiya 19",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī attānaṁ vā paraṁ vā nirayena vā brahmacariyena vā abhisapeyya, pācittiyaṁ.",
+      "imgId": "4-pc019"
+    },
+    {
+      "id": "pli-tv-bi-4-pc020",
+      "title": "Pācittiya 20",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī attānaṁ vadhitvā vadhitvā rodeyya, pācittiyaṁ.",
+      "imgId": "4-pc020"
+    },
+    {
+      "id": "pli-tv-bi-4-pc021",
+      "title": "Pācittiya 21",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī naggā nahāyeyya, pācittiyaṁ.",
+      "imgId": "4-pc021"
+    },
+    {
+      "id": "pli-tv-bi-4-pc022",
+      "title": "Pācittiya 22",
+      "category": "pc",
+      "rule": "Udakasāṭikaṁ pana bhikkhuniyā kārayamānāya pamāṇikā kāretabbā, tatridaṁ pamāṇaṁ, dīghaso catasso vidatthiyo sugatavidatthiyā, tiriyaṁ dve vidatthiyo. Taṁ atikkāmentiyā chedanakaṁ pācittiyaṁ.",
+      "imgId": "4-pc022"
+    },
+    {
+      "id": "pli-tv-bi-4-pc023",
+      "title": "Pācittiya 23",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī bhikkhuniyā cīvaraṁ visibbetvā vā visibbāpetvā vā sā pacchā anantarāyikinī neva sibbeyya, na sibbāpanāya ussukkaṁ kareyya aññatra catūhapañcāhā, pācittiyaṁ.",
+      "imgId": "4-pc023"
+    },
+    {
+      "id": "pli-tv-bi-4-pc024",
+      "title": "Pācittiya 24",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī pañcāhikaṁ saṅghāṭicāraṁ atikkāmeyya, pācittiyaṁ.",
+      "imgId": "4-pc024"
+    },
+    {
+      "id": "pli-tv-bi-4-pc025",
+      "title": "Pācittiya 25",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī cīvarasaṅkamanīyaṁ dhāreyya, pācittiyaṁ.",
+      "imgId": "4-pc025"
+    },
+    {
+      "id": "pli-tv-bi-4-pc026",
+      "title": "Pācittiya 26",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī gaṇassa cīvaralābhaṁ antarāyaṁ kareyya, pācittiyaṁ.",
+      "imgId": "4-pc026"
+    },
+    {
+      "id": "pli-tv-bi-4-pc027",
+      "title": "Pācittiya 27",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī dhammikaṁ cīvaravibhaṅgaṁ paṭibāheyya, pācittiyaṁ.",
+      "imgId": "4-pc027"
+    },
+    {
+      "id": "pli-tv-bi-4-pc028",
+      "title": "Pācittiya 28",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī agārikassa vā paribbājakassa vā paribbājikāya vā samaṇacīvaraṁ dadeyya, pācittiyaṁ.",
+      "imgId": "4-pc028"
+    },
+    {
+      "id": "pli-tv-bi-4-pc029",
+      "title": "Pācittiya 29",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī dubbalacīvarapaccāsāya cīvarakālasamayaṁ atikkāmeyya, pācittiyaṁ.",
+      "imgId": "4-pc029"
+    },
+    {
+      "id": "pli-tv-bi-4-pc030",
+      "title": "Pācittiya 30",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī dhammikaṁ kathinuddhāraṁ paṭibāheyya, pācittiyaṁ.",
+      "imgId": "4-pc030"
+    },
+    {
+      "id": "pli-tv-bi-4-pc031",
+      "title": "Pācittiya 31",
+      "category": "pc",
+      "rule": "Yā pana bhikkhuniyo dve ekamañce tuvaṭṭeyyuṁ, pācittiyaṁ.",
+      "imgId": "4-pc031"
+    },
+    {
+      "id": "pli-tv-bi-4-pc032",
+      "title": "Pācittiya 32",
+      "category": "pc",
+      "rule": "Yā pana bhikkhuniyo dve ekattharaṇapāvuraṇā tuvaṭṭeyyuṁ, pācittiyaṁ.",
+      "imgId": "4-pc032"
+    },
+    {
+      "id": "pli-tv-bi-4-pc033",
+      "title": "Pācittiya 33",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī bhikkhuniyā sañcicca aphāsuṁ kareyya, pācittiyaṁ.",
+      "imgId": "4-pc033"
+    },
+    {
+      "id": "pli-tv-bi-4-pc034",
+      "title": "Pācittiya 34",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī dukkhitaṁ sahajīviniṁ neva upaṭṭhaheyya, na upaṭṭhāpanāya ussukkaṁ kareyya, pācittiyaṁ.",
+      "imgId": "4-pc034"
+    },
+    {
+      "id": "pli-tv-bi-4-pc035",
+      "title": "Pācittiya 35",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī bhikkhuniyā upassayaṁ datvā kupitā anattamanā nikkaḍḍheyya vā nikkaḍḍhāpeyya vā, pācittiyaṁ.",
+      "imgId": "4-pc035"
+    },
+    {
+      "id": "pli-tv-bi-4-pc036",
+      "title": "Pācittiya 36",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī saṁsaṭṭhā vihareyya gahapatinā vā gahapatiputtena vā, sā bhikkhunī bhikkhunīhi evamassa vacanīyā: “māyye, saṁsaṭṭhā vihari gahapatināpi gahapatiputtenāpi, viviccāyye, vivekaññeva bhaginiyā saṅgho vaṇṇetī”ti. Evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṁ samanubhāsitabbā tassa paṭinissaggāya,  yāvatatiyañce samanubhāsiyamānā taṁ paṭinissajjeyya, iccetaṁ kusalaṁ. No ce paṭinissajjeyya, pācittiyaṁ.",
+      "imgId": "4-pc036"
+    },
+    {
+      "id": "pli-tv-bi-4-pc037",
+      "title": "Pācittiya 37",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī antoraṭṭhe sāsaṅkasammate sappaṭibhaye asatthikā cārikaṁ careyya, pācittiyaṁ.",
+      "imgId": "4-pc037"
+    },
+    {
+      "id": "pli-tv-bi-4-pc038",
+      "title": "Pācittiya 38",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī tiroraṭṭhe sāsaṅkasammate sappaṭibhaye asatthikā cārikaṁ careyya, pācittiyaṁ.",
+      "imgId": "4-pc038"
+    },
+    {
+      "id": "pli-tv-bi-4-pc039",
+      "title": "Pācittiya 39",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī antovassaṁ cārikaṁ careyya, pācittiyaṁ.",
+      "imgId": "4-pc039"
+    },
+    {
+      "id": "pli-tv-bi-4-pc040",
+      "title": "Pācittiya 40",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī vassaṁvuṭṭhā cārikaṁ na pakkameyya antamaso chappañcayojanānipi, pācittiyaṁ.",
+      "imgId": "4-pc040"
+    },
+    {
+      "id": "pli-tv-bi-4-pc041",
+      "title": "Pācittiya 41",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī rājāgāraṁ vā cittāgāraṁ vā ārāmaṁ vā uyyānaṁ vā pokkharaṇiṁ vā dassanāya gaccheyya, pācittiyaṁ.",
+      "imgId": "4-pc041"
+    },
+    {
+      "id": "pli-tv-bi-4-pc042",
+      "title": "Pācittiya 42",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī āsandiṁ vā pallaṅkaṁ vā paribhuñjeyya, pācittiyaṁ.",
+      "imgId": "4-pc042"
+    },
+    {
+      "id": "pli-tv-bi-4-pc043",
+      "title": "Pācittiya 43",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī suttaṁ kanteyya, pācittiyaṁ.",
+      "imgId": "4-pc043"
+    },
+    {
+      "id": "pli-tv-bi-4-pc044",
+      "title": "Pācittiya 44",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī gihiveyyāvaccaṁ kareyya, pācittiyaṁ.",
+      "imgId": "4-pc044"
+    },
+    {
+      "id": "pli-tv-bi-4-pc045",
+      "title": "Pācittiya 45",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī bhikkhuniyā: “ehāyye, imaṁ adhikaraṇaṁ vūpasamehī”ti vuccamānā: “sādhū”ti paṭissuṇitvā sā pacchā anantarāyikinī neva vūpasameyya, na vūpasamāya ussukkaṁ kareyya, pācittiyaṁ.",
+      "imgId": "4-pc045"
+    },
+    {
+      "id": "pli-tv-bi-4-pc046",
+      "title": "Pācittiya 46",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī agārikassa vā paribbājakassa vā paribbājikāya vā sahatthā khādanīyaṁ vā bhojanīyaṁ vā dadeyya, pācittiyaṁ.",
+      "imgId": "4-pc046"
+    },
+    {
+      "id": "pli-tv-bi-4-pc047",
+      "title": "Pācittiya 47",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī āvasathacīvaraṁ anissajjetvā paribhuñjeyya, pācittiyaṁ.",
+      "imgId": "4-pc047"
+    },
+    {
+      "id": "pli-tv-bi-4-pc048",
+      "title": "Pācittiya 48",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī āvasathaṁ anissajjitvā cārikaṁ pakkameyya, pācittiyaṁ.",
+      "imgId": "4-pc048"
+    },
+    {
+      "id": "pli-tv-bi-4-pc049",
+      "title": "Pācittiya 49",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī tiracchānavijjaṁ pariyāpuṇeyya, pācittiyaṁ.",
+      "imgId": "4-pc049"
+    },
+    {
+      "id": "pli-tv-bi-4-pc050",
+      "title": "Pācittiya 50",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī tiracchānavijjaṁ vāceyya, pācittiyaṁ.",
+      "imgId": "4-pc050"
+    },
+    {
+      "id": "pli-tv-bi-4-pc051",
+      "title": "Pācittiya 51",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī jānaṁ sabhikkhukaṁ ārāmaṁ anāpucchā paviseyya, pācittiyaṁ.",
+      "imgId": "4-pc051"
+    },
+    {
+      "id": "pli-tv-bi-4-pc052",
+      "title": "Pācittiya 52",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī bhikkhuṁ akkoseyya vā paribhāseyya vā, pācittiyaṁ.",
+      "imgId": "4-pc052"
+    },
+    {
+      "id": "pli-tv-bi-4-pc053",
+      "title": "Pācittiya 53",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī caṇḍīkatā gaṇaṁ paribhāseyya, pācittiyaṁ.",
+      "imgId": "4-pc053"
+    },
+    {
+      "id": "pli-tv-bi-4-pc054",
+      "title": "Pācittiya 54",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī nimantitā vā pavāritā vā khādanīyaṁ vā bhojanīyaṁ vā khādeyya vā bhuñjeyya vā, pācittiyaṁ.",
+      "imgId": "4-pc054"
+    },
+    {
+      "id": "pli-tv-bi-4-pc055",
+      "title": "Pācittiya 55",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī kulamaccharinī assa, pācittiyaṁ.",
+      "imgId": "4-pc055"
+    },
+    {
+      "id": "pli-tv-bi-4-pc056",
+      "title": "Pācittiya 56",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī abhikkhuke āvāse vassaṁ vaseyya, pācittiyaṁ.",
+      "imgId": "4-pc056"
+    },
+    {
+      "id": "pli-tv-bi-4-pc057",
+      "title": "Pācittiya 57",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī vassaṁvuṭṭhā ubhatosaṅghe tīhi ṭhānehi na pavāreyya diṭṭhena vā sutena vā parisaṅkāya vā, pācittiyaṁ.",
+      "imgId": "4-pc057"
+    },
+    {
+      "id": "pli-tv-bi-4-pc058",
+      "title": "Pācittiya 58",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī ovādāya vā saṁvāsāya vā na gaccheyya, pācittiyaṁ.",
+      "imgId": "4-pc058"
+    },
+    {
+      "id": "pli-tv-bi-4-pc059",
+      "title": "Pācittiya 59",
+      "category": "pc",
+      "rule": "Anvaddhamāsaṁ bhikkhuniyā bhikkhusaṅghato dve dhammā paccāsīsitabbā uposathapucchakañca ovādūpasaṅkamanañca. Taṁ atikkāmentiyā pācittiyaṁ.",
+      "imgId": "4-pc059"
+    },
+    {
+      "id": "pli-tv-bi-4-pc060",
+      "title": "Pācittiya 60",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī pasākhe jātaṁ gaṇḍaṁ vā rudhitaṁ vā anapaloketvā saṅghaṁ vā gaṇaṁ vā purisena saddhiṁ ekenekā bhedāpeyya vā phālāpeyya vā dhovāpeyya vā ālimpāpeyya vā bandhāpeyya vā mocāpeyya vā, pācittiyaṁ.",
+      "imgId": "4-pc060"
+    },
+    {
+      "id": "pli-tv-bi-4-pc061",
+      "title": "Pācittiya 61",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī gabbhiniṁ vuṭṭhāpeyya, pācittiyaṁ.",
+      "imgId": "4-pc061"
+    },
+    {
+      "id": "pli-tv-bi-4-pc062",
+      "title": "Pācittiya 62",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī pāyantiṁ vuṭṭhāpeyya, pācittiyaṁ.",
+      "imgId": "4-pc062"
+    },
+    {
+      "id": "pli-tv-bi-4-pc063",
+      "title": "Pācittiya 63",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī dve vassāni chasu dhammesu asikkhitasikkhaṁ sikkhamānaṁ vuṭṭhāpeyya, pācittiyaṁ.",
+      "imgId": "4-pc063"
+    },
+    {
+      "id": "pli-tv-bi-4-pc064",
+      "title": "Pācittiya 64",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī dve vassāni chasu dhammesu sikkhitasikkhaṁ sikkhamānaṁ saṅghena asammataṁ vuṭṭhāpeyya, pācittiyaṁ.",
+      "imgId": "4-pc064"
+    },
+    {
+      "id": "pli-tv-bi-4-pc065",
+      "title": "Pācittiya 65",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī ūnadvādasavassaṁ gihigataṁ vuṭṭhāpeyya, pācittiyaṁ.",
+      "imgId": "4-pc065"
+    },
+    {
+      "id": "pli-tv-bi-4-pc066",
+      "title": "Pācittiya 66",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī paripuṇṇadvādasavassaṁ gihigataṁ dve vassāni chasu dhammesu asikkhitasikkhaṁ vuṭṭhāpeyya, pācittiyaṁ.",
+      "imgId": "4-pc066"
+    },
+    {
+      "id": "pli-tv-bi-4-pc067",
+      "title": "Pācittiya 67",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī paripuṇṇadvādasavassaṁ gihigataṁ dve vassāni chasu dhammesu sikkhitasikkhaṁ saṅghena asammataṁ vuṭṭhāpeyya, pācittiyaṁ.",
+      "imgId": "4-pc067"
+    },
+    {
+      "id": "pli-tv-bi-4-pc068",
+      "title": "Pācittiya 68",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī sahajīviniṁ vuṭṭhāpetvā dve vassāni neva anuggaṇheyya na anuggaṇhāpeyya, pācittiyaṁ.",
+      "imgId": "4-pc068"
+    },
+    {
+      "id": "pli-tv-bi-4-pc069",
+      "title": "Pācittiya 69",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī vuṭṭhāpitaṁ pavattiniṁ dve vassāni nānubandheyya, pācittiyaṁ.",
+      "imgId": "4-pc069"
+    },
+    {
+      "id": "pli-tv-bi-4-pc070",
+      "title": "Pācittiya 70",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī sahajīviniṁ vuṭṭhāpetvā neva vūpakāseyya na vūpakāsāpeyya antamaso chappañcayojanānipi, pācittiyaṁ.",
+      "imgId": "4-pc070"
+    },
+    {
+      "id": "pli-tv-bi-4-pc071",
+      "title": "Pācittiya 71",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī ūnavīsativassaṁ kumāribhūtaṁ vuṭṭhāpeyya, pācittiyaṁ.",
+      "imgId": "4-pc071"
+    },
+    {
+      "id": "pli-tv-bi-4-pc072",
+      "title": "Pācittiya 72",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī paripuṇṇavīsativassaṁ kumāribhūtaṁ dve vassāni chasu dhammesu asikkhitasikkhaṁ vuṭṭhāpeyya, pācittiyaṁ.",
+      "imgId": "4-pc072"
+    },
+    {
+      "id": "pli-tv-bi-4-pc073",
+      "title": "Pācittiya 73",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī paripuṇṇavīsativassaṁ kumāribhūtaṁ dve vassāni chasu dhammesu sikkhitasikkhaṁ saṅghena asammataṁ vuṭṭhāpeyya, pācittiyaṁ.",
+      "imgId": "4-pc073"
+    },
+    {
+      "id": "pli-tv-bi-4-pc074",
+      "title": "Pācittiya 74",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī ūnadvādasavassā vuṭṭhāpeyya, pācittiyaṁ.",
+      "imgId": "4-pc074"
+    },
+    {
+      "id": "pli-tv-bi-4-pc075",
+      "title": "Pācittiya 75",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī paripuṇṇadvādasavassā saṅghena asammatā vuṭṭhāpeyya, pācittiyaṁ.",
+      "imgId": "4-pc075"
+    },
+    {
+      "id": "pli-tv-bi-4-pc076",
+      "title": "Pācittiya 76",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī, “alaṁ tāva te, ayye, vuṭṭhāpitenā”ti vuccamānā, “sādhū”ti paṭissuṇitvā sā pacchā khiyyanadhammaṁ āpajjeyya, pācittiyaṁ.",
+      "imgId": "4-pc076"
+    },
+    {
+      "id": "pli-tv-bi-4-pc077",
+      "title": "Pācittiya 77",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī sikkhamānaṁ, “sace me tvaṁ, ayye, cīvaraṁ dassasi, evāhaṁ taṁ vuṭṭhāpessāmī”ti vatvā sā pacchā anantarāyikinī neva vuṭṭhāpeyya, na vuṭṭhāpanāya ussukkaṁ kareyya, pācittiyaṁ.",
+      "imgId": "4-pc077"
+    },
+    {
+      "id": "pli-tv-bi-4-pc078",
+      "title": "Pācittiya 78",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī sikkhamānaṁ, “sace maṁ tvaṁ, ayye, dve vassāni anubandhissasi, evāhaṁ taṁ vuṭṭhāpessāmī”ti vatvā sā pacchā anantarāyikinī neva vuṭṭhāpeyya, na vuṭṭhāpanāya ussukkaṁ kareyya, pācittiyaṁ.",
+      "imgId": "4-pc078"
+    },
+    {
+      "id": "pli-tv-bi-4-pc079",
+      "title": "Pācittiya 79",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī purisasaṁsaṭṭhaṁ kumārakasaṁsaṭṭhaṁ caṇḍiṁ sokāvāsaṁ sikkhamānaṁ vuṭṭhāpeyya, pācittiyaṁ.",
+      "imgId": "4-pc079"
+    },
+    {
+      "id": "pli-tv-bi-4-pc080",
+      "title": "Pācittiya 80",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī mātāpitūhi vā sāmikena vā ananuññātaṁ sikkhamānaṁ vuṭṭhāpeyya, pācittiyaṁ.",
+      "imgId": "4-pc080"
+    },
+    {
+      "id": "pli-tv-bi-4-pc081",
+      "title": "Pācittiya 81",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī pārivāsikachandadānena sikkhamānaṁ vuṭṭhāpeyya, pācittiyaṁ.",
+      "imgId": "4-pc081"
+    },
+    {
+      "id": "pli-tv-bi-4-pc082",
+      "title": "Pācittiya 82",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī anuvassaṁ vuṭṭhāpeyya, pācittiyaṁ.",
+      "imgId": "4-pc082"
+    },
+    {
+      "id": "pli-tv-bi-4-pc083",
+      "title": "Pācittiya 83",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī ekaṁ vassaṁ dve vuṭṭhāpeyya, pācittiyaṁ.",
+      "imgId": "4-pc083"
+    },
+    {
+      "id": "pli-tv-bi-4-pc084",
+      "title": "Pācittiya 84",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī agilānā chattupāhanaṁ dhāreyya, pācittiyaṁ.",
+      "imgId": "4-pc084"
+    },
+    {
+      "id": "pli-tv-bi-4-pc085",
+      "title": "Pācittiya 85",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī agilānā yānena yāyeyya, pācittiyaṁ.",
+      "imgId": "4-pc085"
+    },
+    {
+      "id": "pli-tv-bi-4-pc086",
+      "title": "Pācittiya 86",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī saṅghāṇiṁ dhāreyya, pācittiyaṁ.",
+      "imgId": "4-pc086"
+    },
+    {
+      "id": "pli-tv-bi-4-pc087",
+      "title": "Pācittiya 87",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī itthālaṅkāraṁ dhāreyya, pācittiyaṁ.",
+      "imgId": "4-pc087"
+    },
+    {
+      "id": "pli-tv-bi-4-pc088",
+      "title": "Pācittiya 88",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī gandhavaṇṇakena nahāyeyya, pācittiyaṁ.",
+      "imgId": "4-pc088"
+    },
+    {
+      "id": "pli-tv-bi-4-pc089",
+      "title": "Pācittiya 89",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī vāsitakena piññākena nahāyeyya, pācittiyaṁ.",
+      "imgId": "4-pc089"
+    },
+    {
+      "id": "pli-tv-bi-4-pc090",
+      "title": "Pācittiya 90",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī bhikkhuniyā ummaddāpeyya vā parimaddāpeyya vā, pācittiyaṁ.",
+      "imgId": "4-pc090"
+    },
+    {
+      "id": "pli-tv-bi-4-pc091",
+      "title": "Pācittiya 91",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī sikkhamānāya ummaddāpeyya vā parimaddāpeyya vā, pācittiyaṁ.",
+      "imgId": "4-pc091"
+    },
+    {
+      "id": "pli-tv-bi-4-pc092",
+      "title": "Pācittiya 92",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī sāmaṇeriyā ummaddāpeyya vā parimaddāpeyya vā, pācittiyaṁ.",
+      "imgId": "4-pc092"
+    },
+    {
+      "id": "pli-tv-bi-4-pc093",
+      "title": "Pācittiya 93",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī gihiniyā ummaddāpeyya vā parimaddāpeyya vā, pācittiyaṁ.",
+      "imgId": "4-pc093"
+    },
+    {
+      "id": "pli-tv-bi-4-pc094",
+      "title": "Pācittiya 94",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī bhikkhussa purato anāpucchā āsane nisīdeyya, pācittiyaṁ.",
+      "imgId": "4-pc094"
+    },
+    {
+      "id": "pli-tv-bi-4-pc095",
+      "title": "Pācittiya 95",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī anokāsakataṁ bhikkhuṁ pañhaṁ puccheyya, pācittiyaṁ.",
+      "imgId": "4-pc095"
+    },
+    {
+      "id": "pli-tv-bi-4-pc096",
+      "title": "Pācittiya 96",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī asaṅkaccikā gāmaṁ paviseyya, pācittiyaṁ.",
+      "imgId": "4-pc096"
+    },
+    {
+      "id": "pli-tv-bi-4-pc097",
+      "title": "Pācittiya 97",
+      "category": "pc",
+      "rule": "Sampajānamusāvāde pācittiyaṁ.",
+      "imgId": "4-pc097"
+    },
+    {
+      "id": "pli-tv-bi-4-pc098",
+      "title": "Pācittiya 98",
+      "category": "pc",
+      "rule": "Omasavāde pācittiyaṁ.",
+      "imgId": "4-pc098"
+    },
+    {
+      "id": "pli-tv-bi-4-pc099",
+      "title": "Pācittiya 99",
+      "category": "pc",
+      "rule": "Bhikkhunipesuññe pācittiyaṁ.",
+      "imgId": "4-pc099"
+    },
+    {
+      "id": "pli-tv-bi-4-pc100",
+      "title": "Pācittiya 100",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī anupasampannaṁ padaso dhammaṁ vāceyya, pācittiyaṁ.",
+      "imgId": "4-pc100"
+    },
+    {
+      "id": "pli-tv-bi-4-pc101",
+      "title": "Pācittiya 101",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī anupasampannāya uttaridirattatirattaṁ sahaseyyaṁ kappeyya, pācittiyaṁ.",
+      "imgId": "4-pc101"
+    },
+    {
+      "id": "pli-tv-bi-4-pc102",
+      "title": "Pācittiya 102",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī purisena sahaseyyaṁ kappeyya, pācittiyaṁ.",
+      "imgId": "4-pc102"
+    },
+    {
+      "id": "pli-tv-bi-4-pc103",
+      "title": "Pācittiya 103",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī purisassa uttarichappañcavācāhi dhammaṁ deseyya aññatra viññunā itthiviggahena, pācittiyaṁ.",
+      "imgId": "4-pc103"
+    },
+    {
+      "id": "pli-tv-bi-4-pc104",
+      "title": "Pācittiya 104",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī anupasampannāya uttarimanussadhammaṁ āroceyya, bhūtasmiṁ pācittiyaṁ.",
+      "imgId": "4-pc104"
+    },
+    {
+      "id": "pli-tv-bi-4-pc105",
+      "title": "Pācittiya 105",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī bhikkhuniyā duṭṭhullaṁ āpattiṁ anupasampannāya āroceyya aññatra bhikkhunisammutiyā, pācittiyaṁ.",
+      "imgId": "4-pc105"
+    },
+    {
+      "id": "pli-tv-bi-4-pc106",
+      "title": "Pācittiya 106",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī pathaviṁ khaṇeyya vā khaṇāpeyya vā, pācittiyaṁ.",
+      "imgId": "4-pc106"
+    },
+    {
+      "id": "pli-tv-bi-4-pc107",
+      "title": "Pācittiya 107",
+      "category": "pc",
+      "rule": "Bhūtagāmapātabyatāya pācittiyaṁ.",
+      "imgId": "4-pc107"
+    },
+    {
+      "id": "pli-tv-bi-4-pc108",
+      "title": "Pācittiya 108",
+      "category": "pc",
+      "rule": "Aññavādake, vihesake pācittiyaṁ.",
+      "imgId": "4-pc108"
+    },
+    {
+      "id": "pli-tv-bi-4-pc109",
+      "title": "Pācittiya 109",
+      "category": "pc",
+      "rule": "Ujjhāpanake, khiyyanake pācittiyaṁ.",
+      "imgId": "4-pc109"
+    },
+    {
+      "id": "pli-tv-bi-4-pc110",
+      "title": "Pācittiya 110",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī saṅghikaṁ mañcaṁ vā pīṭhaṁ vā bhisiṁ vā kocchaṁ vā ajjhokāse santharitvā vā santharāpetvā vā taṁ pakkamantī neva uddhareyya, na uddharāpeyya, anāpucchaṁ vā gaccheyya, pācittiyaṁ.",
+      "imgId": "4-pc110"
+    },
+    {
+      "id": "pli-tv-bi-4-pc111",
+      "title": "Pācittiya 111",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī saṅghike vihāre seyyaṁ santharitvā vā santharāpetvā vā taṁ pakkamantī neva uddhareyya, na uddharāpeyya, anāpucchaṁ vā gaccheyya, pācittiyaṁ.",
+      "imgId": "4-pc111"
+    },
+    {
+      "id": "pli-tv-bi-4-pc112",
+      "title": "Pācittiya 112",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī saṅghike vihāre jānaṁ pubbupagataṁ bhikkhuniṁ anupakhajja seyyaṁ kappeyya, “yassā sambādho bhavissati, sā pakkamissatī”ti etadeva paccayaṁ karitvā anaññaṁ, pācittiyaṁ.",
+      "imgId": "4-pc112"
+    },
+    {
+      "id": "pli-tv-bi-4-pc113",
+      "title": "Pācittiya 113",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī bhikkhuniṁ kupitā anattamanā saṅghikā vihārā nikkaḍḍheyya vā nikkaḍḍhāpeyya vā, pācittiyaṁ.",
+      "imgId": "4-pc113"
+    },
+    {
+      "id": "pli-tv-bi-4-pc114",
+      "title": "Pācittiya 114",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī saṅghike vihāre uparivehāsakuṭiyā āhaccapādakaṁ mañcaṁ vā pīṭhaṁ vā abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṁ.",
+      "imgId": "4-pc114"
+    },
+    {
+      "id": "pli-tv-bi-4-pc115",
+      "title": "Pācittiya 115",
+      "category": "pc",
+      "rule": "Mahallakaṁ pana bhikkhuniyā vihāraṁ kārayamānāya yāva dvārakosā aggaḷaṭṭhapanāya, ālokasandhiparikammāya dvatticchadanassa pariyāyaṁ appaharite ṭhitāya adhiṭṭhātabbaṁ. Tato ce uttari appaharitepi ṭhitā adhiṭṭhaheyya, pācittiyaṁ.",
+      "imgId": "4-pc115"
+    },
+    {
+      "id": "pli-tv-bi-4-pc116",
+      "title": "Pācittiya 116",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī jānaṁ sappāṇakaṁ udakaṁ tiṇaṁ vā mattikaṁ vā siñceyya vā siñcāpeyya vā, pācittiyaṁ.",
+      "imgId": "4-pc116"
+    },
+    {
+      "id": "pli-tv-bi-4-pc117",
+      "title": "Pācittiya 117",
+      "category": "pc",
+      "rule": "Agilānāya bhikkhuniyā eko āvasathapiṇḍo bhuñjitabbo. Tato ce uttari bhuñjeyya, pācittiyaṁ.",
+      "imgId": "4-pc117"
+    },
+    {
+      "id": "pli-tv-bi-4-pc118",
+      "title": "Pācittiya 118",
+      "category": "pc",
+      "rule": "Gaṇabhojane aññatra samayā pācittiyaṁ. Tatthāyaṁ samayo, gilānasamayo, cīvaradānasamayo , cīvarakārasamayo, addhānagamanasamayo, nāvābhiruhanasamayo, mahāsamayo, samaṇabhattasamayo, ayaṁ tattha samayo.",
+      "imgId": "4-pc118"
+    },
+    {
+      "id": "pli-tv-bi-4-pc119",
+      "title": "Pācittiya 119",
+      "category": "pc",
+      "rule": "Bhikkhuniṁ paneva kulaṁ upagataṁ pūvehi vā manthehi vā abhihaṭṭhuṁ pavāreyya, ākaṅkhamānāya bhikkhuniyā dvattipattapūrā paṭiggahetabbā. Tato ce uttari paṭiggaṇheyya, pācittiyaṁ. Dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhunīhi saddhiṁ saṁvibhajitabbaṁ, ayaṁ tattha sāmīci.",
+      "imgId": "4-pc119"
+    },
+    {
+      "id": "pli-tv-bi-4-pc120",
+      "title": "Pācittiya 120",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī vikāle khādanīyaṁ vā bhojanīyaṁ vā khādeyya vā bhuñjeyya vā, pācittiyaṁ.",
+      "imgId": "4-pc120"
+    },
+    {
+      "id": "pli-tv-bi-4-pc121",
+      "title": "Pācittiya 121",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī sannidhikārakaṁ khādanīyaṁ vā bhojanīyaṁ vā khādeyya vā bhuñjeyya vā, pācittiyaṁ.",
+      "imgId": "4-pc121"
+    },
+    {
+      "id": "pli-tv-bi-4-pc122",
+      "title": "Pācittiya 122",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī adinnaṁ mukhadvāraṁ āhāraṁ āhareyya aññatra udakadantaponā, pācittiyaṁ.",
+      "imgId": "4-pc122"
+    },
+    {
+      "id": "pli-tv-bi-4-pc123",
+      "title": "Pācittiya 123",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī bhikkhuniṁ, “ehāyye, gāmaṁ vā nigamaṁ vā piṇḍāya pavisissāmā”ti tassā dāpetvā vā adāpetvā vā uyyojeyya, “gacchāyye, na me tayā saddhiṁ kathā vā nisajjā vā phāsu hoti, ekikāya me kathā vā nisajjā vā phāsu hotī”ti etadeva paccayaṁ karitvā anaññaṁ, pācittiyaṁ.",
+      "imgId": "4-pc123"
+    },
+    {
+      "id": "pli-tv-bi-4-pc124",
+      "title": "Pācittiya 124",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī sabhojane kule anupakhajja nisajjaṁ kappeyya, pācittiyaṁ.",
+      "imgId": "4-pc124"
+    },
+    {
+      "id": "pli-tv-bi-4-pc125",
+      "title": "Pācittiya 125",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī purisena saddhiṁ raho paṭicchanne āsane nisajjaṁ kappeyya, pācittiyaṁ.",
+      "imgId": "4-pc125"
+    },
+    {
+      "id": "pli-tv-bi-4-pc126",
+      "title": "Pācittiya 126",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī purisena saddhiṁ ekenekā raho nisajjaṁ kappeyya, pācittiyaṁ.",
+      "imgId": "4-pc126"
+    },
+    {
+      "id": "pli-tv-bi-4-pc127",
+      "title": "Pācittiya 127",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī nimantitā sabhattā samānā santiṁ bhikkhuniṁ anāpucchā purebhattaṁ vā pacchābhattaṁ vā kulesu cārittaṁ āpajjeyya aññatra samayā, pācittiyaṁ. Tatthāyaṁ samayo, cīvaradānasamayo, cīvarakārasamayo, ayaṁ tattha samayo.",
+      "imgId": "4-pc127"
+    },
+    {
+      "id": "pli-tv-bi-4-pc128",
+      "title": "Pācittiya 128",
+      "category": "pc",
+      "rule": "Agilānāya bhikkhuniyā catumāsappaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. Tato ce uttari sādiyeyya, pācittiyaṁ.",
+      "imgId": "4-pc128"
+    },
+    {
+      "id": "pli-tv-bi-4-pc129",
+      "title": "Pācittiya 129",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī uyyuttaṁ senaṁ dassanāya gaccheyya aññatra tathārūpappaccayā, pācittiyaṁ.",
+      "imgId": "4-pc129"
+    },
+    {
+      "id": "pli-tv-bi-4-pc130",
+      "title": "Pācittiya 130",
+      "category": "pc",
+      "rule": "Siyā ca tassā bhikkhuniyā kocideva paccayo senaṁ gamanāya, dirattatirattaṁ tāya bhikkhuniyā senāya vasitabbaṁ. Tato ce uttari vaseyya, pācittiyaṁ.",
+      "imgId": "4-pc130"
+    },
+    {
+      "id": "pli-tv-bi-4-pc131",
+      "title": "Pācittiya 131",
+      "category": "pc",
+      "rule": "Dirattatirattaṁ ce bhikkhunī senāya vasamānā uyyodhikaṁ vā balaggaṁ vā senābyūhaṁ vā anīkadassanaṁ vā gaccheyya, pācittiyaṁ.",
+      "imgId": "4-pc131"
+    },
+    {
+      "id": "pli-tv-bi-4-pc132",
+      "title": "Pācittiya 132",
+      "category": "pc",
+      "rule": "Surāmerayapāne pācittiyaṁ.",
+      "imgId": "4-pc132"
+    },
+    {
+      "id": "pli-tv-bi-4-pc133",
+      "title": "Pācittiya 133",
+      "category": "pc",
+      "rule": "Aṅgulipatodake pācittiyaṁ.",
+      "imgId": "4-pc133"
+    },
+    {
+      "id": "pli-tv-bi-4-pc134",
+      "title": "Pācittiya 134",
+      "category": "pc",
+      "rule": "Udake hasadhamme pācittiyaṁ.",
+      "imgId": "4-pc134"
+    },
+    {
+      "id": "pli-tv-bi-4-pc135",
+      "title": "Pācittiya 135",
+      "category": "pc",
+      "rule": "Anādariye pācittiyaṁ.",
+      "imgId": "4-pc135"
+    },
+    {
+      "id": "pli-tv-bi-4-pc136",
+      "title": "Pācittiya 136",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī bhikkhuniṁ bhiṁsāpeyya, pācittiyaṁ.",
+      "imgId": "4-pc136"
+    },
+    {
+      "id": "pli-tv-bi-4-pc137",
+      "title": "Pācittiya 137",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī agilānā visibbanāpekkhā jotiṁ samādaheyya vā samādahāpeyya vā aññatra tathārūpappaccayā, pācittiyaṁ.",
+      "imgId": "4-pc137"
+    },
+    {
+      "id": "pli-tv-bi-4-pc138",
+      "title": "Pācittiya 138",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī orenaddhamāsaṁ nahāyeyya aññatra samayā, pācittiyaṁ. Tatthāyaṁ samayo “diyaḍḍho māso seso gimhāna”nti “vassānassa paṭhamo māso” iccete aḍḍhateyyamāsā uṇhasamayo, pariḷāhasamayo, gilānasamayo, kammasamayo, addhānagamanasamayo, vātavuṭṭhisamayo, ayaṁ tattha samayo.",
+      "imgId": "4-pc138"
+    },
+    {
+      "id": "pli-tv-bi-4-pc139",
+      "title": "Pācittiya 139",
+      "category": "pc",
+      "rule": "Navaṁ pana bhikkhuniyā cīvaralābhāya tiṇṇaṁ dubbaṇṇakaraṇānaṁ aññataraṁ dubbaṇṇakaraṇaṁ ādātabbaṁ nīlaṁ vā kaddamaṁ vā kāḷasāmaṁ vā. Anādā ce bhikkhunī tiṇṇaṁ dubbaṇṇakaraṇānaṁ aññataraṁ dubbaṇṇakaraṇaṁ navaṁ cīvaraṁ paribhuñjeyya, pācittiyaṁ.",
+      "imgId": "4-pc139"
+    },
+    {
+      "id": "pli-tv-bi-4-pc140",
+      "title": "Pācittiya 140",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī bhikkhussa vā bhikkhuniyā vā sikkhamānāya vā sāmaṇerassa vā sāmaṇeriyā vā sāmaṁ cīvaraṁ vikappetvā apaccuddhāraṇaṁ paribhuñjeyya, pācittiyaṁ.",
+      "imgId": "4-pc140"
+    },
+    {
+      "id": "pli-tv-bi-4-pc141",
+      "title": "Pācittiya 141",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī bhikkhuniyā pattaṁ vā cīvaraṁ vā nisīdanaṁ vā sūcigharaṁ vā kāyabandhanaṁ vā apanidheyya vā apanidhāpeyya vā antamaso hasāpekkhāpi, pācittiyaṁ.",
+      "imgId": "4-pc141"
+    },
+    {
+      "id": "pli-tv-bi-4-pc142",
+      "title": "Pācittiya 142",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī sañcicca pāṇaṁ jīvitā voropeyya, pācittiyaṁ.",
+      "imgId": "4-pc142"
+    },
+    {
+      "id": "pli-tv-bi-4-pc143",
+      "title": "Pācittiya 143",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī jānaṁ sappāṇakaṁ udakaṁ paribhuñjeyya, pācittiyaṁ.",
+      "imgId": "4-pc143"
+    },
+    {
+      "id": "pli-tv-bi-4-pc144",
+      "title": "Pācittiya 144",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī jānaṁ yathādhammaṁ nihatādhikaraṇaṁ punakammāya ukkoṭeyya, pācittiyaṁ.",
+      "imgId": "4-pc144"
+    },
+    {
+      "id": "pli-tv-bi-4-pc145",
+      "title": "Pācittiya 145",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī jānaṁ theyyasatthena saddhiṁ saṁvidhāya ekaddhānamaggaṁ paṭipajjeyya antamaso gāmantarampi, pācittiyaṁ.",
+      "imgId": "4-pc145"
+    },
+    {
+      "id": "pli-tv-bi-4-pc146",
+      "title": "Pācittiya 146",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī evaṁ vadeyya: “tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi, yathā yeme antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṁ antarāyāyā”ti. Sā bhikkhunī bhikkhunīhi evamassa vacanīyā: “māyye evaṁ avaca, mā bhagavantaṁ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṁ, na hi bhagavā evaṁ vadeyya,  anekapariyāyenāyye antarāyikā dhammā antarāyikā vuttā bhagavatā, alañca pana te paṭisevato antarāyāyā”ti. Evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṁ samanubhāsitabbā tassa paṭinissaggāya. Yāvatatiyañce samanubhāsiyamānā taṁ paṭinissajjeyya, iccetaṁ kusalaṁ. No ce paṭinissajjeyya, pācittiyaṁ.",
+      "imgId": "4-pc146"
+    },
+    {
+      "id": "pli-tv-bi-4-pc147",
+      "title": "Pācittiya 147",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī jānaṁ tathāvādiniyā bhikkhuniyā akaṭānudhammāya taṁ diṭṭhiṁ appaṭinissaṭṭhāya saddhiṁ sambhuñjeyya vā, saṁvaseyya vā, saha vā seyyaṁ kappeyya, pācittiyaṁ.",
+      "imgId": "4-pc147"
+    },
+    {
+      "id": "pli-tv-bi-4-pc148",
+      "title": "Pācittiya 148",
+      "category": "pc",
+      "rule": "Samaṇuddesāpi ce evaṁ vadeyya: “tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi, yathā yeme antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṁ antarāyāyā”ti. Sā samaṇuddesā bhikkhunīhi evamassa vacanīyā: “māyye, samaṇuddese evaṁ avaca, mā bhagavantaṁ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṁ, na hi bhagavā evaṁ vadeyya,  anekapariyāyenāyye, samaṇuddese antarāyikā dhammā antarāyikā vuttā bhagavatā, alañca pana te paṭisevato antarāyāyā”ti. Evañca sā samaṇuddesā bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā samaṇuddesā bhikkhunīhi evamassa vacanīyā: “ajjatagge te, ayye, samaṇuddese na ceva so bhagavā satthā apadisitabbo,  yampi caññā samaṇuddesā labhanti bhikkhunīhi saddhiṁ dirattatirattaṁ sahaseyyaṁ, sāpi te natthi, cara pire, vinassā”ti. Yā pana bhikkhunī jānaṁ tathānāsitaṁ samaṇuddesaṁ upalāpeyya vā, upaṭṭhāpeyya vā, sambhuñjeyya vā, saha vā seyyaṁ kappeyya, pācittiyaṁ.",
+      "imgId": "4-pc148"
+    },
+    {
+      "id": "pli-tv-bi-4-pc149",
+      "title": "Pācittiya 149",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī bhikkhunīhi sahadhammikaṁ vuccamānā evaṁ vadeyya: “na tāvāhaṁ, ayye, etasmiṁ sikkhāpade sikkhissāmi, yāva na aññaṁ bhikkhuniṁ byattaṁ vinayadharaṁ paripucchāmī”ti, pācittiyaṁ. Sikkhamānāya, bhikkhave, bhikkhuniyā aññātabbaṁ paripucchitabbaṁ paripañhitabbaṁ, ayaṁ tattha sāmīci.",
+      "imgId": "4-pc149"
+    },
+    {
+      "id": "pli-tv-bi-4-pc150",
+      "title": "Pācittiya 150",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī pātimokkhe uddissamāne evaṁ vadeyya: “kiṁ panimehi khuddānukhuddakehi sikkhāpadehi uddiṭṭhehi, yāvadeva kukkuccāya vihesāya vilekhāya saṁvattantī”ti, sikkhāpadavivaṇṇake pācittiyaṁ.",
+      "imgId": "4-pc150"
+    },
+    {
+      "id": "pli-tv-bi-4-pc151",
+      "title": "Pācittiya 151",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī anvaddhamāsaṁ pātimokkhe uddissamāne evaṁ vadeyya: “idāneva kho ahaṁ, ayye, jānāmi ayampi kira dhammo suttāgato suttapariyāpanno anvaddhamāsaṁ uddesaṁ āgacchatī”ti,  tañce bhikkhuniṁ aññā bhikkhuniyo jāneyyuṁ nisinnapubbaṁ imāya bhikkhuniyā dvattikkhattuṁ pātimokkhe uddissamāne, ko pana vādo bhiyyo, na ca tassā bhikkhuniyā aññāṇakena mutti atthi, yañca tattha āpattiṁ āpannā, tañca yathādhammo kāretabbo, uttari cassā moho āropetabbo: “tassā te, ayye, alābhā, tassā te dulladdhaṁ, yaṁ tvaṁ pātimokkhe uddissamāne na sādhukaṁ aṭṭhiṁ katvā manasi karosī”ti,  idaṁ tasmiṁ mohanake pācittiyaṁ.",
+      "imgId": "4-pc151"
+    },
+    {
+      "id": "pli-tv-bi-4-pc152",
+      "title": "Pācittiya 152",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī bhikkhuniyā kupitā anattamanā pahāraṁ dadeyya, pācittiyaṁ.",
+      "imgId": "4-pc152"
+    },
+    {
+      "id": "pli-tv-bi-4-pc153",
+      "title": "Pācittiya 153",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī bhikkhuniyā kupitā anattamanā talasattikaṁ uggireyya, pācittiyaṁ.",
+      "imgId": "4-pc153"
+    },
+    {
+      "id": "pli-tv-bi-4-pc154",
+      "title": "Pācittiya 154",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī bhikkhuniṁ amūlakena saṅghādisesena anuddhaṁseyya, pācittiyaṁ.",
+      "imgId": "4-pc154"
+    },
+    {
+      "id": "pli-tv-bi-4-pc155",
+      "title": "Pācittiya 155",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī bhikkhuniyā sañcicca kukkuccaṁ upadaheyya, “itissā muhuttampi aphāsu bhavissatī”ti etadeva paccayaṁ karitvā anaññaṁ, pācittiyaṁ.",
+      "imgId": "4-pc155"
+    },
+    {
+      "id": "pli-tv-bi-4-pc156",
+      "title": "Pācittiya 156",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī bhikkhunīnaṁ bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ upassutiṁ tiṭṭheyya, “yaṁ imā bhaṇissanti, taṁ sossāmī”ti etadeva paccayaṁ karitvā anaññaṁ, pācittiyaṁ.",
+      "imgId": "4-pc156"
+    },
+    {
+      "id": "pli-tv-bi-4-pc157",
+      "title": "Pācittiya 157",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī dhammikānaṁ kammānaṁ chandaṁ datvā pacchā khīyanadhammaṁ āpajjeyya, pācittiyaṁ.",
+      "imgId": "4-pc157"
+    },
+    {
+      "id": "pli-tv-bi-4-pc158",
+      "title": "Pācittiya 158",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī saṅghe vinicchayakathāya vattamānāya chandaṁ adatvā uṭṭhāyāsanā pakkameyya, pācittiyaṁ.",
+      "imgId": "4-pc158"
+    },
+    {
+      "id": "pli-tv-bi-4-pc159",
+      "title": "Pācittiya 159",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī samaggena saṅghena cīvaraṁ datvā pacchā khīyanadhammaṁ āpajjeyya, “yathāsanthutaṁ bhikkhuniyo saṅghikaṁ lābhaṁ pariṇāmentī”ti, pācittiyaṁ.",
+      "imgId": "4-pc159"
+    },
+    {
+      "id": "pli-tv-bi-4-pc160",
+      "title": "Pācittiya 160",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī jānaṁ saṅghikaṁ lābhaṁ pariṇataṁ puggalassa pariṇāmeyya, pācittiyaṁ.",
+      "imgId": "4-pc160"
+    },
+    {
+      "id": "pli-tv-bi-4-pc161",
+      "title": "Pācittiya 161",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī ratanaṁ vā ratanasammataṁ vā aññatra ajjhārāmā vā ajjhāvasathā vā uggaṇheyya vā uggaṇhāpeyya vā, pācittiyaṁ. Ratanaṁ vā pana bhikkhuniyā ratanasammataṁ vā ajjhārāme vā ajjhāvasathe vā uggahetvā vā uggahāpetvā vā nikkhipitabbaṁ, “yassa bhavissati, so harissatī”ti, ayaṁ tattha sāmīci.",
+      "imgId": "4-pc161"
+    },
+    {
+      "id": "pli-tv-bi-4-pc162",
+      "title": "Pācittiya 162",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī aṭṭhimayaṁ vā dantamayaṁ vā visāṇamayaṁ vā sūcigharaṁ kārāpeyya, bhedanakaṁ pācittiyaṁ.",
+      "imgId": "4-pc162"
+    },
+    {
+      "id": "pli-tv-bi-4-pc163",
+      "title": "Pācittiya 163",
+      "category": "pc",
+      "rule": "Navaṁ pana bhikkhuniyā mañcaṁ vā pīṭhaṁ vā kārayamānāya aṭṭhaṅgulapādakaṁ kāretabbaṁ sugataṅgulena aññatra heṭṭhimāya aṭaniyā. Taṁ atikkāmentiyā chedanakaṁ pācittiyaṁ.",
+      "imgId": "4-pc163"
+    },
+    {
+      "id": "pli-tv-bi-4-pc164",
+      "title": "Pācittiya 164",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī mañcaṁ vā pīṭhaṁ vā tūlonaddhaṁ kārāpeyya, uddālanakaṁ pācittiyaṁ.",
+      "imgId": "4-pc164"
+    },
+    {
+      "id": "pli-tv-bi-4-pc165",
+      "title": "Pācittiya 165",
+      "category": "pc",
+      "rule": "Kaṇḍuppaṭicchādiṁ pana bhikkhuniyā kārayamānāya pamāṇikā kāretabbā, tatridaṁ pamāṇaṁ, dīghaso catasso vidatthiyo sugatavidatthiyā, tiriyaṁ dve vidatthiyo. Taṁ atikkāmentiyā chedanakaṁ pācittiyaṁ.",
+      "imgId": "4-pc165"
+    },
+    {
+      "id": "pli-tv-bi-4-pc166",
+      "title": "Pācittiya 166",
+      "category": "pc",
+      "rule": "Yā pana bhikkhunī sugatacīvarappamāṇaṁ cīvaraṁ kārāpeyya, atirekaṁ vā, chedanakaṁ pācittiyaṁ. Tatridaṁ sugatassa sugatacīvarappamāṇaṁ, dīghaso nava vidatthiyo sugatavidatthiyā, tiriyaṁ cha vidatthiyo, idaṁ sugatassa sugatacīvarappamāṇanti.",
+      "imgId": "4-pc166"
+    },
+    {
+      "id": "pli-tv-bi-5-pd001",
+      "title": "Pāṭidesanīyā 1",
+      "category": "pd",
+      "rule": "Yā pana bhikkhunī agilānā sappiṁ viññāpetvā bhuñjeyya, paṭidesetabbaṁ tāya bhikkhuniyā: “gārayhaṁ, ayye, dhammaṁ āpajjiṁ asappāyaṁ pāṭidesanīyaṁ, taṁ paṭidesemī”ti.",
+      "imgId": "5-pd001"
+    },
+    {
+      "id": "pli-tv-bi-5-pd002",
+      "title": "Pāṭidesanīyā 2",
+      "category": "pd",
+      "rule": "Yā pana bhikkhunī agilānā telaṁ viññāpetvā bhuñjeyya …pe… taṁ paṭidesemīti.",
+      "imgId": "5-pd002"
+    },
+    {
+      "id": "pli-tv-bi-5-pd003",
+      "title": "Pāṭidesanīyā 3",
+      "category": "pd",
+      "rule": "Yā pana bhikkhunī agilānā madhuṁ viññāpetvā bhuñjeyya …pe… taṁ paṭidesemīti.",
+      "imgId": "5-pd003"
+    },
+    {
+      "id": "pli-tv-bi-5-pd004",
+      "title": "Pāṭidesanīyā 4",
+      "category": "pd",
+      "rule": "Yā pana bhikkhunī agilānā phāṇitaṁ viññāpetvā bhuñjeyya …pe… taṁ paṭidesemīti.",
+      "imgId": "5-pd004"
+    },
+    {
+      "id": "pli-tv-bi-5-pd005",
+      "title": "Pāṭidesanīyā 5",
+      "category": "pd",
+      "rule": "Yā pana bhikkhunī agilānā macchaṁ viññāpetvā bhuñjeyya …pe… taṁ paṭidesemīti.",
+      "imgId": "5-pd005"
+    },
+    {
+      "id": "pli-tv-bi-5-pd006",
+      "title": "Pāṭidesanīyā 6",
+      "category": "pd",
+      "rule": "Yā pana bhikkhunī agilānā maṁsaṁ viññāpetvā bhuñjeyya …pe… taṁ paṭidesemīti.",
+      "imgId": "5-pd006"
+    },
+    {
+      "id": "pli-tv-bi-5-pd007",
+      "title": "Pāṭidesanīyā 7",
+      "category": "pd",
+      "rule": "Yā pana bhikkhunī agilānā khīraṁ viññāpetvā bhuñjeyya …pe… taṁ paṭidesemīti.",
+      "imgId": "5-pd007"
+    },
+    {
+      "id": "pli-tv-bi-5-pd008",
+      "title": "Pāṭidesanīyā 8",
+      "category": "pd",
+      "rule": "Yā pana bhikkhunī agilānā dadhiṁ viññāpetvā bhuñjeyya, paṭidesetabbaṁ tāya bhikkhuniyā: “gārayhaṁ, ayye, dhammaṁ āpajjiṁ asappāyaṁ pāṭidesanīyaṁ, taṁ paṭidesemī”ti.",
+      "imgId": "5-pd008"
+    },
+    {
+      "id": "pli-tv-bi-6-sk001",
+      "title": "Sekhiyā 1",
+      "category": "sk",
+      "rule": "Parimaṇḍalaṁ nivāsessāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk001"
+    },
+    {
+      "id": "pli-tv-bi-6-sk002",
+      "title": "Sekhiyā 2",
+      "category": "sk",
+      "rule": "Parimaṇḍalaṁ pārupissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk002"
+    },
+    {
+      "id": "pli-tv-bi-6-sk003",
+      "title": "Sekhiyā 3",
+      "category": "sk",
+      "rule": "Suppaṭicchannā antaraghare gamissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk003"
+    },
+    {
+      "id": "pli-tv-bi-6-sk004",
+      "title": "Sekhiyā 4",
+      "category": "sk",
+      "rule": "Suppaṭicchannā antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk004"
+    },
+    {
+      "id": "pli-tv-bi-6-sk005",
+      "title": "Sekhiyā 5",
+      "category": "sk",
+      "rule": "Susaṁvutā antaraghare gamissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk005"
+    },
+    {
+      "id": "pli-tv-bi-6-sk006",
+      "title": "Sekhiyā 6",
+      "category": "sk",
+      "rule": "Susaṁvutā antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk006"
+    },
+    {
+      "id": "pli-tv-bi-6-sk007",
+      "title": "Sekhiyā 7",
+      "category": "sk",
+      "rule": "Okkhittacakkhunī antaraghare gamissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk007"
+    },
+    {
+      "id": "pli-tv-bi-6-sk008",
+      "title": "Sekhiyā 8",
+      "category": "sk",
+      "rule": "Okkhittacakkhunī antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk008"
+    },
+    {
+      "id": "pli-tv-bi-6-sk009",
+      "title": "Sekhiyā 9",
+      "category": "sk",
+      "rule": "Na ukkhittakāya antaraghare gamissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk009"
+    },
+    {
+      "id": "pli-tv-bi-6-sk010",
+      "title": "Sekhiyā 10",
+      "category": "sk",
+      "rule": "Na ukkhittakāya antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk010"
+    },
+    {
+      "id": "pli-tv-bi-6-sk011",
+      "title": "Sekhiyā 11",
+      "category": "sk",
+      "rule": "Na ujjagghikāya antaraghare gamissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk011"
+    },
+    {
+      "id": "pli-tv-bi-6-sk012",
+      "title": "Sekhiyā 12",
+      "category": "sk",
+      "rule": "Na ujjagghikāya antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk012"
+    },
+    {
+      "id": "pli-tv-bi-6-sk013",
+      "title": "Sekhiyā 13",
+      "category": "sk",
+      "rule": "Appasaddā antaraghare gamissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk013"
+    },
+    {
+      "id": "pli-tv-bi-6-sk014",
+      "title": "Sekhiyā 14",
+      "category": "sk",
+      "rule": "Appasaddā antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk014"
+    },
+    {
+      "id": "pli-tv-bi-6-sk015",
+      "title": "Sekhiyā 15",
+      "category": "sk",
+      "rule": "Na kāyappacālakaṁ antaraghare gamissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk015"
+    },
+    {
+      "id": "pli-tv-bi-6-sk016",
+      "title": "Sekhiyā 16",
+      "category": "sk",
+      "rule": "Na kāyappacālakaṁ antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk016"
+    },
+    {
+      "id": "pli-tv-bi-6-sk017",
+      "title": "Sekhiyā 17",
+      "category": "sk",
+      "rule": "Na bāhuppacālakaṁ antaraghare gamissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk017"
+    },
+    {
+      "id": "pli-tv-bi-6-sk018",
+      "title": "Sekhiyā 18",
+      "category": "sk",
+      "rule": "Na bāhuppacālakaṁ antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk018"
+    },
+    {
+      "id": "pli-tv-bi-6-sk019",
+      "title": "Sekhiyā 19",
+      "category": "sk",
+      "rule": "Na sīsappacālakaṁ antaraghare gamissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk019"
+    },
+    {
+      "id": "pli-tv-bi-6-sk020",
+      "title": "Sekhiyā 20",
+      "category": "sk",
+      "rule": "Na sīsappacālakaṁ antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk020"
+    },
+    {
+      "id": "pli-tv-bi-6-sk021",
+      "title": "Sekhiyā 21",
+      "category": "sk",
+      "rule": "Na khambhakatā antaraghare gamissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk021"
+    },
+    {
+      "id": "pli-tv-bi-6-sk022",
+      "title": "Sekhiyā 22",
+      "category": "sk",
+      "rule": "Na khambhakatā antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk022"
+    },
+    {
+      "id": "pli-tv-bi-6-sk023",
+      "title": "Sekhiyā 23",
+      "category": "sk",
+      "rule": "Na oguṇṭhitā antaraghare gamissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk023"
+    },
+    {
+      "id": "pli-tv-bi-6-sk024",
+      "title": "Sekhiyā 24",
+      "category": "sk",
+      "rule": "Na oguṇṭhitā antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk024"
+    },
+    {
+      "id": "pli-tv-bi-6-sk025",
+      "title": "Sekhiyā 25",
+      "category": "sk",
+      "rule": "Na ukkuṭikāya antaraghare gamissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk025"
+    },
+    {
+      "id": "pli-tv-bi-6-sk026",
+      "title": "Sekhiyā 26",
+      "category": "sk",
+      "rule": "Na pallatthikāya antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk026"
+    },
+    {
+      "id": "pli-tv-bi-6-sk027",
+      "title": "Sekhiyā 27",
+      "category": "sk",
+      "rule": "Sakkaccaṁ piṇḍapātaṁ paṭiggahessāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk027"
+    },
+    {
+      "id": "pli-tv-bi-6-sk028",
+      "title": "Sekhiyā 28",
+      "category": "sk",
+      "rule": "Pattasaññinī piṇḍapātaṁ paṭiggahessāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk028"
+    },
+    {
+      "id": "pli-tv-bi-6-sk029",
+      "title": "Sekhiyā 29",
+      "category": "sk",
+      "rule": "Samasūpakaṁ piṇḍapātaṁ paṭiggahessāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk029"
+    },
+    {
+      "id": "pli-tv-bi-6-sk030",
+      "title": "Sekhiyā 30",
+      "category": "sk",
+      "rule": "Samatittikaṁ piṇḍapātaṁ paṭiggahessāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk030"
+    },
+    {
+      "id": "pli-tv-bi-6-sk031",
+      "title": "Sekhiyā 31",
+      "category": "sk",
+      "rule": "Sakkaccaṁ piṇḍapātaṁ bhuñjissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk031"
+    },
+    {
+      "id": "pli-tv-bi-6-sk032",
+      "title": "Sekhiyā 32",
+      "category": "sk",
+      "rule": "Pattasaññinī piṇḍapātaṁ bhuñjissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk032"
+    },
+    {
+      "id": "pli-tv-bi-6-sk033",
+      "title": "Sekhiyā 33",
+      "category": "sk",
+      "rule": "Sapadānaṁ piṇḍapātaṁ bhuñjissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk033"
+    },
+    {
+      "id": "pli-tv-bi-6-sk034",
+      "title": "Sekhiyā 34",
+      "category": "sk",
+      "rule": "Samasūpakaṁ piṇḍapātaṁ bhuñjissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk034"
+    },
+    {
+      "id": "pli-tv-bi-6-sk035",
+      "title": "Sekhiyā 35",
+      "category": "sk",
+      "rule": "Na thūpakato omadditvā piṇḍapātaṁ bhuñjissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk035"
+    },
+    {
+      "id": "pli-tv-bi-6-sk036",
+      "title": "Sekhiyā 36",
+      "category": "sk",
+      "rule": "Na sūpaṁ vā byañjanaṁ vā odanena paṭicchādessāmi bhiyyokamyataṁ upādāyāti sikkhā karaṇīyā.",
+      "imgId": "6-sk036"
+    },
+    {
+      "id": "pli-tv-bi-6-sk037",
+      "title": "Sekhiyā 37",
+      "category": "sk",
+      "rule": "Na sūpaṁ vā odanaṁ vā agilānā attano atthāya viññāpetvā bhuñjissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk037"
+    },
+    {
+      "id": "pli-tv-bi-6-sk038",
+      "title": "Sekhiyā 38",
+      "category": "sk",
+      "rule": "Na ujjhānasaññinī paresaṁ pattaṁ olokessāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk038"
+    },
+    {
+      "id": "pli-tv-bi-6-sk039",
+      "title": "Sekhiyā 39",
+      "category": "sk",
+      "rule": "Nātimahantaṁ kabaḷaṁ karissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk039"
+    },
+    {
+      "id": "pli-tv-bi-6-sk040",
+      "title": "Sekhiyā 40",
+      "category": "sk",
+      "rule": "Parimaṇḍalaṁ ālopaṁ karissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk040"
+    },
+    {
+      "id": "pli-tv-bi-6-sk041",
+      "title": "Sekhiyā 41",
+      "category": "sk",
+      "rule": "Na anāhaṭe kabaḷe mukhadvāraṁ vivarissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk041"
+    },
+    {
+      "id": "pli-tv-bi-6-sk042",
+      "title": "Sekhiyā 42",
+      "category": "sk",
+      "rule": "Na bhuñjamānā sabbahatthaṁ mukhe pakkhipissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk042"
+    },
+    {
+      "id": "pli-tv-bi-6-sk043",
+      "title": "Sekhiyā 43",
+      "category": "sk",
+      "rule": "Na sakabaḷena mukhena byāharissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk043"
+    },
+    {
+      "id": "pli-tv-bi-6-sk044",
+      "title": "Sekhiyā 44",
+      "category": "sk",
+      "rule": "Na piṇḍukkhepakaṁ bhuñjissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk044"
+    },
+    {
+      "id": "pli-tv-bi-6-sk045",
+      "title": "Sekhiyā 45",
+      "category": "sk",
+      "rule": "Na kabaḷāvacchedakaṁ bhuñjissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk045"
+    },
+    {
+      "id": "pli-tv-bi-6-sk046",
+      "title": "Sekhiyā 46",
+      "category": "sk",
+      "rule": "Na avagaṇḍakārakaṁ bhuñjissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk046"
+    },
+    {
+      "id": "pli-tv-bi-6-sk047",
+      "title": "Sekhiyā 47",
+      "category": "sk",
+      "rule": "Na hatthaniddhunakaṁ bhuñjissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk047"
+    },
+    {
+      "id": "pli-tv-bi-6-sk048",
+      "title": "Sekhiyā 48",
+      "category": "sk",
+      "rule": "Na sitthāvakārakaṁ bhuñjissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk048"
+    },
+    {
+      "id": "pli-tv-bi-6-sk049",
+      "title": "Sekhiyā 49",
+      "category": "sk",
+      "rule": "Na jivhānicchārakaṁ bhuñjissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk049"
+    },
+    {
+      "id": "pli-tv-bi-6-sk050",
+      "title": "Sekhiyā 50",
+      "category": "sk",
+      "rule": "Na capucapukārakaṁ bhuñjissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk050"
+    },
+    {
+      "id": "pli-tv-bi-6-sk051",
+      "title": "Sekhiyā 51",
+      "category": "sk",
+      "rule": "Na surusurukārakaṁ bhuñjissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk051"
+    },
+    {
+      "id": "pli-tv-bi-6-sk052",
+      "title": "Sekhiyā 52",
+      "category": "sk",
+      "rule": "Na hatthanillehakaṁ bhuñjissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk052"
+    },
+    {
+      "id": "pli-tv-bi-6-sk053",
+      "title": "Sekhiyā 53",
+      "category": "sk",
+      "rule": "Na pattanillehakaṁ bhuñjissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk053"
+    },
+    {
+      "id": "pli-tv-bi-6-sk054",
+      "title": "Sekhiyā 54",
+      "category": "sk",
+      "rule": "Na oṭṭhanillehakaṁ bhuñjissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk054"
+    },
+    {
+      "id": "pli-tv-bi-6-sk055",
+      "title": "Sekhiyā 55",
+      "category": "sk",
+      "rule": "Na sāmisena hatthena pānīyathālakaṁ paṭiggahessāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk055"
+    },
+    {
+      "id": "pli-tv-bi-6-sk056",
+      "title": "Sekhiyā 56",
+      "category": "sk",
+      "rule": "Na sasitthakaṁ pattadhovanaṁ antaraghare chaḍḍessāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk056"
+    },
+    {
+      "id": "pli-tv-bi-6-sk057",
+      "title": "Sekhiyā 57",
+      "category": "sk",
+      "rule": "Na chattapāṇissa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk057"
+    },
+    {
+      "id": "pli-tv-bi-6-sk058",
+      "title": "Sekhiyā 58",
+      "category": "sk",
+      "rule": "Na daṇḍapāṇissa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk058"
+    },
+    {
+      "id": "pli-tv-bi-6-sk059",
+      "title": "Sekhiyā 59",
+      "category": "sk",
+      "rule": "Na satthapāṇissa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk059"
+    },
+    {
+      "id": "pli-tv-bi-6-sk060",
+      "title": "Sekhiyā 60",
+      "category": "sk",
+      "rule": "Na āvudhapāṇissa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk060"
+    },
+    {
+      "id": "pli-tv-bi-6-sk061",
+      "title": "Sekhiyā 61",
+      "category": "sk",
+      "rule": "Na pādukāruḷhassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk061"
+    },
+    {
+      "id": "pli-tv-bi-6-sk062",
+      "title": "Sekhiyā 62",
+      "category": "sk",
+      "rule": "Na upāhanāruḷhassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk062"
+    },
+    {
+      "id": "pli-tv-bi-6-sk063",
+      "title": "Sekhiyā 63",
+      "category": "sk",
+      "rule": "Na yānagatassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk063"
+    },
+    {
+      "id": "pli-tv-bi-6-sk064",
+      "title": "Sekhiyā 64",
+      "category": "sk",
+      "rule": "Na sayanagatassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk064"
+    },
+    {
+      "id": "pli-tv-bi-6-sk065",
+      "title": "Sekhiyā 65",
+      "category": "sk",
+      "rule": "Na pallatthikāya nisinnassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk065"
+    },
+    {
+      "id": "pli-tv-bi-6-sk066",
+      "title": "Sekhiyā 66",
+      "category": "sk",
+      "rule": "Na veṭhitasīsassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk066"
+    },
+    {
+      "id": "pli-tv-bi-6-sk067",
+      "title": "Sekhiyā 67",
+      "category": "sk",
+      "rule": "Na oguṇṭhitasīsassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk067"
+    },
+    {
+      "id": "pli-tv-bi-6-sk068",
+      "title": "Sekhiyā 68",
+      "category": "sk",
+      "rule": "Na chamāyaṁ nisīditvā āsane nisinnassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk068"
+    },
+    {
+      "id": "pli-tv-bi-6-sk069",
+      "title": "Sekhiyā 69",
+      "category": "sk",
+      "rule": "Na nīce āsane nisīditvā ucce āsane nisinnassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk069"
+    },
+    {
+      "id": "pli-tv-bi-6-sk070",
+      "title": "Sekhiyā 70",
+      "category": "sk",
+      "rule": "Na ṭhitā nisinnassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk070"
+    },
+    {
+      "id": "pli-tv-bi-6-sk071",
+      "title": "Sekhiyā 71",
+      "category": "sk",
+      "rule": "Na pacchato gacchantī purato gacchantassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk071"
+    },
+    {
+      "id": "pli-tv-bi-6-sk072",
+      "title": "Sekhiyā 72",
+      "category": "sk",
+      "rule": "Na uppathena gacchantī pathena gacchantassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk072"
+    },
+    {
+      "id": "pli-tv-bi-6-sk073",
+      "title": "Sekhiyā 73",
+      "category": "sk",
+      "rule": "Na ṭhitā agilānā uccāraṁ vā passāvaṁ vā karissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk073"
+    },
+    {
+      "id": "pli-tv-bi-6-sk074",
+      "title": "Sekhiyā 74",
+      "category": "sk",
+      "rule": "Na harite agilānā uccāraṁ vā passāvaṁ vā kheḷaṁ vā karissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk074"
+    },
+    {
+      "id": "pli-tv-bi-6-sk075",
+      "title": "Sekhiyā 75",
+      "category": "sk",
+      "rule": "Na udake agilānā uccāraṁ vā passāvaṁ vā kheḷaṁ vā karissāmīti sikkhā karaṇīyā.",
+      "imgId": "6-sk075"
+    },
+    {
+      "id": "pli-tv-bi-7-as001",
+      "title": "Adhikaraṇasamatha 1",
+      "category": "as",
+      "rule": "Sammukhāvinayo dātabbo.",
+      "imgId": "7-as001"
+    },
+    {
+      "id": "pli-tv-bi-7-as002",
+      "title": "Adhikaraṇasamatha 2",
+      "category": "as",
+      "rule": "Sativinayo dātabbo.",
+      "imgId": "7-as002"
+    },
+    {
+      "id": "pli-tv-bi-7-as003",
+      "title": "Adhikaraṇasamatha 3",
+      "category": "as",
+      "rule": "Amūḷhavinayo dātabbo.",
+      "imgId": "7-as003"
+    },
+    {
+      "id": "pli-tv-bi-7-as004",
+      "title": "Adhikaraṇasamatha 4",
+      "category": "as",
+      "rule": "Paṭiññāya kāretabbaṁ.",
+      "imgId": "7-as004"
+    },
+    {
+      "id": "pli-tv-bi-7-as005",
+      "title": "Adhikaraṇasamatha 5",
+      "category": "as",
+      "rule": "Yebhuyyasikā.",
+      "imgId": "7-as005"
+    },
+    {
+      "id": "pli-tv-bi-7-as006",
+      "title": "Adhikaraṇasamatha 6",
+      "category": "as",
+      "rule": "Tassapāpiyasikā.",
+      "imgId": "7-as006"
+    },
+    {
+      "id": "pli-tv-bi-7-as007",
+      "title": "Adhikaraṇasamatha 7",
+      "category": "as",
+      "rule": "Tiṇavatthārakoti.",
+      "imgId": "7-as007"
+    }
+  ]
+}

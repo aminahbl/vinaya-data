@@ -1,22 +1,29 @@
 import { getXataClient } from "@xataclient";
+import data from "./v0/json";
 
 const xata = getXataClient();
 
-import data from "./json";
-
-async function updateBiRule(rule: any) {
-  const { id, rule: text, ...rest } = rule;
-  const record = {
-    rule: JSON.stringify(text),
-    ...rest,
-  };
-  await xata.db.rules_bi.createOrUpdate(id, record);
-}
-
-const syncXata = () => {
-  data.rulesBi.forEach(async (rule) => {
-    updateBiRule(rule);
+const updateXata = () => {
+  data.languages.forEach(async (rule) => {
+    const { id, ...record } = rule;
+    await xata.db.languages.createOrUpdate(id, record);
+  });
+  data.translators.forEach(async (rule) => {
+    const { id, ...record } = rule;
+    await xata.db.translators.createOrUpdate(id, record);
+  });
+  data.pliTvPmCategories.forEach(async (rule) => {
+    const { id, ...record } = rule;
+    await xata.db.pli_tv_pm_categories.createOrUpdate(id, record);
+  });
+  data.pliTvPmBiRules.forEach(async (rule) => {
+    const { id, ...record } = rule;
+    await xata.db.pli_tv_pm_bi_rules.createOrUpdate(id, record);
+  });
+  data.pliTvPmBiTranslations.forEach(async (rule) => {
+    const { id, ...record } = rule;
+    await xata.db.pli_tv_pm_bi_translations.createOrUpdate(id, record);
   });
 };
 
-syncXata();
+updateXata();
