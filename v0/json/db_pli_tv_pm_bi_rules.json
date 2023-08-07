@@ -7,7 +7,7 @@
       "rule": "Tatrime aṭṭha pārājikā dhammā uddesaṁ āgacchanti.",
       "imgId": "1-pj001",
       "nextRuleId": "pli-tv-bi-1-pj002",
-      "prevRuleId": ""
+      "prevRuleId": "pli-tv-bi-7-as007"
     },
     {
       "id": "pli-tv-bi-1-pj002",
@@ -3105,7 +3105,7 @@
       "category": "as",
       "rule": "Tiṇavatthārakoti.",
       "imgId": "7-as007",
-      "nextRuleId": "",
+      "nextRuleId": "pli-tv-bi-1-pj001",
       "prevRuleId": "pli-tv-bi-7-as006"
     }
   ]
