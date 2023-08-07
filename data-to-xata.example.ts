@@ -1,9 +1,30 @@
-import { getXataClient } from "@xata";
+import { XataClient } from "@xata";
 import data from "./v0/json";
+
+let instance: XataClient | undefined = undefined;
+
+
+const getXataClient = () => {
+  if (instance) return instance;
+  
+  instance = new XataClient({
+    // Override configuration here
+    // databaseURL: "XATA_DATABASE_URL",
+    apiKey: "API_KEY",
+    // fetch: fetch,
+    // branch: "XATA_BRANCH",
+    // ... other configuration
+  });
+  
+  return instance;
+};
 
 const xata = getXataClient();
 
-// this is to limit the occurrences of requests stalling due to hitting Xata limits 
+/**
+ * This is to limit the occurrences of requests stalling due to hitting Xata limits 
+ *
+ */
 const sleep = (fn: (record: any) => void, delay: number) => {
   return (record: any, i: number) => {
     setTimeout(() => {
@@ -12,6 +33,10 @@ const sleep = (fn: (record: any) => void, delay: number) => {
   }
 };
 
+/**
+ * While everything is being maintained in one project this is a hacky way to update Xata with data edits.
+ *
+ */
 const updateXata = () => {
   const createOrUpdateLanguage = async (language: any) => {
     const { id, ...record } = language;
