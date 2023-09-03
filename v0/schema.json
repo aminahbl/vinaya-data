@@ -1,7 +1,7 @@
 {
   "tables": [
     {
-      "name": "pli_tv_pm_categories",
+      "name": "lookup_rule_class",
       "columns": [
         {
           "name": "title",
@@ -10,6 +10,37 @@
         {
           "name": "position",
           "type": "int"
+        }
+      ]
+    },
+    {
+      "name": "lookup_rule_set",
+      "columns": [
+        {
+          "name": "title",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "lookup_root_language",
+      "columns": [
+        {
+          "name": "language",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "lookup_translation_language",
+      "columns": [
+        {
+          "name": "language",
+          "type": "string"
+        },
+        {
+          "name": "localName",
+          "type": "string"
         }
       ]
     },
@@ -27,123 +58,39 @@
       ]
     },
     {
-      "name": "languages",
-      "columns": [
-        {
-          "name": "language",
-          "type": "string"
-        },
-        {
-          "name": "localName",
-          "type": "string"
-        }
-      ]
-    },
-    {
-      "name": "pli_tv_pm_bi_rules",
-      "columns": [
-        {
-          "name": "title",
-          "type": "string"
-        },
-        {
-          "name": "category",
-          "type": "link",
-          "link": {
-            "table": "pli_tv_pm_categories"
-          }
-        },
-        {
-          "name": "rule",
-          "type": "text"
-        },
-        {
-          "name": "imgId",
-          "type": "string"
-        },
-        {
-          "name": "nextRuleId",
-          "type": "link",
-          "link": {
-            "table": "pli_tv_pm_bi_rules"
-          }
-        },
-        {
-          "name": "prevRuleId",
-          "type": "link",
-          "link": {
-            "table": "pli_tv_pm_bi_rules"
-          }
-        },
-        {
-          "name": "commonPmRule",
-          "type": "link",
-          "link": {
-            "table": "pli_tv_pm_bu_rules"
-          }
-        }
-      ]
-    },
-    {
-      "name": "pli_tv_pm_bu_rules",
-      "columns": [
-        {
-          "name": "title",
-          "type": "string"
-        },
-        {
-          "name": "category",
-          "type": "link",
-          "link": {
-            "table": "pli_tv_pm_categories"
-          }
-        },
-        {
-          "name": "rule",
-          "type": "text"
-        },
-        {
-          "name": "imgId",
-          "type": "string"
-        },
-        {
-          "name": "nextRuleId",
-          "type": "link",
-          "link": {
-            "table": "pli_tv_pm_bu_rules"
-          }
-        },
-        {
-          "name": "prevRuleId",
-          "type": "link",
-          "link": {
-            "table": "pli_tv_pm_bu_rules"
-          }
-        },
-        {
-          "name": "commonPmRule",
-          "type": "link",
-          "link": {
-            "table": "pli_tv_pm_bi_rules"
-          }
-        }
-      ]
-    },
-    {
-      "name": "pli_tv_pm_bi_translations",
+      "name": "parallel_rules",
       "columns": [
         {
           "name": "ruleId",
           "type": "link",
           "link": {
-            "table": "pli_tv_pm_bi_rules"
+            "table": "rules"
+          }
+        },
+        {
+          "name": "parallelRuleId",
+          "type": "link",
+          "link": {
+            "table": "rules"
+          }
+        }
+      ]
+    },
+    {
+      "name": "rule_translations",
+      "columns": [
+        {
+          "name": "ruleId",
+          "type": "link",
+          "link": {
+            "table": "rules"
           }
         },
         {
           "name": "language",
           "type": "link",
           "link": {
-            "table": "languages"
+            "table": "lookup_translation_language"
           }
         },
         {
@@ -160,32 +107,82 @@
       ]
     },
     {
-      "name": "pli_tv_pm_bu_translations",
+      "name": "rules",
       "columns": [
         {
-          "name": "ruleId",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "name": "tradition",
           "type": "link",
           "link": {
-            "table": "pli_tv_pm_bu_rules"
+            "table": "lookup_tradition"
           }
         },
         {
-          "name": "language",
+          "name": "rootLanguage",
           "type": "link",
           "link": {
-            "table": "languages"
+            "table": "lookup_root_language"
           }
         },
         {
-          "name": "translator",
+          "name": "set",
           "type": "link",
           "link": {
-            "table": "translators"
+            "table": "lookup_rule_set"
           }
         },
         {
-          "name": "translation",
+          "name": "class",
+          "type": "link",
+          "link": {
+            "table": "lookup_rule_class"
+          }
+        },
+        {
+          "name": "rule",
           "type": "text"
+        },
+        {
+          "name": "imgId",
+          "type": "string"
+        },
+        {
+          "name": "nextRuleId",
+          "type": "link",
+          "link": {
+            "table": "rules"
+          }
+        },
+        {
+          "name": "prevRuleId",
+          "type": "link",
+          "link": {
+            "table": "rules"
+          }
+        },
+        {
+          "name": "commonRule",
+          "type": "link",
+          "link": {
+            "table": "rules"
+          }
+        },
+        {
+          "name": "parallelRules",
+          "type": "link",
+          "link": {
+            "table": "parallel_rules"
+          }
+        },
+        {
+          "name": "translations",
+          "type": "link",
+          "link": {
+            "table": "rule_translations"
+          }
         }
       ]
     }

@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": "tv",
+      "name": "Theravāda"
+    },
+    {
+      "id": "mg",
+      "name": "Mahāsaṁghika"
+    },
+    {
+      "id": "lo",
+      "name": "Lokuttaravāda Pācittiya"
+    },
+    {
+      "id": "mi",
+      "name": "Mahīśāsaka"
+    },
+    {
+      "id": "dg",
+      "name": "Dharmaguptaka"
+    },
+    {
+      "id": "sarv",
+      "name": "Sarvāstivāda"
+    },
+    {
+      "id": "mu",
+      "name": "Mūlasarvāstivāda"
+    }
+  ]
+}

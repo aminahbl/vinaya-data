@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "id": "pj",
+      "pli": "Pārājika",
+      "lzh": "",
+      "san": "",
+      "pgd": "",
+      "xct": "",
+      "position": 1
+    },
+    {
+      "id": "ss",
+      "pli": "Saṅghādisesa",
+      "lzh": "",
+      "san": "",
+      "pgd": "",
+      "xct": "",
+      "position": 2
+    },
+    {
+      "id": "np",
+      "pli": "Nissaggiya Pācittiya",
+      "lzh": "",
+      "san": "",
+      "pgd": "",
+      "xct": "",
+      "position": 3
+    },
+    {
+      "id": "pc",
+      "pli": "Pācittiya",
+      "lzh": "",
+      "san": "",
+      "pgd": "",
+      "xct": "",
+      "position": 4
+    },
+    {
+      "id": "pd",
+      "pli": "Pāṭidesanīyā",
+      "lzh": "",
+      "san": "",
+      "pgd": "",
+      "xct": "",
+      "position": 5
+    },
+    {
+      "id": "sk",
+      "pli": "Sekhiyā",
+      "lzh": "",
+      "san": "",
+      "pgd": "",
+      "xct": "",
+      "position": 6
+    },
+    {
+      "id": "as",
+      "pli": "Adhikaraṇasamatha",
+      "lzh": "",
+      "san": "",
+      "pgd": "",
+      "xct": "",
+      "position": 7
+    }
+  ]
+}

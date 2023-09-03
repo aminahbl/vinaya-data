@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id": "pli",
+      "name": "Pali"
+    },
+    {
+      "id": "lzh",
+      "name": "Chinese"
+    },
+    {
+      "id": "san",
+      "name": "Sanskrit"
+    },
+    {
+      "id": "pgd",
+      "name": "Prakrit"
+    },
+    {
+      "id": "xct",
+      "name": "Tibetan"
+    }
+  ]
+}

@@ -42,32 +42,49 @@ const updateXata = () => {
     const { id, ...record } = language;
     await xata.db.languages.createOrUpdate(id, record);
   };
-  data.languages.forEach(sleep(createOrUpdateLanguage, 600));
+  data.translationLanguages.forEach(sleep(createOrUpdateLanguage, 200));
 
   const createOrUpdateTranslator = async (translator: any) => {
     const { id, ...record } = translator;
     await xata.db.translators.createOrUpdate(id, record);
   };
-  data.translators.forEach(sleep(createOrUpdateTranslator, 600));
+  data.translators.forEach(sleep(createOrUpdateTranslator, 200));
 
   const createOrUpdateCategory = async (category: any) => {
     const { id, ...record } = category;
     await xata.db.pli_tv_pm_categories.createOrUpdate(id, record);
   };
-  data.pliTvPmCategories.forEach(sleep(createOrUpdateCategory, 600));
+  data.ruleClasses.forEach(sleep(createOrUpdateCategory, 200));
 
   const createOrUpdateRule = async (rule: any) => {
     const { id, ...record } = rule;
     await xata.db.pli_tv_pm_bi_rules.createOrUpdate(id, record);
   };
-  data.pliTvPmBiRules.forEach(sleep(createOrUpdateRule, 600));
+  data.rules.forEach(sleep(createOrUpdateRule, 200));
 
   const createOrUpdateTranslation = async (translation: any) => {
     const { id, ...record } = translation;
     await xata.db.pli_tv_pm_bi_translations.createOrUpdate(id, record);
   };
-  data.pliTvPmBiTranslations.forEach(sleep(createOrUpdateTranslation, 600));
-};
+  data.translations.forEach(sleep(createOrUpdateTranslation, 200));
 
+  const createOrUpdateParallel = async (parallel: any) => {
+    let { id, ruleId, parallelRuleId } = parallel;
+
+    // Ensure the smaller ruleId always comes first
+    if (ruleId > parallelRuleId) {
+      [ruleId, parallelRuleId] = [parallelRuleId, ruleId];
+    }
+
+    // Create a unique identifier for the pair of ruleId and parallelRuleId
+    const uniqueId = `${ruleId}-${parallelRuleId}`;
+
+    // await xata.db.parallel_rules.createOrUpdate(uniqueId, {
+    //   ruleId,
+    //   parallelRuleId,
+    // });
+  };
+  data.translations.forEach(sleep(createOrUpdateTranslation, 200));
+};
 
 updateXata();
