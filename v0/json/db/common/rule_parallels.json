@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "ruleId": "pli-tv-bi-1-pj004",
+      "parallelRuleId": "pli-tv-bi-5-pc104"
+    },
+    {
+      "ruleId": "pli-tv-bi-1-pj004",
+      "parallelRuleId": "pli-tv-bu-1-pj004"
+    },
+    {
+      "ruleId": "pli-tv-bi-1-pj004",
+      "parallelRuleId": "pli-tv-bu-5-pc008"
+    }
+  ]
+}

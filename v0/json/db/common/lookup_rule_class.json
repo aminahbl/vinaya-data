@@ -4,64 +4,73 @@
       "id": "pj",
       "pli": "Pārājika",
       "lzh": "",
-      "san": "",
+      "san": "Pārājikā",
       "pgd": "",
-      "xct": "",
-      "position": 1
+      "xct": "ཕམ་པར་གྱུར་པའི་ཆོས།",
+      "sortId": 1
     },
     {
       "id": "ss",
       "pli": "Saṅghādisesa",
       "lzh": "",
-      "san": "",
+      "san": "Saṃghāvaśeṣā",
       "pgd": "",
-      "xct": "",
-      "position": 2
+      "xct": "དགེ་འདུན་ལྷག་མའི་ཆོས།",
+      "sortId": 2
+    },
+    {
+      "id": "ay",
+      "pli": "Aniyata",
+      "lzh": "",
+      "san": "Aniyatau",
+      "pgd": "",
+      "xct": "མ་ངེས་པའི་ཆོས།",
+      "sortId": 3
     },
     {
       "id": "np",
       "pli": "Nissaggiya Pācittiya",
       "lzh": "",
-      "san": "",
+      "san": "Niḥsargikāḥ Pātayantikā",
       "pgd": "",
-      "xct": "",
-      "position": 3
+      "xct": "སྤང་པའི་ལྟུང་བྱེད་ཀྱི་ཆོས།",
+      "sortId": 4
     },
     {
       "id": "pc",
       "pli": "Pācittiya",
       "lzh": "",
-      "san": "",
+      "san": "Pātayantikā",
       "pgd": "",
-      "xct": "",
-      "position": 4
+      "xct": "ལྟུང་བྱེད་ཀྱི་ཆོས།",
+      "sortId": 5
     },
     {
       "id": "pd",
       "pli": "Pāṭidesanīyā",
       "lzh": "",
-      "san": "",
+      "san": "Prātideśanīyā",
       "pgd": "",
-      "xct": "",
-      "position": 5
+      "xct": "སོ་སོར་བཤགས་པར་བྱ་བའི་ཆོས།",
+      "sortId": 6
     },
     {
       "id": "sk",
       "pli": "Sekhiyā",
       "lzh": "",
-      "san": "",
+      "san": "Saṃbahulāḥ Śaikṣā",
       "pgd": "",
-      "xct": "",
-      "position": 6
+      "xct": "བསླབ་པའི་ཆོས་མང་པོ།",
+      "sortId": 7
     },
     {
       "id": "as",
       "pli": "Adhikaraṇasamatha",
       "lzh": "",
-      "san": "",
+      "san": "Adhikaraṇaśamathā",
       "pgd": "",
-      "xct": "",
-      "position": 7
+      "xct": "རྩོད་པ་ཞི་བར་བྱེད་པའི་ཆོས།",
+      "sortId": 8
     }
   ]
 }

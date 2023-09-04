@@ -2,6 +2,24 @@ import fs from "fs";
 
 const staticSchemaItems = [
   {
+    name: "lookup_root_language",
+    columns: [
+      {
+        name: "language",
+        type: "string",
+      },
+    ],
+  },
+  {
+    name: "lookup_tradition",
+    columns: [
+      {
+        name: "name",
+        type: "string",
+      },
+    ],
+  },
+  {
     name: "lookup_rule_class",
     columns: [
       {
@@ -9,25 +27,16 @@ const staticSchemaItems = [
         type: "string",
       },
       {
-        name: "position",
+        name: "sortId",
         type: "int",
       },
     ],
   },
   {
-    name: "lookup_set",
+    name: "lookup_rule_set",
     columns: [
       {
         name: "title",
-        type: "string",
-      },
-    ],
-  },
-  {
-    name: "lookup_root_language",
-    columns: [
-      {
-        name: "language",
         type: "string",
       },
     ],
@@ -59,7 +68,7 @@ const staticSchemaItems = [
     ],
   },
   {
-    name: "parallel_rules",
+    name: "rule_parallels",
     columns: [
       {
         name: "ruleId",
@@ -111,8 +120,11 @@ const staticSchemaItems = [
     name: "rules",
     columns: [
       {
-        name: "title",
-        type: "string",
+        name: "rootLanguage",
+        type: "link",
+        link: {
+          table: "lookup_root_language",
+        },
       },
       {
         name: "tradition",
@@ -122,17 +134,10 @@ const staticSchemaItems = [
         },
       },
       {
-        name: "rootLanguage",
+        name: "set",
         type: "link",
         link: {
-          table: "lookup_root_language",
-        },
-      },
-      {
-        name: "monasticSet",
-        type: "link",
-        link: {
-          table: "lookup_set",
+          table: "lookup_rule_set",
         },
       },
       {
@@ -141,6 +146,10 @@ const staticSchemaItems = [
         link: {
           table: "lookup_rule_class",
         },
+      },
+      {
+        name: "title",
+        type: "string",
       },
       {
         name: "rule",
@@ -165,24 +174,10 @@ const staticSchemaItems = [
         },
       },
       {
-        name: "commonRule",
+        name: "crossSetRule",
         type: "link",
         link: {
           table: "rules",
-        },
-      },
-      {
-        name: "parallelRules",
-        type: "link",
-        link: {
-          table: "parallel_rules",
-        },
-      },
-      {
-        name: "translations",
-        type: "link",
-        link: {
-          table: "rule_translations",
         },
       },
     ],

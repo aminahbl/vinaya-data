@@ -3,10 +3,9 @@ import data from "./v0/json";
 
 let instance: XataClient | undefined = undefined;
 
-
 const getXataClient = () => {
   if (instance) return instance;
-  
+
   instance = new XataClient({
     // Override configuration here
     // databaseURL: "XATA_DATABASE_URL",
@@ -15,14 +14,14 @@ const getXataClient = () => {
     // branch: "XATA_BRANCH",
     // ... other configuration
   });
-  
+
   return instance;
 };
 
 const xata = getXataClient();
 
 /**
- * This is to limit the occurrences of requests stalling due to hitting Xata limits 
+ * This is to limit the occurrences of requests stalling due to hitting Xata limits
  *
  */
 const sleep = (fn: (record: any) => void, delay: number) => {
@@ -30,7 +29,7 @@ const sleep = (fn: (record: any) => void, delay: number) => {
     setTimeout(() => {
       fn(record);
     }, i * delay);
-  }
+  };
 };
 
 /**
@@ -38,40 +37,46 @@ const sleep = (fn: (record: any) => void, delay: number) => {
  *
  */
 const updateXata = () => {
-  const createOrUpdateLanguage = async (language: any) => {
+  const createOrUpdateRootLangs = async (language: any) => {
     const { id, ...record } = language;
-    await xata.db.languages.createOrUpdate(id, record);
+    await xata.db.lookup_root_language.createOrUpdate(id, record);
   };
-  data.translationLanguages.forEach(sleep(createOrUpdateLanguage, 200));
+  data.rootLanguages.forEach(sleep(createOrUpdateRootLangs, 200));
 
-  const createOrUpdateTranslator = async (translator: any) => {
+  const createOrUpdateTraditions = async (language: any) => {
+    const { id, ...record } = language;
+    await xata.db.lookup_tradition.createOrUpdate(id, record);
+  };
+  data.traditions.forEach(sleep(createOrUpdateTraditions, 200));
+
+  const createOrUpdateRuleClasses = async (language: any) => {
+    const { id, ...record } = language;
+    await xata.db.lookup_rule_class.createOrUpdate(id, record);
+  };
+  data.ruleClasses.forEach(sleep(createOrUpdateRuleClasses, 200));
+
+  const createOrUpdateRuleSets = async (language: any) => {
+    const { id, ...record } = language;
+    await xata.db.lookup_rule_set.createOrUpdate(id, record);
+  };
+  data.ruleClasses.forEach(sleep(createOrUpdateRuleSets, 200));
+
+  const createOrUpdateTransLangs = async (language: any) => {
+    const { id, ...record } = language;
+    await xata.db.lookup_translation_language.createOrUpdate(id, record);
+  };
+  data.translationLanguages.forEach(sleep(createOrUpdateTransLangs, 200));
+
+  const createOrUpdateTranslators = async (translator: any) => {
     const { id, ...record } = translator;
     await xata.db.translators.createOrUpdate(id, record);
   };
-  data.translators.forEach(sleep(createOrUpdateTranslator, 200));
+  data.translators.forEach(sleep(createOrUpdateTranslators, 200));
 
-  const createOrUpdateCategory = async (category: any) => {
-    const { id, ...record } = category;
-    await xata.db.pli_tv_pm_categories.createOrUpdate(id, record);
-  };
-  data.ruleClasses.forEach(sleep(createOrUpdateCategory, 200));
+  const createOrUpdateParallels = async (parallel: any) => {
+    let { ruleId, parallelRuleId } = parallel;
 
-  const createOrUpdateRule = async (rule: any) => {
-    const { id, ...record } = rule;
-    await xata.db.pli_tv_pm_bi_rules.createOrUpdate(id, record);
-  };
-  data.rules.forEach(sleep(createOrUpdateRule, 200));
-
-  const createOrUpdateTranslation = async (translation: any) => {
-    const { id, ...record } = translation;
-    await xata.db.pli_tv_pm_bi_translations.createOrUpdate(id, record);
-  };
-  data.translations.forEach(sleep(createOrUpdateTranslation, 200));
-
-  const createOrUpdateParallel = async (parallel: any) => {
-    let { id, ruleId, parallelRuleId } = parallel;
-
-    // Ensure the smaller ruleId always comes first
+    // Ensure the smaller ruleId always comes first & avoid double entries
     if (ruleId > parallelRuleId) {
       [ruleId, parallelRuleId] = [parallelRuleId, ruleId];
     }
@@ -79,12 +84,24 @@ const updateXata = () => {
     // Create a unique identifier for the pair of ruleId and parallelRuleId
     const uniqueId = `${ruleId}-${parallelRuleId}`;
 
-    // await xata.db.parallel_rules.createOrUpdate(uniqueId, {
-    //   ruleId,
-    //   parallelRuleId,
-    // });
+    await xata.db.rule_parallels.createOrUpdate(uniqueId, {
+      ruleId,
+      parallelRuleId,
+    });
   };
-  data.translations.forEach(sleep(createOrUpdateTranslation, 200));
+  data.parallels.forEach(sleep(createOrUpdateParallels, 200));
+
+  const createOrUpdateTranslations = async (translation: any) => {
+    const { id, ...record } = translation;
+    await xata.db.rule_translations.createOrUpdate(id, record);
+  };
+  data.translations.forEach(sleep(createOrUpdateTranslations, 200));
+
+  const createOrUpdateRule = async (rule: any) => {
+    const { id, ...record } = rule;
+    await xata.db.rules.createOrUpdate(id, record);
+  };
+  data.rules.forEach(sleep(createOrUpdateRule, 200));
 };
 
 updateXata();
