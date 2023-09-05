@@ -1,76 +1,74 @@
-{
-  "data": [
-    {
-      "id": "pj",
-      "pli": "Pārājika",
-      "lzh": "",
-      "san": "Pārājikā",
-      "pgd": "",
-      "xct": "ཕམ་པར་གྱུར་པའི་ཆོས།",
-      "sortId": 1
-    },
-    {
-      "id": "ss",
-      "pli": "Saṅghādisesa",
-      "lzh": "",
-      "san": "Saṃghāvaśeṣā",
-      "pgd": "",
-      "xct": "དགེ་འདུན་ལྷག་མའི་ཆོས།",
-      "sortId": 2
-    },
-    {
-      "id": "ay",
-      "pli": "Aniyata",
-      "lzh": "",
-      "san": "Aniyatau",
-      "pgd": "",
-      "xct": "མ་ངེས་པའི་ཆོས།",
-      "sortId": 3
-    },
-    {
-      "id": "np",
-      "pli": "Nissaggiya Pācittiya",
-      "lzh": "",
-      "san": "Niḥsargikāḥ Pātayantikā",
-      "pgd": "",
-      "xct": "སྤང་པའི་ལྟུང་བྱེད་ཀྱི་ཆོས།",
-      "sortId": 4
-    },
-    {
-      "id": "pc",
-      "pli": "Pācittiya",
-      "lzh": "",
-      "san": "Pātayantikā",
-      "pgd": "",
-      "xct": "ལྟུང་བྱེད་ཀྱི་ཆོས།",
-      "sortId": 5
-    },
-    {
-      "id": "pd",
-      "pli": "Pāṭidesanīyā",
-      "lzh": "",
-      "san": "Prātideśanīyā",
-      "pgd": "",
-      "xct": "སོ་སོར་བཤགས་པར་བྱ་བའི་ཆོས།",
-      "sortId": 6
-    },
-    {
-      "id": "sk",
-      "pli": "Sekhiyā",
-      "lzh": "",
-      "san": "Saṃbahulāḥ Śaikṣā",
-      "pgd": "",
-      "xct": "བསླབ་པའི་ཆོས་མང་པོ།",
-      "sortId": 7
-    },
-    {
-      "id": "as",
-      "pli": "Adhikaraṇasamatha",
-      "lzh": "",
-      "san": "Adhikaraṇaśamathā",
-      "pgd": "",
-      "xct": "རྩོད་པ་ཞི་བར་བྱེད་པའི་ཆོས།",
-      "sortId": 8
-    }
-  ]
-}
+[
+  {
+    "id": "pj",
+    "pli": "Pārājika",
+    "lzh": "",
+    "san": "Pārājikā",
+    "pgd": "",
+    "xct": "ཕམ་པར་གྱུར་པའི་ཆོས།",
+    "sortId": 1
+  },
+  {
+    "id": "ss",
+    "pli": "Saṅghādisesa",
+    "lzh": "",
+    "san": "Saṃghāvaśeṣā",
+    "pgd": "",
+    "xct": "དགེ་འདུན་ལྷག་མའི་ཆོས།",
+    "sortId": 2
+  },
+  {
+    "id": "ay",
+    "pli": "Aniyata",
+    "lzh": "",
+    "san": "Aniyatau",
+    "pgd": "",
+    "xct": "མ་ངེས་པའི་ཆོས།",
+    "sortId": 3
+  },
+  {
+    "id": "np",
+    "pli": "Nissaggiya Pācittiya",
+    "lzh": "",
+    "san": "Niḥsargikāḥ Pātayantikā",
+    "pgd": "",
+    "xct": "སྤང་པའི་ལྟུང་བྱེད་ཀྱི་ཆོས།",
+    "sortId": 4
+  },
+  {
+    "id": "pc",
+    "pli": "Pācittiya",
+    "lzh": "",
+    "san": "Pātayantikā",
+    "pgd": "",
+    "xct": "ལྟུང་བྱེད་ཀྱི་ཆོས།",
+    "sortId": 5
+  },
+  {
+    "id": "pd",
+    "pli": "Pāṭidesanīyā",
+    "lzh": "",
+    "san": "Prātideśanīyā",
+    "pgd": "",
+    "xct": "སོ་སོར་བཤགས་པར་བྱ་བའི་ཆོས།",
+    "sortId": 6
+  },
+  {
+    "id": "sk",
+    "pli": "Sekhiyā",
+    "lzh": "",
+    "san": "Saṃbahulāḥ Śaikṣā",
+    "pgd": "",
+    "xct": "བསླབ་པའི་ཆོས་མང་པོ།",
+    "sortId": 7
+  },
+  {
+    "id": "as",
+    "pli": "Adhikaraṇasamatha",
+    "lzh": "",
+    "san": "Adhikaraṇaśamathā",
+    "pgd": "",
+    "xct": "རྩོད་པ་ཞི་བར་བྱེད་པའི་ཆོས།",
+    "sortId": 8
+  }
+]

@@ -1,16 +1,932 @@
-{
-  "data": [
-    {
-      "ruleId": "pli-tv-bi-1-pj004",
-      "parallelRuleId": "pli-tv-bi-5-pc104"
-    },
-    {
-      "ruleId": "pli-tv-bi-1-pj004",
-      "parallelRuleId": "pli-tv-bu-1-pj004"
-    },
-    {
-      "ruleId": "pli-tv-bi-1-pj004",
-      "parallelRuleId": "pli-tv-bu-5-pc008"
-    }
-  ]
-}
+[
+  {
+    "id": "pli-tv-bi-1-pj001-pli-tv-bu-1-pj001",
+    "ruleId": "pli-tv-bi-1-pj001",
+    "parallelRuleId": "pli-tv-bu-1-pj001"
+  },
+  {
+    "id": "pli-tv-bi-1-pj002-pli-tv-bu-1-pj002",
+    "ruleId": "pli-tv-bi-1-pj002",
+    "parallelRuleId": "pli-tv-bu-1-pj002"
+  },
+  {
+    "id": "pli-tv-bi-1-pj003-pli-tv-bu-1-pj003",
+    "ruleId": "pli-tv-bi-1-pj003",
+    "parallelRuleId": "pli-tv-bu-1-pj003"
+  },
+  {
+    "id": "pli-tv-bi-1-pj004-pli-tv-bi-5-pc104",
+    "ruleId": "pli-tv-bi-1-pj004",
+    "parallelRuleId": "pli-tv-bi-5-pc104"
+  },
+  {
+    "id": "pli-tv-bi-1-pj004-pli-tv-bu-1-pj004",
+    "ruleId": "pli-tv-bi-1-pj004",
+    "parallelRuleId": "pli-tv-bu-1-pj004"
+  },
+  {
+    "id": "pli-tv-bi-1-pj004-pli-tv-bu-5-pc008",
+    "ruleId": "pli-tv-bi-1-pj004",
+    "parallelRuleId": "pli-tv-bu-5-pc008"
+  },
+  {
+    "id": "pli-tv-bi-2-ss007-pli-tv-bu-2-ss005",
+    "ruleId": "pli-tv-bi-2-ss007",
+    "parallelRuleId": "pli-tv-bu-2-ss005"
+  },
+  {
+    "id": "pli-tv-bi-2-ss008-pli-tv-bu-2-ss008",
+    "ruleId": "pli-tv-bi-2-ss008",
+    "parallelRuleId": "pli-tv-bu-2-ss008"
+  },
+  {
+    "id": "pli-tv-bi-2-ss009-pli-tv-bu-2-ss009",
+    "ruleId": "pli-tv-bi-2-ss009",
+    "parallelRuleId": "pli-tv-bu-2-ss009"
+  },
+  {
+    "id": "pli-tv-bi-2-ss014-pli-tv-bu-2-ss010",
+    "ruleId": "pli-tv-bi-2-ss014",
+    "parallelRuleId": "pli-tv-bu-2-ss010"
+  },
+  {
+    "id": "pli-tv-bi-2-ss015-pli-tv-bu-2-ss011",
+    "ruleId": "pli-tv-bi-2-ss015",
+    "parallelRuleId": "pli-tv-bu-2-ss011"
+  },
+  {
+    "id": "pli-tv-bi-2-ss016-pli-tv-bu-2-ss012",
+    "ruleId": "pli-tv-bi-2-ss016",
+    "parallelRuleId": "pli-tv-bu-2-ss012"
+  },
+  {
+    "id": "pli-tv-bi-2-ss017-pli-tv-bu-2-ss013",
+    "ruleId": "pli-tv-bi-2-ss017",
+    "parallelRuleId": "pli-tv-bu-2-ss013"
+  },
+  {
+    "id": "pli-tv-bi-4-np013-pli-tv-bu-4-np001",
+    "ruleId": "pli-tv-bi-4-np013",
+    "parallelRuleId": "pli-tv-bu-4-np001"
+  },
+  {
+    "id": "pli-tv-bi-4-np014-pli-tv-bu-4-np002",
+    "ruleId": "pli-tv-bi-4-np014",
+    "parallelRuleId": "pli-tv-bu-4-np002"
+  },
+  {
+    "id": "pli-tv-bi-4-np015-pli-tv-bu-4-np003",
+    "ruleId": "pli-tv-bi-4-np015",
+    "parallelRuleId": "pli-tv-bu-4-np003"
+  },
+  {
+    "id": "pli-tv-bi-4-np016-pli-tv-bu-4-np006",
+    "ruleId": "pli-tv-bi-4-np016",
+    "parallelRuleId": "pli-tv-bu-4-np006"
+  },
+  {
+    "id": "pli-tv-bi-4-np017-pli-tv-bu-4-np007",
+    "ruleId": "pli-tv-bi-4-np017",
+    "parallelRuleId": "pli-tv-bu-4-np007"
+  },
+  {
+    "id": "pli-tv-bi-4-np018-pli-tv-bu-4-np008",
+    "ruleId": "pli-tv-bi-4-np018",
+    "parallelRuleId": "pli-tv-bu-4-np008"
+  },
+  {
+    "id": "pli-tv-bi-4-np019-pli-tv-bu-4-np009",
+    "ruleId": "pli-tv-bi-4-np019",
+    "parallelRuleId": "pli-tv-bu-4-np009"
+  },
+  {
+    "id": "pli-tv-bi-4-np020-pli-tv-bu-4-np010",
+    "ruleId": "pli-tv-bi-4-np020",
+    "parallelRuleId": "pli-tv-bu-4-np010"
+  },
+  {
+    "id": "pli-tv-bi-4-np021-pli-tv-bu-4-np018",
+    "ruleId": "pli-tv-bi-4-np021",
+    "parallelRuleId": "pli-tv-bu-4-np018"
+  },
+  {
+    "id": "pli-tv-bi-4-np022-pli-tv-bu-4-np019",
+    "ruleId": "pli-tv-bi-4-np022",
+    "parallelRuleId": "pli-tv-bu-4-np019"
+  },
+  {
+    "id": "pli-tv-bi-4-np023-pli-tv-bu-4-np020",
+    "ruleId": "pli-tv-bi-4-np023",
+    "parallelRuleId": "pli-tv-bu-4-np020"
+  },
+  {
+    "id": "pli-tv-bi-4-np024-pli-tv-bu-4-np022",
+    "ruleId": "pli-tv-bi-4-np024",
+    "parallelRuleId": "pli-tv-bu-4-np022"
+  },
+  {
+    "id": "pli-tv-bi-4-np025-pli-tv-bu-4-np023",
+    "ruleId": "pli-tv-bi-4-np025",
+    "parallelRuleId": "pli-tv-bu-4-np023"
+  },
+  {
+    "id": "pli-tv-bi-4-np026-pli-tv-bu-4-np025",
+    "ruleId": "pli-tv-bi-4-np026",
+    "parallelRuleId": "pli-tv-bu-4-np025"
+  },
+  {
+    "id": "pli-tv-bi-4-np027-pli-tv-bu-4-np026",
+    "ruleId": "pli-tv-bi-4-np027",
+    "parallelRuleId": "pli-tv-bu-4-np026"
+  },
+  {
+    "id": "pli-tv-bi-4-np028-pli-tv-bu-4-np027",
+    "ruleId": "pli-tv-bi-4-np028",
+    "parallelRuleId": "pli-tv-bu-4-np027"
+  },
+  {
+    "id": "pli-tv-bi-4-np029-pli-tv-bu-4-np028",
+    "ruleId": "pli-tv-bi-4-np029",
+    "parallelRuleId": "pli-tv-bu-4-np028"
+  },
+  {
+    "id": "pli-tv-bi-4-np030-pli-tv-bu-4-np030",
+    "ruleId": "pli-tv-bi-4-np030",
+    "parallelRuleId": "pli-tv-bu-4-np030"
+  },
+  {
+    "id": "pli-tv-bi-5-pc088-pli-tv-bi-5-pc089",
+    "ruleId": "pli-tv-bi-5-pc088",
+    "parallelRuleId": "pli-tv-bi-5-pc089"
+  },
+  {
+    "id": "pli-tv-bi-5-pc097-pli-tv-bu-5-pc001",
+    "ruleId": "pli-tv-bi-5-pc097",
+    "parallelRuleId": "pli-tv-bu-5-pc001"
+  },
+  {
+    "id": "pli-tv-bi-5-pc098-pli-tv-bu-5-pc002",
+    "ruleId": "pli-tv-bi-5-pc098",
+    "parallelRuleId": "pli-tv-bu-5-pc002"
+  },
+  {
+    "id": "pli-tv-bi-5-pc099-pli-tv-bu-5-pc003",
+    "ruleId": "pli-tv-bi-5-pc099",
+    "parallelRuleId": "pli-tv-bu-5-pc003"
+  },
+  {
+    "id": "pli-tv-bi-5-pc100-pli-tv-bu-5-pc004",
+    "ruleId": "pli-tv-bi-5-pc100",
+    "parallelRuleId": "pli-tv-bu-5-pc004"
+  },
+  {
+    "id": "pli-tv-bi-5-pc101-pli-tv-bu-5-pc005",
+    "ruleId": "pli-tv-bi-5-pc101",
+    "parallelRuleId": "pli-tv-bu-5-pc005"
+  },
+  {
+    "id": "pli-tv-bi-5-pc102-pli-tv-bu-5-pc006",
+    "ruleId": "pli-tv-bi-5-pc102",
+    "parallelRuleId": "pli-tv-bu-5-pc006"
+  },
+  {
+    "id": "pli-tv-bi-5-pc103-pli-tv-bu-5-pc007",
+    "ruleId": "pli-tv-bi-5-pc103",
+    "parallelRuleId": "pli-tv-bu-5-pc007"
+  },
+  {
+    "id": "pli-tv-bi-5-pc104-pli-tv-bu-5-pc008",
+    "ruleId": "pli-tv-bi-5-pc104",
+    "parallelRuleId": "pli-tv-bu-5-pc008"
+  },
+  {
+    "id": "pli-tv-bi-5-pc105-pli-tv-bu-5-pc009",
+    "ruleId": "pli-tv-bi-5-pc105",
+    "parallelRuleId": "pli-tv-bu-5-pc009"
+  },
+  {
+    "id": "pli-tv-bi-5-pc106-pli-tv-bu-5-pc010",
+    "ruleId": "pli-tv-bi-5-pc106",
+    "parallelRuleId": "pli-tv-bu-5-pc010"
+  },
+  {
+    "id": "pli-tv-bi-5-pc107-pli-tv-bu-5-pc011",
+    "ruleId": "pli-tv-bi-5-pc107",
+    "parallelRuleId": "pli-tv-bu-5-pc011"
+  },
+  {
+    "id": "pli-tv-bi-5-pc108-pli-tv-bu-5-pc012",
+    "ruleId": "pli-tv-bi-5-pc108",
+    "parallelRuleId": "pli-tv-bu-5-pc012"
+  },
+  {
+    "id": "pli-tv-bi-5-pc109-pli-tv-bu-5-pc013",
+    "ruleId": "pli-tv-bi-5-pc109",
+    "parallelRuleId": "pli-tv-bu-5-pc013"
+  },
+  {
+    "id": "pli-tv-bi-5-pc110-pli-tv-bu-5-pc014",
+    "ruleId": "pli-tv-bi-5-pc110",
+    "parallelRuleId": "pli-tv-bu-5-pc014"
+  },
+  {
+    "id": "pli-tv-bi-5-pc111-pli-tv-bu-5-pc015",
+    "ruleId": "pli-tv-bi-5-pc111",
+    "parallelRuleId": "pli-tv-bu-5-pc015"
+  },
+  {
+    "id": "pli-tv-bi-5-pc112-pli-tv-bu-5-pc016",
+    "ruleId": "pli-tv-bi-5-pc112",
+    "parallelRuleId": "pli-tv-bu-5-pc016"
+  },
+  {
+    "id": "pli-tv-bi-5-pc113-pli-tv-bu-5-pc017",
+    "ruleId": "pli-tv-bi-5-pc113",
+    "parallelRuleId": "pli-tv-bu-5-pc017"
+  },
+  {
+    "id": "pli-tv-bi-5-pc114-pli-tv-bu-5-pc018",
+    "ruleId": "pli-tv-bi-5-pc114",
+    "parallelRuleId": "pli-tv-bu-5-pc018"
+  },
+  {
+    "id": "pli-tv-bi-5-pc115-pli-tv-bu-5-pc019",
+    "ruleId": "pli-tv-bi-5-pc115",
+    "parallelRuleId": "pli-tv-bu-5-pc019"
+  },
+  {
+    "id": "pli-tv-bi-5-pc116-pli-tv-bu-5-pc020",
+    "ruleId": "pli-tv-bi-5-pc116",
+    "parallelRuleId": "pli-tv-bu-5-pc020"
+  },
+  {
+    "id": "pli-tv-bi-5-pc117-pli-tv-bu-5-pc031",
+    "ruleId": "pli-tv-bi-5-pc117",
+    "parallelRuleId": "pli-tv-bu-5-pc031"
+  },
+  {
+    "id": "pli-tv-bi-5-pc118-pli-tv-bu-5-pc032",
+    "ruleId": "pli-tv-bi-5-pc118",
+    "parallelRuleId": "pli-tv-bu-5-pc032"
+  },
+  {
+    "id": "pli-tv-bi-5-pc119-pli-tv-bu-5-pc034",
+    "ruleId": "pli-tv-bi-5-pc119",
+    "parallelRuleId": "pli-tv-bu-5-pc034"
+  },
+  {
+    "id": "pli-tv-bi-5-pc120-pli-tv-bu-5-pc037",
+    "ruleId": "pli-tv-bi-5-pc120",
+    "parallelRuleId": "pli-tv-bu-5-pc037"
+  },
+  {
+    "id": "pli-tv-bi-5-pc121-pli-tv-bu-5-pc038",
+    "ruleId": "pli-tv-bi-5-pc121",
+    "parallelRuleId": "pli-tv-bu-5-pc038"
+  },
+  {
+    "id": "pli-tv-bi-5-pc122-pli-tv-bu-5-pc040",
+    "ruleId": "pli-tv-bi-5-pc122",
+    "parallelRuleId": "pli-tv-bu-5-pc040"
+  },
+  {
+    "id": "pli-tv-bi-5-pc123-pli-tv-bu-5-pc042",
+    "ruleId": "pli-tv-bi-5-pc123",
+    "parallelRuleId": "pli-tv-bu-5-pc042"
+  },
+  {
+    "id": "pli-tv-bi-5-pc124-pli-tv-bu-5-pc043",
+    "ruleId": "pli-tv-bi-5-pc124",
+    "parallelRuleId": "pli-tv-bu-5-pc043"
+  },
+  {
+    "id": "pli-tv-bi-5-pc125-pli-tv-bu-5-pc044",
+    "ruleId": "pli-tv-bi-5-pc125",
+    "parallelRuleId": "pli-tv-bu-5-pc044"
+  },
+  {
+    "id": "pli-tv-bi-5-pc126-pli-tv-bu-5-pc045",
+    "ruleId": "pli-tv-bi-5-pc126",
+    "parallelRuleId": "pli-tv-bu-5-pc045"
+  },
+  {
+    "id": "pli-tv-bi-5-pc127-pli-tv-bu-5-pc046",
+    "ruleId": "pli-tv-bi-5-pc127",
+    "parallelRuleId": "pli-tv-bu-5-pc046"
+  },
+  {
+    "id": "pli-tv-bi-5-pc128-pli-tv-bu-5-pc047",
+    "ruleId": "pli-tv-bi-5-pc128",
+    "parallelRuleId": "pli-tv-bu-5-pc047"
+  },
+  {
+    "id": "pli-tv-bi-5-pc129-pli-tv-bu-5-pc048",
+    "ruleId": "pli-tv-bi-5-pc129",
+    "parallelRuleId": "pli-tv-bu-5-pc048"
+  },
+  {
+    "id": "pli-tv-bi-5-pc130-pli-tv-bu-5-pc049",
+    "ruleId": "pli-tv-bi-5-pc130",
+    "parallelRuleId": "pli-tv-bu-5-pc049"
+  },
+  {
+    "id": "pli-tv-bi-5-pc131-pli-tv-bu-5-pc050",
+    "ruleId": "pli-tv-bi-5-pc131",
+    "parallelRuleId": "pli-tv-bu-5-pc050"
+  },
+  {
+    "id": "pli-tv-bi-5-pc132-pli-tv-bu-5-pc051",
+    "ruleId": "pli-tv-bi-5-pc132",
+    "parallelRuleId": "pli-tv-bu-5-pc051"
+  },
+  {
+    "id": "pli-tv-bi-5-pc133-pli-tv-bu-5-pc052",
+    "ruleId": "pli-tv-bi-5-pc133",
+    "parallelRuleId": "pli-tv-bu-5-pc052"
+  },
+  {
+    "id": "pli-tv-bi-5-pc134-pli-tv-bu-5-pc053",
+    "ruleId": "pli-tv-bi-5-pc134",
+    "parallelRuleId": "pli-tv-bu-5-pc053"
+  },
+  {
+    "id": "pli-tv-bi-5-pc135-pli-tv-bu-5-pc054",
+    "ruleId": "pli-tv-bi-5-pc135",
+    "parallelRuleId": "pli-tv-bu-5-pc054"
+  },
+  {
+    "id": "pli-tv-bi-5-pc136-pli-tv-bu-5-pc055",
+    "ruleId": "pli-tv-bi-5-pc136",
+    "parallelRuleId": "pli-tv-bu-5-pc055"
+  },
+  {
+    "id": "pli-tv-bi-5-pc137-pli-tv-bu-5-pc056",
+    "ruleId": "pli-tv-bi-5-pc137",
+    "parallelRuleId": "pli-tv-bu-5-pc056"
+  },
+  {
+    "id": "pli-tv-bi-5-pc138-pli-tv-bu-5-pc057",
+    "ruleId": "pli-tv-bi-5-pc138",
+    "parallelRuleId": "pli-tv-bu-5-pc057"
+  },
+  {
+    "id": "pli-tv-bi-5-pc139-pli-tv-bu-5-pc058",
+    "ruleId": "pli-tv-bi-5-pc139",
+    "parallelRuleId": "pli-tv-bu-5-pc058"
+  },
+  {
+    "id": "pli-tv-bi-5-pc140-pli-tv-bu-5-pc059",
+    "ruleId": "pli-tv-bi-5-pc140",
+    "parallelRuleId": "pli-tv-bu-5-pc059"
+  },
+  {
+    "id": "pli-tv-bi-5-pc141-pli-tv-bu-5-pc060",
+    "ruleId": "pli-tv-bi-5-pc141",
+    "parallelRuleId": "pli-tv-bu-5-pc060"
+  },
+  {
+    "id": "pli-tv-bi-5-pc142-pli-tv-bu-5-pc061",
+    "ruleId": "pli-tv-bi-5-pc142",
+    "parallelRuleId": "pli-tv-bu-5-pc061"
+  },
+  {
+    "id": "pli-tv-bi-5-pc143-pli-tv-bu-5-pc062",
+    "ruleId": "pli-tv-bi-5-pc143",
+    "parallelRuleId": "pli-tv-bu-5-pc062"
+  },
+  {
+    "id": "pli-tv-bi-5-pc144-pli-tv-bu-5-pc063",
+    "ruleId": "pli-tv-bi-5-pc144",
+    "parallelRuleId": "pli-tv-bu-5-pc063"
+  },
+  {
+    "id": "pli-tv-bi-5-pc145-pli-tv-bu-5-pc066",
+    "ruleId": "pli-tv-bi-5-pc145",
+    "parallelRuleId": "pli-tv-bu-5-pc066"
+  },
+  {
+    "id": "pli-tv-bi-5-pc146-pli-tv-bu-5-pc068",
+    "ruleId": "pli-tv-bi-5-pc146",
+    "parallelRuleId": "pli-tv-bu-5-pc068"
+  },
+  {
+    "id": "pli-tv-bi-5-pc147-pli-tv-bu-5-pc069",
+    "ruleId": "pli-tv-bi-5-pc147",
+    "parallelRuleId": "pli-tv-bu-5-pc069"
+  },
+  {
+    "id": "pli-tv-bi-5-pc148-pli-tv-bu-5-pc070",
+    "ruleId": "pli-tv-bi-5-pc148",
+    "parallelRuleId": "pli-tv-bu-5-pc070"
+  },
+  {
+    "id": "pli-tv-bi-5-pc149-pli-tv-bu-5-pc071",
+    "ruleId": "pli-tv-bi-5-pc149",
+    "parallelRuleId": "pli-tv-bu-5-pc071"
+  },
+  {
+    "id": "pli-tv-bi-5-pc150-pli-tv-bu-5-pc072",
+    "ruleId": "pli-tv-bi-5-pc150",
+    "parallelRuleId": "pli-tv-bu-5-pc072"
+  },
+  {
+    "id": "pli-tv-bi-5-pc151-pli-tv-bu-5-pc073",
+    "ruleId": "pli-tv-bi-5-pc151",
+    "parallelRuleId": "pli-tv-bu-5-pc073"
+  },
+  {
+    "id": "pli-tv-bi-5-pc152-pli-tv-bu-5-pc074",
+    "ruleId": "pli-tv-bi-5-pc152",
+    "parallelRuleId": "pli-tv-bu-5-pc074"
+  },
+  {
+    "id": "pli-tv-bi-5-pc153-pli-tv-bu-5-pc075",
+    "ruleId": "pli-tv-bi-5-pc153",
+    "parallelRuleId": "pli-tv-bu-5-pc075"
+  },
+  {
+    "id": "pli-tv-bi-5-pc154-pli-tv-bu-5-pc076",
+    "ruleId": "pli-tv-bi-5-pc154",
+    "parallelRuleId": "pli-tv-bu-5-pc076"
+  },
+  {
+    "id": "pli-tv-bi-5-pc155-pli-tv-bu-5-pc077",
+    "ruleId": "pli-tv-bi-5-pc155",
+    "parallelRuleId": "pli-tv-bu-5-pc077"
+  },
+  {
+    "id": "pli-tv-bi-5-pc156-pli-tv-bu-5-pc078",
+    "ruleId": "pli-tv-bi-5-pc156",
+    "parallelRuleId": "pli-tv-bu-5-pc078"
+  },
+  {
+    "id": "pli-tv-bi-5-pc157-pli-tv-bu-5-pc079",
+    "ruleId": "pli-tv-bi-5-pc157",
+    "parallelRuleId": "pli-tv-bu-5-pc079"
+  },
+  {
+    "id": "pli-tv-bi-5-pc158-pli-tv-bu-5-pc080",
+    "ruleId": "pli-tv-bi-5-pc158",
+    "parallelRuleId": "pli-tv-bu-5-pc080"
+  },
+  {
+    "id": "pli-tv-bi-5-pc159-pli-tv-bu-5-pc081",
+    "ruleId": "pli-tv-bi-5-pc159",
+    "parallelRuleId": "pli-tv-bu-5-pc081"
+  },
+  {
+    "id": "pli-tv-bi-5-pc160-pli-tv-bu-5-pc082",
+    "ruleId": "pli-tv-bi-5-pc160",
+    "parallelRuleId": "pli-tv-bu-5-pc082"
+  },
+  {
+    "id": "pli-tv-bi-5-pc161-pli-tv-bu-5-pc084",
+    "ruleId": "pli-tv-bi-5-pc161",
+    "parallelRuleId": "pli-tv-bu-5-pc084"
+  },
+  {
+    "id": "pli-tv-bi-5-pc162-pli-tv-bu-5-pc086",
+    "ruleId": "pli-tv-bi-5-pc162",
+    "parallelRuleId": "pli-tv-bu-5-pc086"
+  },
+  {
+    "id": "pli-tv-bi-5-pc163-pli-tv-bu-5-pc087",
+    "ruleId": "pli-tv-bi-5-pc163",
+    "parallelRuleId": "pli-tv-bu-5-pc087"
+  },
+  {
+    "id": "pli-tv-bi-5-pc164-pli-tv-bu-5-pc088",
+    "ruleId": "pli-tv-bi-5-pc164",
+    "parallelRuleId": "pli-tv-bu-5-pc088"
+  },
+  {
+    "id": "pli-tv-bi-5-pc165-pli-tv-bu-5-pc090",
+    "ruleId": "pli-tv-bi-5-pc165",
+    "parallelRuleId": "pli-tv-bu-5-pc090"
+  },
+  {
+    "id": "pli-tv-bi-5-pc166-pli-tv-bu-5-pc092",
+    "ruleId": "pli-tv-bi-5-pc166",
+    "parallelRuleId": "pli-tv-bu-5-pc092"
+  },
+  {
+    "id": "pli-tv-bi-7-sk001-pli-tv-bu-7-sk001",
+    "ruleId": "pli-tv-bi-7-sk001",
+    "parallelRuleId": "pli-tv-bu-7-sk001"
+  },
+  {
+    "id": "pli-tv-bi-7-sk002-pli-tv-bu-7-sk002",
+    "ruleId": "pli-tv-bi-7-sk002",
+    "parallelRuleId": "pli-tv-bu-7-sk002"
+  },
+  {
+    "id": "pli-tv-bi-7-sk003-pli-tv-bu-7-sk003",
+    "ruleId": "pli-tv-bi-7-sk003",
+    "parallelRuleId": "pli-tv-bu-7-sk003"
+  },
+  {
+    "id": "pli-tv-bi-7-sk004-pli-tv-bu-7-sk004",
+    "ruleId": "pli-tv-bi-7-sk004",
+    "parallelRuleId": "pli-tv-bu-7-sk004"
+  },
+  {
+    "id": "pli-tv-bi-7-sk005-pli-tv-bu-7-sk005",
+    "ruleId": "pli-tv-bi-7-sk005",
+    "parallelRuleId": "pli-tv-bu-7-sk005"
+  },
+  {
+    "id": "pli-tv-bi-7-sk006-pli-tv-bu-7-sk006",
+    "ruleId": "pli-tv-bi-7-sk006",
+    "parallelRuleId": "pli-tv-bu-7-sk006"
+  },
+  {
+    "id": "pli-tv-bi-7-sk007-pli-tv-bu-7-sk007",
+    "ruleId": "pli-tv-bi-7-sk007",
+    "parallelRuleId": "pli-tv-bu-7-sk007"
+  },
+  {
+    "id": "pli-tv-bi-7-sk008-pli-tv-bu-7-sk008",
+    "ruleId": "pli-tv-bi-7-sk008",
+    "parallelRuleId": "pli-tv-bu-7-sk008"
+  },
+  {
+    "id": "pli-tv-bi-7-sk009-pli-tv-bu-7-sk009",
+    "ruleId": "pli-tv-bi-7-sk009",
+    "parallelRuleId": "pli-tv-bu-7-sk009"
+  },
+  {
+    "id": "pli-tv-bi-7-sk010-pli-tv-bu-7-sk010",
+    "ruleId": "pli-tv-bi-7-sk010",
+    "parallelRuleId": "pli-tv-bu-7-sk010"
+  },
+  {
+    "id": "pli-tv-bi-7-sk011-pli-tv-bu-7-sk011",
+    "ruleId": "pli-tv-bi-7-sk011",
+    "parallelRuleId": "pli-tv-bu-7-sk011"
+  },
+  {
+    "id": "pli-tv-bi-7-sk012-pli-tv-bu-7-sk012",
+    "ruleId": "pli-tv-bi-7-sk012",
+    "parallelRuleId": "pli-tv-bu-7-sk012"
+  },
+  {
+    "id": "pli-tv-bi-7-sk013-pli-tv-bu-7-sk013",
+    "ruleId": "pli-tv-bi-7-sk013",
+    "parallelRuleId": "pli-tv-bu-7-sk013"
+  },
+  {
+    "id": "pli-tv-bi-7-sk014-pli-tv-bu-7-sk014",
+    "ruleId": "pli-tv-bi-7-sk014",
+    "parallelRuleId": "pli-tv-bu-7-sk014"
+  },
+  {
+    "id": "pli-tv-bi-7-sk015-pli-tv-bu-7-sk015",
+    "ruleId": "pli-tv-bi-7-sk015",
+    "parallelRuleId": "pli-tv-bu-7-sk015"
+  },
+  {
+    "id": "pli-tv-bi-7-sk016-pli-tv-bu-7-sk016",
+    "ruleId": "pli-tv-bi-7-sk016",
+    "parallelRuleId": "pli-tv-bu-7-sk016"
+  },
+  {
+    "id": "pli-tv-bi-7-sk017-pli-tv-bu-7-sk017",
+    "ruleId": "pli-tv-bi-7-sk017",
+    "parallelRuleId": "pli-tv-bu-7-sk017"
+  },
+  {
+    "id": "pli-tv-bi-7-sk018-pli-tv-bu-7-sk018",
+    "ruleId": "pli-tv-bi-7-sk018",
+    "parallelRuleId": "pli-tv-bu-7-sk018"
+  },
+  {
+    "id": "pli-tv-bi-7-sk019-pli-tv-bu-7-sk019",
+    "ruleId": "pli-tv-bi-7-sk019",
+    "parallelRuleId": "pli-tv-bu-7-sk019"
+  },
+  {
+    "id": "pli-tv-bi-7-sk020-pli-tv-bu-7-sk020",
+    "ruleId": "pli-tv-bi-7-sk020",
+    "parallelRuleId": "pli-tv-bu-7-sk020"
+  },
+  {
+    "id": "pli-tv-bi-7-sk021-pli-tv-bu-7-sk021",
+    "ruleId": "pli-tv-bi-7-sk021",
+    "parallelRuleId": "pli-tv-bu-7-sk021"
+  },
+  {
+    "id": "pli-tv-bi-7-sk022-pli-tv-bu-7-sk022",
+    "ruleId": "pli-tv-bi-7-sk022",
+    "parallelRuleId": "pli-tv-bu-7-sk022"
+  },
+  {
+    "id": "pli-tv-bi-7-sk023-pli-tv-bu-7-sk023",
+    "ruleId": "pli-tv-bi-7-sk023",
+    "parallelRuleId": "pli-tv-bu-7-sk023"
+  },
+  {
+    "id": "pli-tv-bi-7-sk024-pli-tv-bu-7-sk024",
+    "ruleId": "pli-tv-bi-7-sk024",
+    "parallelRuleId": "pli-tv-bu-7-sk024"
+  },
+  {
+    "id": "pli-tv-bi-7-sk025-pli-tv-bu-7-sk025",
+    "ruleId": "pli-tv-bi-7-sk025",
+    "parallelRuleId": "pli-tv-bu-7-sk025"
+  },
+  {
+    "id": "pli-tv-bi-7-sk026-pli-tv-bu-7-sk026",
+    "ruleId": "pli-tv-bi-7-sk026",
+    "parallelRuleId": "pli-tv-bu-7-sk026"
+  },
+  {
+    "id": "pli-tv-bi-7-sk027-pli-tv-bu-7-sk027",
+    "ruleId": "pli-tv-bi-7-sk027",
+    "parallelRuleId": "pli-tv-bu-7-sk027"
+  },
+  {
+    "id": "pli-tv-bi-7-sk028-pli-tv-bu-7-sk028",
+    "ruleId": "pli-tv-bi-7-sk028",
+    "parallelRuleId": "pli-tv-bu-7-sk028"
+  },
+  {
+    "id": "pli-tv-bi-7-sk029-pli-tv-bu-7-sk029",
+    "ruleId": "pli-tv-bi-7-sk029",
+    "parallelRuleId": "pli-tv-bu-7-sk029"
+  },
+  {
+    "id": "pli-tv-bi-7-sk027-pli-tv-bi-7-sk030",
+    "ruleId": "pli-tv-bi-7-sk030",
+    "parallelRuleId": "pli-tv-bi-7-sk027"
+  },
+  {
+    "id": "pli-tv-bi-7-sk030-pli-tv-bu-7-sk030",
+    "ruleId": "pli-tv-bi-7-sk030",
+    "parallelRuleId": "pli-tv-bu-7-sk030"
+  },
+  {
+    "id": "pli-tv-bi-7-sk030-pli-tv-bu-7-sk027",
+    "ruleId": "pli-tv-bi-7-sk030",
+    "parallelRuleId": "pli-tv-bu-7-sk027"
+  },
+  {
+    "id": "pli-tv-bi-7-sk031-pli-tv-bu-7-sk031",
+    "ruleId": "pli-tv-bi-7-sk031",
+    "parallelRuleId": "pli-tv-bu-7-sk031"
+  },
+  {
+    "id": "pli-tv-bi-7-sk032-pli-tv-bu-7-sk032",
+    "ruleId": "pli-tv-bi-7-sk032",
+    "parallelRuleId": "pli-tv-bu-7-sk032"
+  },
+  {
+    "id": "pli-tv-bi-7-sk033-pli-tv-bu-7-sk033",
+    "ruleId": "pli-tv-bi-7-sk033",
+    "parallelRuleId": "pli-tv-bu-7-sk033"
+  },
+  {
+    "id": "pli-tv-bi-7-sk034-pli-tv-bu-7-sk034",
+    "ruleId": "pli-tv-bi-7-sk034",
+    "parallelRuleId": "pli-tv-bu-7-sk034"
+  },
+  {
+    "id": "pli-tv-bi-7-sk035-pli-tv-bu-7-sk035",
+    "ruleId": "pli-tv-bi-7-sk035",
+    "parallelRuleId": "pli-tv-bu-7-sk035"
+  },
+  {
+    "id": "pli-tv-bi-7-sk036-pli-tv-bu-7-sk036",
+    "ruleId": "pli-tv-bi-7-sk036",
+    "parallelRuleId": "pli-tv-bu-7-sk036"
+  },
+  {
+    "id": "pli-tv-bi-7-sk037-pli-tv-bu-7-sk037",
+    "ruleId": "pli-tv-bi-7-sk037",
+    "parallelRuleId": "pli-tv-bu-7-sk037"
+  },
+  {
+    "id": "pli-tv-bi-7-sk038-pli-tv-bu-7-sk038",
+    "ruleId": "pli-tv-bi-7-sk038",
+    "parallelRuleId": "pli-tv-bu-7-sk038"
+  },
+  {
+    "id": "pli-tv-bi-7-sk039-pli-tv-bu-7-sk039",
+    "ruleId": "pli-tv-bi-7-sk039",
+    "parallelRuleId": "pli-tv-bu-7-sk039"
+  },
+  {
+    "id": "pli-tv-bi-7-sk040-pli-tv-bu-7-sk040",
+    "ruleId": "pli-tv-bi-7-sk040",
+    "parallelRuleId": "pli-tv-bu-7-sk040"
+  },
+  {
+    "id": "pli-tv-bi-7-sk041-pli-tv-bu-7-sk041",
+    "ruleId": "pli-tv-bi-7-sk041",
+    "parallelRuleId": "pli-tv-bu-7-sk041"
+  },
+  {
+    "id": "pli-tv-bi-7-sk042-pli-tv-bu-7-sk042",
+    "ruleId": "pli-tv-bi-7-sk042",
+    "parallelRuleId": "pli-tv-bu-7-sk042"
+  },
+  {
+    "id": "pli-tv-bi-7-sk043-pli-tv-bu-7-sk043",
+    "ruleId": "pli-tv-bi-7-sk043",
+    "parallelRuleId": "pli-tv-bu-7-sk043"
+  },
+  {
+    "id": "pli-tv-bi-7-sk044-pli-tv-bu-7-sk044",
+    "ruleId": "pli-tv-bi-7-sk044",
+    "parallelRuleId": "pli-tv-bu-7-sk044"
+  },
+  {
+    "id": "pli-tv-bi-7-sk045-pli-tv-bu-7-sk045",
+    "ruleId": "pli-tv-bi-7-sk045",
+    "parallelRuleId": "pli-tv-bu-7-sk045"
+  },
+  {
+    "id": "pli-tv-bi-7-sk046-pli-tv-bu-7-sk046",
+    "ruleId": "pli-tv-bi-7-sk046",
+    "parallelRuleId": "pli-tv-bu-7-sk046"
+  },
+  {
+    "id": "pli-tv-bi-7-sk047-pli-tv-bu-7-sk047",
+    "ruleId": "pli-tv-bi-7-sk047",
+    "parallelRuleId": "pli-tv-bu-7-sk047"
+  },
+  {
+    "id": "pli-tv-bi-7-sk048-pli-tv-bu-7-sk048",
+    "ruleId": "pli-tv-bi-7-sk048",
+    "parallelRuleId": "pli-tv-bu-7-sk048"
+  },
+  {
+    "id": "pli-tv-bi-7-sk049-pli-tv-bu-7-sk049",
+    "ruleId": "pli-tv-bi-7-sk049",
+    "parallelRuleId": "pli-tv-bu-7-sk049"
+  },
+  {
+    "id": "pli-tv-bi-7-sk050-pli-tv-bu-7-sk050",
+    "ruleId": "pli-tv-bi-7-sk050",
+    "parallelRuleId": "pli-tv-bu-7-sk050"
+  },
+  {
+    "id": "pli-tv-bi-7-sk051-pli-tv-bu-7-sk051",
+    "ruleId": "pli-tv-bi-7-sk051",
+    "parallelRuleId": "pli-tv-bu-7-sk051"
+  },
+  {
+    "id": "pli-tv-bi-7-sk052-pli-tv-bu-7-sk052",
+    "ruleId": "pli-tv-bi-7-sk052",
+    "parallelRuleId": "pli-tv-bu-7-sk052"
+  },
+  {
+    "id": "pli-tv-bi-7-sk053-pli-tv-bu-7-sk053",
+    "ruleId": "pli-tv-bi-7-sk053",
+    "parallelRuleId": "pli-tv-bu-7-sk053"
+  },
+  {
+    "id": "pli-tv-bi-7-sk054-pli-tv-bu-7-sk054",
+    "ruleId": "pli-tv-bi-7-sk054",
+    "parallelRuleId": "pli-tv-bu-7-sk054"
+  },
+  {
+    "id": "pli-tv-bi-7-sk055-pli-tv-bu-7-sk055",
+    "ruleId": "pli-tv-bi-7-sk055",
+    "parallelRuleId": "pli-tv-bu-7-sk055"
+  },
+  {
+    "id": "pli-tv-bi-7-sk056-pli-tv-bu-7-sk056",
+    "ruleId": "pli-tv-bi-7-sk056",
+    "parallelRuleId": "pli-tv-bu-7-sk056"
+  },
+  {
+    "id": "pli-tv-bi-7-sk057-pli-tv-bu-7-sk057",
+    "ruleId": "pli-tv-bi-7-sk057",
+    "parallelRuleId": "pli-tv-bu-7-sk057"
+  },
+  {
+    "id": "pli-tv-bi-7-sk058-pli-tv-bu-7-sk058",
+    "ruleId": "pli-tv-bi-7-sk058",
+    "parallelRuleId": "pli-tv-bu-7-sk058"
+  },
+  {
+    "id": "pli-tv-bi-7-sk059-pli-tv-bu-7-sk059",
+    "ruleId": "pli-tv-bi-7-sk059",
+    "parallelRuleId": "pli-tv-bu-7-sk059"
+  },
+  {
+    "id": "pli-tv-bi-7-sk060-pli-tv-bu-7-sk060",
+    "ruleId": "pli-tv-bi-7-sk060",
+    "parallelRuleId": "pli-tv-bu-7-sk060"
+  },
+  {
+    "id": "pli-tv-bi-7-sk061-pli-tv-bu-7-sk061",
+    "ruleId": "pli-tv-bi-7-sk061",
+    "parallelRuleId": "pli-tv-bu-7-sk061"
+  },
+  {
+    "id": "pli-tv-bi-7-sk062-pli-tv-bu-7-sk062",
+    "ruleId": "pli-tv-bi-7-sk062",
+    "parallelRuleId": "pli-tv-bu-7-sk062"
+  },
+  {
+    "id": "pli-tv-bi-7-sk063-pli-tv-bu-7-sk063",
+    "ruleId": "pli-tv-bi-7-sk063",
+    "parallelRuleId": "pli-tv-bu-7-sk063"
+  },
+  {
+    "id": "pli-tv-bi-7-sk064-pli-tv-bu-7-sk064",
+    "ruleId": "pli-tv-bi-7-sk064",
+    "parallelRuleId": "pli-tv-bu-7-sk064"
+  },
+  {
+    "id": "pli-tv-bi-7-sk065-pli-tv-bu-7-sk065",
+    "ruleId": "pli-tv-bi-7-sk065",
+    "parallelRuleId": "pli-tv-bu-7-sk065"
+  },
+  {
+    "id": "pli-tv-bi-7-sk066-pli-tv-bu-7-sk066",
+    "ruleId": "pli-tv-bi-7-sk066",
+    "parallelRuleId": "pli-tv-bu-7-sk066"
+  },
+  {
+    "id": "pli-tv-bi-7-sk067-pli-tv-bu-7-sk067",
+    "ruleId": "pli-tv-bi-7-sk067",
+    "parallelRuleId": "pli-tv-bu-7-sk067"
+  },
+  {
+    "id": "pli-tv-bi-7-sk068-pli-tv-bu-7-sk068",
+    "ruleId": "pli-tv-bi-7-sk068",
+    "parallelRuleId": "pli-tv-bu-7-sk068"
+  },
+  {
+    "id": "pli-tv-bi-7-sk069-pli-tv-bu-7-sk069",
+    "ruleId": "pli-tv-bi-7-sk069",
+    "parallelRuleId": "pli-tv-bu-7-sk069"
+  },
+  {
+    "id": "pli-tv-bi-7-sk070-pli-tv-bu-7-sk070",
+    "ruleId": "pli-tv-bi-7-sk070",
+    "parallelRuleId": "pli-tv-bu-7-sk070"
+  },
+  {
+    "id": "pli-tv-bi-7-sk071-pli-tv-bu-7-sk071",
+    "ruleId": "pli-tv-bi-7-sk071",
+    "parallelRuleId": "pli-tv-bu-7-sk071"
+  },
+  {
+    "id": "pli-tv-bi-7-sk072-pli-tv-bu-7-sk072",
+    "ruleId": "pli-tv-bi-7-sk072",
+    "parallelRuleId": "pli-tv-bu-7-sk072"
+  },
+  {
+    "id": "pli-tv-bi-7-sk073-pli-tv-bu-7-sk073",
+    "ruleId": "pli-tv-bi-7-sk073",
+    "parallelRuleId": "pli-tv-bu-7-sk073"
+  },
+  {
+    "id": "pli-tv-bi-7-sk074-pli-tv-bu-7-sk074",
+    "ruleId": "pli-tv-bi-7-sk074",
+    "parallelRuleId": "pli-tv-bu-7-sk074"
+  },
+  {
+    "id": "pli-tv-bi-7-sk075-pli-tv-bu-7-sk075",
+    "ruleId": "pli-tv-bi-7-sk075",
+    "parallelRuleId": "pli-tv-bu-7-sk075"
+  },
+  {
+    "id": "pli-tv-bi-8-as001-pli-tv-bu-8-as001",
+    "ruleId": "pli-tv-bi-8-as001",
+    "parallelRuleId": "pli-tv-bu-8-as001"
+  },
+  {
+    "id": "pli-tv-bi-8-as002-pli-tv-bu-8-as002",
+    "ruleId": "pli-tv-bi-8-as002",
+    "parallelRuleId": "pli-tv-bu-8-as002"
+  },
+  {
+    "id": "pli-tv-bi-8-as003-pli-tv-bu-8-as003",
+    "ruleId": "pli-tv-bi-8-as003",
+    "parallelRuleId": "pli-tv-bu-8-as003"
+  },
+  {
+    "id": "pli-tv-bi-8-as004-pli-tv-bu-8-as004",
+    "ruleId": "pli-tv-bi-8-as004",
+    "parallelRuleId": "pli-tv-bu-8-as004"
+  },
+  {
+    "id": "pli-tv-bi-8-as005-pli-tv-bu-8-as005",
+    "ruleId": "pli-tv-bi-8-as005",
+    "parallelRuleId": "pli-tv-bu-8-as005"
+  },
+  {
+    "id": "pli-tv-bi-8-as006-pli-tv-bu-8-as006",
+    "ruleId": "pli-tv-bi-8-as006",
+    "parallelRuleId": "pli-tv-bu-8-as006"
+  },
+  {
+    "id": "pli-tv-bi-8-as007-pli-tv-bu-8-as007",
+    "ruleId": "pli-tv-bi-8-as007",
+    "parallelRuleId": "pli-tv-bu-8-as007"
+  }
+]

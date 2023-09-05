@@ -1,20 +1,17 @@
-{
-  "data": [
-    {
-      "id": "001-brahmali",
-      "name": "brahmali",
-      "displayName": "Ajahn Brahmali"
-    },
-    {
-      "id": "002-thissaro",
-      "name": "thanissaro",
-      "displayName": "Ṭhānissaro Bhikkhu"
-    },
-    {
-      "id": "003-arindama",
-      "name": "arindama",
-      "displayName": "Samaneri Arindama"
-    }
-  ]
-}
-
+[
+  {
+    "id": "001-brahmali",
+    "name": "brahmali",
+    "displayName": "Ajahn Brahmali"
+  },
+  {
+    "id": "002-thissaro",
+    "name": "thanissaro",
+    "displayName": "Ṭhānissaro Bhikkhu"
+  },
+  {
+    "id": "003-arindama",
+    "name": "arindama",
+    "displayName": "Samaneri Arindama"
+  }
+]

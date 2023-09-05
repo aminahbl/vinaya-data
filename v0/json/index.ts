@@ -15,21 +15,21 @@ import pliTvPmBiTranEsArindama from "./db/pli_tv_pm/bi/trans_es_arindama.json";
 
 // This is only ever used to populate the database so data size isn't a concern. Probably.
 const data = {
-  rootLanguages: rootLanguages.data,
-  traditions: traditions.data,
-  ruleClasses: ruleClasses.data,
-  ruleSets: ruleSets.data,
-  translationLanguages: translationLanguages.data,
-  translators: translators.data,
-  parallels: parallels.data,
+  rootLanguages,
+  traditions,
+  ruleClasses,
+  ruleSets,
+  translationLanguages,
+  translators,
+  parallels,
   translations: {
-    ...pliTvPmBiTranEnBrahmali.data,
-    ...pliTvPmBiTranEnThanissaro.data,
-    ...pliTvPmBiTranEsArindama.data,
+    ...pliTvPmBiTranEnBrahmali,
+    ...pliTvPmBiTranEnThanissaro,
+    ...pliTvPmBiTranEsArindama,
   },
   rules: {
-    ...pliTvPmBiRules.data,
-    ...pliTvPmBuRules.data,
+    ...pliTvPmBiRules,
+    ...pliTvPmBuRules,
   },
 };
 

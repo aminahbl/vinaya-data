@@ -1,20 +1,18 @@
-{
-  "data": [
-    {
-      "id": "bi",
-      "pli": "Bhikkhunī",
-      "lzh": "",
-      "san": "",
-      "pgd": "",
-      "xct": ""
-    },
-    {
-      "id": "bu",
-      "pli": "Bhikkhu",
-      "lzh": "",
-      "san": "",
-      "pgd": "",
-      "xct": ""
-    }
-  ]
-}
+[
+  {
+    "id": "bi",
+    "pli": "Bhikkhunī",
+    "lzh": "",
+    "san": "",
+    "pgd": "",
+    "xct": ""
+  },
+  {
+    "id": "bu",
+    "pli": "Bhikkhu",
+    "lzh": "",
+    "san": "",
+    "pgd": "",
+    "xct": ""
+  }
+]
