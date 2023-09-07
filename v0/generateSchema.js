@@ -231,3 +231,4 @@ fs.writeFileSync("./data/v0/schema.json", JSON.stringify(schema, null, 2));
 // const pmTables = createPmSchemas(pmTableList);
 // const pmTranslationsTables = createPmTranslationsSchemas(pmTableList);
 // const tables = [...staticSchemaItems, ...pmTables, ...pmTranslationsTables];
+
