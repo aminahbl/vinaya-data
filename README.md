@@ -26,7 +26,7 @@ Data updates can be push to the database with:
 bun push-data
 ```
 
-If no flag is passed, all tables will be updatd. To update specific tables add properties listed in the `data` object in `src/index.ts`:
+If no flag is passed, all tables will be updatd. To update specific tables pass one or more property name given in the `updateFns` object in `db/updateFns.ts` as arguments:
 
 ```sh
 bun push-data rootLanguages translationLanguages

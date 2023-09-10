@@ -8,10 +8,6 @@
 # testing
 /coverage
 
-# next.js
-/.next/
-/out/
-
 # production
 /build
 
@@ -36,8 +32,6 @@ next-env.d.ts
 
 
 .env
-
-data-to-xata.ts
 
 # Local Netlify folder
 .netlify

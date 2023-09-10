@@ -1,22 +1,22 @@
 [
   {
     "id": "pli",
-    "name": "Pali"
+    "language": "Pali"
   },
   {
     "id": "lzh",
-    "name": "Chinese"
+    "language": "Chinese"
   },
   {
     "id": "san",
-    "name": "Sanskrit"
+    "language": "Sanskrit"
   },
   {
     "id": "pgd",
-    "name": "Prakrit"
+    "language": "Prakrit"
   },
   {
     "id": "xct",
-    "name": "Tibetan"
+    "language": "Tibetan"
   }
 ]
