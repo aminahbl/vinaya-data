@@ -1,0 +1,16 @@
+{
+  "id": "mig_cj4adebv8qvm0v9qcml0",
+  "parentID": "mig_cj4adeeldv7f99t8ui1g",
+  "checksum": "1:0a41332b2ccbe2c759b094dd2d3fbc4c082a13609c7b31beb1d3e1ef998f0066",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "pi",
+          "type": "string"
+        },
+        "table": "biRules"
+      }
+    }
+  ]
+}

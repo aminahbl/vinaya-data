@@ -1,0 +1,14 @@
+{
+  "id": "mig_cj7pd3bq0oagk19nhqag",
+  "parentID": "mig_cj7pcvqnjdnimo8p06o0",
+  "checksum": "1:4ed3173ec42899324039017d56b37134e19a03df2284b3a0e183c97b50c2aa18",
+  "operations": [
+    {
+      "renameColumn": {
+        "newName": "title",
+        "oldName": "name",
+        "table": "pli_tv_pm_categories"
+      }
+    }
+  ]
+}

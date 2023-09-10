@@ -1,0 +1,12 @@
+{
+  "id": "mig_cj7qvsbq0oagk19ni0f0",
+  "parentID": "mig_cj7qvmrq0oagk19ni0e0",
+  "checksum": "1:344d45b6a38fafd8a7185141a6bb2be391d56a814d6733b54f00c41e1b4c4a19",
+  "operations": [
+    {
+      "removeTable": {
+        "table": "pli_tv_pm_bi_en_brahmali"
+      }
+    }
+  ]
+}

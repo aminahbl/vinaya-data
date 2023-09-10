@@ -1,0 +1,12 @@
+{
+  "id": "mig_cjquel5g3n39u4q62c4g",
+  "parentID": "mig_cjqueioiecujsq34nhog",
+  "checksum": "1:9e939150a0e6bb4245001e5a61d3458a32022393fe7e2475b38447f2bc190a50",
+  "operations": [
+    {
+      "removeTable": {
+        "table": "translators"
+      }
+    }
+  ]
+}

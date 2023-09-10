@@ -1,0 +1,12 @@
+{
+  "id": "mig_cj7q42bq0oagk19nhtog",
+  "parentID": "mig_cj7pmk2njdnimo8p086g",
+  "checksum": "1:ca2a48f5a6bb3d9ee6bddf623785605165c9c2a45cf3c3f45456b707d20ab658",
+  "operations": [
+    {
+      "addTable": {
+        "table": "pli_tv_pm_translations"
+      }
+    }
+  ]
+}

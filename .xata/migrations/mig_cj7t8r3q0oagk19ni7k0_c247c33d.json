@@ -1,0 +1,64 @@
+{
+  "id": "mig_cj7t8r3q0oagk19ni7k0",
+  "parentID": "mig_cj7rp8anjdnimo8p0gh0",
+  "checksum": "1:c247c33da35632049a920852605b1590fbdd2acb1f7efd32bf3382c6685ac6f1",
+  "operations": [
+    {
+      "removeColumn": {
+        "column": "language",
+        "table": "pli_tv_pm_translations"
+      }
+    },
+    {
+      "removeColumn": {
+        "column": "code",
+        "table": "languages"
+      }
+    },
+    {
+      "renameTable": {
+        "newName": "pli_tv_pm_bi_rules",
+        "oldName": "pli_tv_pm_bi"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "categoryId",
+          "type": "string"
+        },
+        "table": "pli_tv_pm_categories"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "language",
+          "type": "link",
+          "link": {
+            "table": "languages"
+          }
+        },
+        "table": "pli_tv_pm_translations"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "displayName",
+          "type": "string"
+        },
+        "table": "translators"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "language",
+          "type": "string"
+        },
+        "table": "languages"
+      }
+    }
+  ]
+}

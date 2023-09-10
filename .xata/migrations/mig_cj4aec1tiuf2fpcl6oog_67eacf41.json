@@ -1,0 +1,13 @@
+{
+  "id": "mig_cj4aec1tiuf2fpcl6oog",
+  "parentID": "mig_cj4ae8uldv7f99t8ui2g",
+  "checksum": "1:67eacf41f3de3a7a0cd3e860970a2bbb3655a694be7f65097361853e0cfef630",
+  "operations": [
+    {
+      "removeColumn": {
+        "column": "enThanissaro",
+        "table": "biRules"
+      }
+    }
+  ]
+}

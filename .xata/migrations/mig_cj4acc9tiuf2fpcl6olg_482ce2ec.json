@@ -1,0 +1,16 @@
+{
+  "id": "mig_cj4acc9tiuf2fpcl6olg",
+  "parentID": "mig_cj4accbv8qvm0v9qcmk0",
+  "checksum": "1:482ce2ec7fd29120fadff2c289704170ef55f2155990241873b9084a80b8d62d",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "enThanissaro",
+          "type": "string"
+        },
+        "table": "biRules"
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "mig_cjquemgiecujsq34nhpg",
+  "parentID": "mig_cjquel5g3n39u4q62c4g",
+  "checksum": "1:04ac2127493c0a7da5152eaa7dc6c5ef233f817821ade2a597b88da2178afe55",
+  "operations": [
+    {
+      "removeTable": {
+        "table": "pli_tv_pm_bi_rules"
+      }
+    }
+  ]
+}

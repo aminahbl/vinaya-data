@@ -1,0 +1,20 @@
+{
+  "id": "mig_cj7qbhjq0oagk19nhv50",
+  "parentID": "mig_cj7qa23hdorpci59vsa0",
+  "checksum": "1:a6d29cbdb4314eade2d269ac78bb873e7f097d2ab4f8e6bf17647bb11873a820",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "language",
+          "type": "link",
+          "link": {
+            "table": "languages"
+          },
+          "unique": true
+        },
+        "table": "pli_tv_pm_translations"
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "mig_cj4ae8uldv7f99t8ui2g",
+  "parentID": "mig_cj4adehtiuf2fpcl6ong",
+  "checksum": "1:2bdeba0f3ec5ab6a1b8a9f8a0e11609eac2edf6369e094a3f0fc0ce69d268cea",
+  "operations": [
+    {
+      "removeColumn": {
+        "column": "enBrahmali",
+        "table": "biRules"
+      }
+    }
+  ]
+}

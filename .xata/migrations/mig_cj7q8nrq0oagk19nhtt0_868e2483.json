@@ -1,0 +1,19 @@
+{
+  "id": "mig_cj7q8nrq0oagk19nhtt0",
+  "parentID": "mig_cj7q7uinjdnimo8p0970",
+  "checksum": "1:868e2483ce278ce19514c94ec8da37ba8c4f4f3a53bf30b90bd81a9711374d9a",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "translatoion",
+          "type": "link",
+          "link": {
+            "table": "pli_tv_pm_bi_en_brahmali"
+          }
+        },
+        "table": "pli_tv_pm_translations"
+      }
+    }
+  ]
+}

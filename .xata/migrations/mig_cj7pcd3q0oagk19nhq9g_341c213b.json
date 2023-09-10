@@ -1,0 +1,13 @@
+{
+  "id": "mig_cj7pcd3q0oagk19nhq9g",
+  "parentID": "mig_cj6ksnbhdorpci59sgag",
+  "checksum": "1:341c213b98d4f0a97f8518e6004d1fe05ea84c8fdc07cb2961bb46ce3011d9c0",
+  "operations": [
+    {
+      "renameTable": {
+        "newName": "pli_tv_pm_bi",
+        "oldName": "rules_bi"
+      }
+    }
+  ]
+}

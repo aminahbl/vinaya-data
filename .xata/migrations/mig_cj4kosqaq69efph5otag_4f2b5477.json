@@ -1,0 +1,12 @@
+{
+  "id": "mig_cj4kosqaq69efph5otag",
+  "parentID": "mig_cj4konsnuko00n5to93g",
+  "checksum": "1:4f2b5477a905e71b4a993b30ce21c361a6bdc60a67914a7dc0d23f5be816c262",
+  "operations": [
+    {
+      "addTable": {
+        "table": "bi_rules"
+      }
+    }
+  ]
+}

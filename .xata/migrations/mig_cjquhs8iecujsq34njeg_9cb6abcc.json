@@ -1,0 +1,313 @@
+{
+  "id": "mig_cjquhs8iecujsq34njeg",
+  "parentID": "mig_cjquenoiecujsq34nhqg",
+  "checksum": "1:9cb6abcc82e7f74392d61bd2d9439e1c84d3b92e2a9e4de4cb47a466edf3b19a",
+  "operations": [
+    {
+      "addTable": {
+        "table": "lookup_root_language"
+      }
+    },
+    {
+      "addTable": {
+        "table": "lookup_tradition"
+      }
+    },
+    {
+      "addTable": {
+        "table": "lookup_rule_class"
+      }
+    },
+    {
+      "addTable": {
+        "table": "lookup_rule_set"
+      }
+    },
+    {
+      "addTable": {
+        "table": "lookup_translation_language"
+      }
+    },
+    {
+      "addTable": {
+        "table": "translators"
+      }
+    },
+    {
+      "addTable": {
+        "table": "rule_parallels"
+      }
+    },
+    {
+      "addTable": {
+        "table": "rule_translations"
+      }
+    },
+    {
+      "addTable": {
+        "table": "rules"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "language",
+          "type": "string"
+        },
+        "table": "lookup_root_language"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "name",
+          "type": "string"
+        },
+        "table": "lookup_tradition"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "title",
+          "type": "string"
+        },
+        "table": "lookup_rule_class"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "sortId",
+          "type": "int"
+        },
+        "table": "lookup_rule_class"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "title",
+          "type": "string"
+        },
+        "table": "lookup_rule_set"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "language",
+          "type": "string"
+        },
+        "table": "lookup_translation_language"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "localName",
+          "type": "string"
+        },
+        "table": "lookup_translation_language"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "name",
+          "type": "string"
+        },
+        "table": "translators"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "displayName",
+          "type": "string"
+        },
+        "table": "translators"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "ruleId",
+          "type": "link",
+          "link": {
+            "table": "rules"
+          }
+        },
+        "table": "rule_parallels"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "parallelRuleId",
+          "type": "link",
+          "link": {
+            "table": "rules"
+          }
+        },
+        "table": "rule_parallels"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "ruleId",
+          "type": "link",
+          "link": {
+            "table": "rules"
+          }
+        },
+        "table": "rule_translations"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "language",
+          "type": "link",
+          "link": {
+            "table": "lookup_translation_language"
+          }
+        },
+        "table": "rule_translations"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "translator",
+          "type": "link",
+          "link": {
+            "table": "translators"
+          }
+        },
+        "table": "rule_translations"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "translation",
+          "type": "text"
+        },
+        "table": "rule_translations"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "rootLanguage",
+          "type": "link",
+          "link": {
+            "table": "lookup_root_language"
+          }
+        },
+        "table": "rules"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "tradition",
+          "type": "link",
+          "link": {
+            "table": "lookup_tradition"
+          }
+        },
+        "table": "rules"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "set",
+          "type": "link",
+          "link": {
+            "table": "lookup_rule_set"
+          }
+        },
+        "table": "rules"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "class",
+          "type": "link",
+          "link": {
+            "table": "lookup_rule_class"
+          }
+        },
+        "table": "rules"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "title",
+          "type": "string"
+        },
+        "table": "rules"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "rule",
+          "type": "text"
+        },
+        "table": "rules"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "imgId",
+          "type": "string"
+        },
+        "table": "rules"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "nextRuleId",
+          "type": "link",
+          "link": {
+            "table": "rules"
+          }
+        },
+        "table": "rules"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "prevRuleId",
+          "type": "link",
+          "link": {
+            "table": "rules"
+          }
+        },
+        "table": "rules"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "crossSetRule",
+          "type": "link",
+          "link": {
+            "table": "rules"
+          }
+        },
+        "table": "rules"
+      }
+    }
+  ]
+}

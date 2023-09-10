@@ -1,0 +1,11 @@
+{
+  "id": "mig_cj4acbptiuf2fpcl6ohg",
+  "checksum": "1:0ccf10f8b56d2e3557efa3e8343bd7ef30e9e3c3160306009e69d7639f31a50d",
+  "operations": [
+    {
+      "addTable": {
+        "table": "biRules"
+      }
+    }
+  ]
+}

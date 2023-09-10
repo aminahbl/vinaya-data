@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://owili-iodq2k.eu-central-1.xata.sh/db/vinaya",
+  "codegen": {
+    "output": "lib/xata.codegen.ts"
+  }
+}

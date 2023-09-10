@@ -1,0 +1,13 @@
+{
+  "id": "mig_cj7qa23hdorpci59vsa0",
+  "parentID": "mig_cj7q8nrq0oagk19nhtt0",
+  "checksum": "1:0df54eb9da4405a9b9c9b2414e0e596f8022481d737598dcd3148567293d7c85",
+  "operations": [
+    {
+      "removeColumn": {
+        "column": "translatoion",
+        "table": "pli_tv_pm_translations"
+      }
+    }
+  ]
+}

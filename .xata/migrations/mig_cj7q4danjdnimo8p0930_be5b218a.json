@@ -1,0 +1,12 @@
+{
+  "id": "mig_cj7q4danjdnimo8p0930",
+  "parentID": "mig_cj7q47rq0oagk19nhtq0",
+  "checksum": "1:be5b218a15b55523ac08c210d544eeab3acceb97a7eae8c6127f88f4f58f7102",
+  "operations": [
+    {
+      "addTable": {
+        "table": "languages"
+      }
+    }
+  ]
+}

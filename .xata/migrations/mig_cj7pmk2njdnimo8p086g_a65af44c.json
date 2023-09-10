@@ -1,0 +1,16 @@
+{
+  "id": "mig_cj7pmk2njdnimo8p086g",
+  "parentID": "mig_cj7pm22njdnimo8p085g",
+  "checksum": "1:a65af44cbb09e6f704f33ccd242bce0b0c183f448e2e5f6b645db520b376fba4",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "translation",
+          "type": "text"
+        },
+        "table": "pli_tv_pm_bi_en_brahmali"
+      }
+    }
+  ]
+}

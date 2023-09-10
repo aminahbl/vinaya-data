@@ -1,0 +1,13 @@
+{
+  "id": "mig_cj4kt6pucgjn2c2j5ne0",
+  "parentID": "mig_cj4kosqaq69efph5otag",
+  "checksum": "1:eb0670697fee047cc7eeef5302f7e53fc1abd06127601c787e1f7ad606a47d06",
+  "operations": [
+    {
+      "renameTable": {
+        "newName": "rules_bi",
+        "oldName": "bi_rules"
+      }
+    }
+  ]
+}

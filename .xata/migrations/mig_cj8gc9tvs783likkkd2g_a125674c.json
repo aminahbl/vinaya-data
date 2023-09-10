@@ -1,0 +1,31 @@
+{
+  "id": "mig_cj8gc9tvs783likkkd2g",
+  "parentID": "mig_cj7u9crq0oagk19nib2g",
+  "checksum": "1:a125674cbebb57dc1e56ab221764b0a16224fcf8707e3f0e7ccddd865e2ebd83",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "nextRuleId",
+          "type": "link",
+          "link": {
+            "table": "pli_tv_pm_bi_rules"
+          }
+        },
+        "table": "pli_tv_pm_bi_rules"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "prevRuleId",
+          "type": "link",
+          "link": {
+            "table": "pli_tv_pm_bi_rules"
+          }
+        },
+        "table": "pli_tv_pm_bi_rules"
+      }
+    }
+  ]
+}

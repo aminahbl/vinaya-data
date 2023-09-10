@@ -1,0 +1,13 @@
+{
+  "id": "mig_cj7q6m2njdnimo8p0960",
+  "parentID": "mig_cj7q6banjdnimo8p0950",
+  "checksum": "1:b90c3c07651a7cdddf6013a12cbd09784cd2040947222f8a1bdb38adb7dc901d",
+  "operations": [
+    {
+      "removeColumn": {
+        "column": "languages",
+        "table": "translators"
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "mig_cj4konsnuko00n5to93g",
+  "parentID": "mig_cj4kkbhucgjn2c2j5na0",
+  "checksum": "1:9dacf7b85ab0bad3f4f9e529fd243474b20729e63f6573b60761e2e880fefe1e",
+  "operations": [
+    {
+      "removeTable": {
+        "table": "bi_rules"
+      }
+    }
+  ]
+}

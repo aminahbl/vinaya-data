@@ -1,0 +1,18 @@
+{
+  "name": "vinaya-data",
+  "version": "0.1.0",
+  "scripts": {
+    "schema-gen": "bun db/generateSchema.js",
+    "update-schema": "bun db/generateSchema.js && xata schema upload db/schema.json",
+    "push-data": "bun db/data-to-xata.ts",
+    "test": "bun utils/test-bunny.ts"
+  },
+  "bin": {},
+  "dependencies": {
+    "@xata.io/client": "^0.25.3",
+    "eslint": "8.46.0"
+  },
+  "devDependencies": {
+    "bun-types": "^1.0.1"
+  }
+}

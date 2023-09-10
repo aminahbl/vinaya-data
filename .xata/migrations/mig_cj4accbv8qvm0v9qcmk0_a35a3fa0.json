@@ -1,0 +1,16 @@
+{
+  "id": "mig_cj4accbv8qvm0v9qcmk0",
+  "parentID": "mig_cj4acc1tiuf2fpcl6okg",
+  "checksum": "1:a35a3fa0a0e952970f92805a3043e29b83a8e5e42945b32c6e13d679c8fe137d",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "enBrahmali",
+          "type": "string"
+        },
+        "table": "biRules"
+      }
+    }
+  ]
+}

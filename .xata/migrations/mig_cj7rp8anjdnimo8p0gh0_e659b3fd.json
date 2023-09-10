@@ -1,0 +1,14 @@
+{
+  "id": "mig_cj7rp8anjdnimo8p0gh0",
+  "parentID": "mig_cj7r0kinjdnimo8p0cq0",
+  "checksum": "1:e659b3fd42e181850a0a92421d81d0d6df4b0a7c021dc1f0df45ba6ea6667b7a",
+  "operations": [
+    {
+      "renameColumn": {
+        "newName": "ruleId",
+        "oldName": "rule_id",
+        "table": "pli_tv_pm_translations"
+      }
+    }
+  ]
+}

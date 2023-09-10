@@ -1,0 +1,19 @@
+{
+  "id": "mig_cj4mtt4nuko00n5toka0",
+  "parentID": "mig_cj4mticnuko00n5tok90",
+  "checksum": "1:73ac96f0bb743aed61d60d434e51566e0a428bca1dd8a6da275a8976a416bd16",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "category",
+          "type": "link",
+          "link": {
+            "table": "categories"
+          }
+        },
+        "table": "rules_bi"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "mig_cj7qtbqnjdnimo8p0c20",
+  "parentID": "mig_cj7qbnbhdorpci59vse0",
+  "checksum": "1:ef3e315cd5c3a622d9c2cbb8a0024838e488cefb1753ac805982d59c72717de6",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "code",
+          "type": "string",
+          "unique": true
+        },
+        "table": "languages"
+      }
+    }
+  ]
+}

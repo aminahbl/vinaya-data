@@ -1,0 +1,14 @@
+{
+  "id": "mig_cj6ksnbhdorpci59sgag",
+  "parentID": "mig_cj6ksi2njdnimo8orm8g",
+  "checksum": "1:41dd80bef9b9b4bd27a2c9d5fe74ab3beb3af928b6ca301450a3378fb9a426cc",
+  "operations": [
+    {
+      "renameColumn": {
+        "newName": "imgId",
+        "oldName": "imgUrl",
+        "table": "rules_bi"
+      }
+    }
+  ]
+}
